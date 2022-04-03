@@ -1,454 +1,492 @@
-ppl/6/5/eff14ade9437070e96edd35a856.html||Beaunre //|||||
-ppl/1/3/eff14adea333ba5e359ee96c831.html||K.c. //|||||
-ppl/e/e/eff14adea6f49de4ae74613e5ee.html|Roy|Roland /Roy/|||||
-ppl/8/f/eff14adea837835c5af325130f8.html|Bourdages|Fernande /Bourdages/|||||
-ppl/0/1/eff14adeaa13ed5ad7bb2d03110.html|Prud'Homme|Raphaëlle /Prud'Homme/|||||
-ppl/4/6/eff14adeadd24bc4aec6ce25064.html|Prudhomme|Nicolas /Prudhomme/|||||
-ppl/3/c/eff14adeb4b3145f62581c0c7c3.html|Prud'homme|Sophie (Marie) /Prud'homme/|1 MAR 1810|Saint-Luc, Huntingdon, Canada East (Quebec), Canada|19 JUL 1892|Saint-Constant, La Prairie, Quebec, Canada|
-ppl/f/f/eff14adeca94d0a0ed5bfbf39ff.html|Prud’homme|Marie-Josephe /Prud’homme/|14 SEP 1793|Montréal ; ; Qc ; Can||St Constant, Cte Laprairie, Quebec, Canada|
-ppl/2/5/eff14adecef1af8374e9b198c52.html|Prud’homme|Marie Catherine /Prud’homme/|11 OCT 1790|Montréal, , , Qc, Can,|2 SEP 1859|Notre Dame, Montreal, Quebec, Canada|
-ppl/4/3/eff14aded2b716b3897807c2034.html|Prud’homme|Marie-Josephe /Prud’homme/|6 APR 1796|Montréal, , , Qc, Can,|31 JUL 1796|Montréal (Basilique Notre-Dame), Quebec, Canada|
-ppl/d/a/eff14aded71468a33bb806609ad.html|Prud’homme|Antoine /Prud’homme/|ABT 1791|Montréal (Basilique Notre-Dame), Québec|||
-ppl/5/5/eff14adee2f530f3fb45c812d55.html|Prud’homme|Gervais /Prud’homme/|4 MAY 1797|Montréal (Basilique Notre-Dame), Québec|7 MAR 1886|Montréal (Basilique Notre-Dame), Quebec, Canada|
-ppl/8/2/eff14adee895c5e32e2521f3a28.html|Prud’homme|Nicolas /Prud’homme/|27 NOV 1798|Montréal, Quebec, Canada||St Isidore, Cte Napierville, Laprairie, Quebec, Canada|
-ppl/9/2/eff14adeecf10a87e382fddb729.html|Prud'homme|Marie Anne /Prud'homme/||Notre Dame, Montreal, Quebec, Canada|||
-ppl/8/a/eff14adef0148ae08a541fdea8.html|Prud'homme|Eustache (Marie) /Prud'homme/|26 NOV 1794|Notre Dame, Montreal, Quebec, Canada||Notre Dame de Graces, Montreal, Quebec, Canada|
-ppl/b/6/eff14adef4769e132457d49246b.html|Prud'homme|Marguerite /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||St Raphael, Ile Bizard, Cte Jacques Cartier, Quebec, Canada|
-ppl/6/9/eff14adef8310a9bc6a939e4796.html|Prud'homme|Michel (Marie) /Prud'homme/|7 JAN 1801|Notre Dame, Montreal, Quebec, Canada|||
-ppl/d/2/eff14adefbf7c8e1157f0866c2d.html|Prud'homme|Marie Helene /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/d/1/eff14adf00568d0a6f334a2421d.html|Prud'homme|Joseph (Marie) /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame de Graces, Montreal, Quebec, Canada|
-ppl/a/3/eff14adf04113cb058e63e1353a.html|Prud'homme|Helene (Marie) /Prud'homme/|20 SEP 1807|Notre Dame, Montreal, Quebec, Canada||St Constant, Cte Laprairie, Quebec, Canada|
-ppl/f/4/eff14adf1b395cb9f44e14654f.html|Prud'homme|Marie Elizabeth /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/7/6/eff14adf1f93e446aaa3e160067.html|Prud'homme|Marie Sophie /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/9/9/eff14adf24955ebfec6a480e99.html|Tremblay|Edouard /Tremblay/|JUL 1880|Quebec|||
-ppl/1/8/eff14adf2853d3c2699f8c5fa81.html|Tremblay|Regina /Tremblay/|1891|Qc|||
-ppl/b/f/eff14adf2f338b8397377f0d9fb.html|Tremblay|Edwidge /Tremblay/|8 APR 1883|Quebec|||
-ppl/9/c/eff14adf3397a2362956fb4fdc9.html|Tremblay|Marie Louise /Tremblay/|1 OCT 1888|Sherrington|||
-ppl/c/e/eff14adf37524c598f6f61887ec.html|Tremblay|Joseph /Tremblay/|ABT 1882|Quebec|||
-ppl/1/4/eff14adf3b17a718f6c2a4d5841.html|Tremblay|Arthur /Tremblay/|||||
-ppl/1/7/eff14adf3d94399f228b29b5971.html|Tremblay|Albert /Tremblay/|ABT 1916|Quebec|||
-ppl/9/c/eff14adf4156c2d24fa6e5361c9.html|Tremblay|Edouard /Tremblay/|30 MAR 1824|St-Philippe, Roussillon, Quebec, Canada|2 MAR 1914|Sherrington, Québec, Canada|
-ppl/1/b/eff14adf45b7bfb532cb033ffb1.html|Filion Felion|Justine /Filion Felion/|22 APR 1824|St-Constant, Roussillon, Quebec, Canada|6 APR 1891|St-Patrice, Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/5/f/eff14adf4ab3875be6fae34f4f5.html|Tremblay|Camille /Tremblay/|1848|Quebec, Canada|23 APR 1856||
-ppl/c/b/eff14adf4e76b89aa2ffb86a3bc.html|Tremblay|Marie Justine /Tremblay/|26 SEP 1846|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|9 JUL 1860|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/e/8/eff14adf52d16ae116e995d578e.html|Tremblay|Marie Delia /Tremblay/|9 MAR 1861|Sherrington, Laprairie-Napierville, Quebec, Canada|23 MAR 1862|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/c/0/eff14adf66d366f46f515071c0c.html|Tremblay|Edouard /Tremblay/|1844|St-Édouard, Les Jardins-de-Napierville, Quebec, Canada|12 JAN 1912|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/9/3/eff14adf6b34fd69026427d4339.html|Tremblay|Moise /Tremblay/|24 APR 1849|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|17 JUL 1870|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/4/f/eff14adf6f94f3bd966b696ff4.html|Tremblay|Paul /Tremblay/|30 SEP 1854|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|13 APR 1941|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/4/8/eff14adf73f299e764d86814784.html|Tremblay|Etienne /Tremblay/|23 FEB 1859|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|4 APR 1860|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/f/9/eff14adf7cb1f7e1e6c6085ac9f.html|Tremblay|Joseph Salomon /Tremblay/|30 OCT 1852|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|11 NOV 1927|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/0/e/eff14adf81135c01f68365412e0.html|Hebert|Celeste /Hebert/|6 JUN 1863|Scotia, Schenectady, New York, USA|1945||
-ppl/2/4/eff14adf84d73d9cb3057cd8c42.html|Nadeau|Salamire Sylvie /Nadeau/|3 APR 1844|St-Joseph-de-Beauce, Robert-Cliche, Quebec, Canada|1918|New Bedford, Bristol, Massachusetts, USA|
-ppl/b/9/eff14adf8893fcfbecb276519b.html|Tremblay|François Clovis /Tremblay/|25 DEC 1792|Notre-Dame-de-LaPrairie-de-la-Madeleine, La Prairie, Roussillon, Quebec, Canada|18 FEB 1857|St-Patrice, Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/d/8/eff14adf8cfbae0cf7ff74148d.html|Hamelin|Marie Marguerite /Hamelin/|ABT 1800|Québec, Canada|1843|Quebec, Canada|
-ppl/8/5/eff14adf90bfbaf2a55efc7f58.html|FILION FELLION|Pierre Marie /FILION FELLION/|1 FEB 1794|St-Philippe, Roussillon, Quebec, Canada|13 JUN 1857|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/6/7/eff14adf95b4aa0310505234776.html|ROY|Marie Louise /ROY/|1 JUN 1801|St-Constant, Roussillon, Quebec, Canada|4 MAR 1829|St Francois, Beauceville, Quebec, Canada|
-ppl/b/3/eff14adf9ab5be4f5f98f53283b.html|FILION FELLION|Theophile Peter /FILION FELLION/|7 OCT 1821|St-Constant, Roussillon, Quebec, Canada|ABT 1880|Malone, Franklin, New York, USA|
-ppl/2/7/eff14adf9e72a56c520613e1872.html|Fellion|Paul Jean Baptiste /Fellion/|16 MAY 1835|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|2 AUG 1861|Sherrington, Quebec, Canada|
-ppl/8/d/eff14adfa3779737fc5fa1431d8.html|Filion|Marie /Filion/|17 APR 1825|St-Constant, Roussillon, Quebec, Canada|7 AUG 1825|St-Constant, Roussillon, Quebec, Canada|
-ppl/5/7/eff14adfb6d7b2748f0ae204675.html|Fellion|Emilie Amelia Marie /Fellion/|9 APR 1839|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|23 NOV 1893|Malone, Franklin, New York, USA|
-ppl/5/9/eff14adfba97d983114d5517b95.html|FILION|Pierre Maxime /FILION/|25 AUG 1819|St-Constant, Roussillon, Quebec, Canada|||
-ppl/2/d/eff14adfbe53aaad41081a693d2.html|FILION|Flavie /FILION/|5 AUG 1820|St-Constant, Roussillon, Quebec, Canada|22 SEP 1821|St-Constant, Roussillon, Quebec, Canada|
-ppl/7/8/eff14adfc714deb159b1d51dd87.html|FILION|Flavie /FILION/|26 FEB 1823|St-Constant, Roussillon, Quebec, Canada|||
-ppl/8/3/eff14adfcad70aa6df7ec8ae438.html|FILION|Joseph Olivier /FILION/|ABT APR 1819|Quebec, Canada|14 AUG 1819|St-Constant, Roussillon, Quebec, Canada|
-ppl/4/8/eff14adfcfd76ec533d295ae984.html|FILION|Marie /FILION/|29 APR 1826|St-Constant, Roussillon, Quebec, Canada|16 JUN 1826|St-Constant, Roussillon, Quebec, Canada|
-ppl/7/2/eff14adfd57399fc8f1591a2527.html|FILION|Marie /FILION/|ABT 1822|Quebec, Canada|11 AUG 1826|St-Constant, Roussillon, Quebec, Canada|
-ppl/a/f/eff14adfdb116315b5c543125fa.html|FILION|Marie /FILION/|ABT JUL 1830|Quebec, Canada|10 AUG 1830|St-Constant, Roussillon, Quebec, Canada|
-ppl/6/1/eff14adfe012cd26e5d8ac21d16.html|FILION|Marie Lina /FILION/|7 JAN 1833|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|26 OCT 1834|St-Rémi, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/1/b/eff14adfe5159df76d0116a8cb1.html|FILION|Alexis Alexandre /FILION/|20 MAR 1829|St-Constant, Roussillon, Quebec, Canada|27 JAN 1836|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/6/2/eff14adfea1439e334d60922f26.html|FILION|Joseph Alfred /FILION/|17 MAR 1834|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|||
-ppl/d/6/eff14adfee740455aff19dbb56d.html|FILION|Philomene /FILION/|13 OCT 1840|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|19 FEB 1856|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/5/7/eff14adff2d7cd05dd30f0c3e75.html|FILION|Joseph /FILION/|23 MAY 1843|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|||
-ppl/8/0/eff14ae003167900b3955261b08.html|FILION|Alphonse /FILION/|13 SEP 1844|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|29 SEP 1844|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/1/a/eff14ae00779a2c7f04a39d3a1.html|FILION|Hedwidge /FILION/|28 FEB 1846|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|22 JAN 1855|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/a/0/eff14ae00bd38b1b7e46a22d80a.html|FILION|Eulalie Eudalie /FILION/|3 DEC 1827|St-Constant, Roussillon, Quebec, Canada|30 JUN 1902|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/8/e/eff14ae01df228fe62e7d089ae8.html|FILION|Marie Leocadie /FILION/|7 JUL 1831|St-Rémi, Les Jardins-de-Napierville, Quebec, Canada|22 APR 1897|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/0/1/eff14ae022f5bbeaf3d9c1a3010.html|Fileau|Peter /Fileau/|ABT 1820|Canada|ABT 23 OCT 1881|Malone, Franklin, New York, USA|
-ppl/a/d/eff14ae027f197877082a82ecda.html|FILION|Marie /FILION/|ABT JUL 1830|Quebec, Canada|10 AUG 1830|St-Constant, Roussillon, Quebec, Canada|
-ppl/d/c/eff14ae02cf1044e171902231cd.html|FILION|Marie Leocadie /FILION/|7 JUL 1831|St-Rémi, Les Jardins-de-Napierville, Quebec, Canada|22 APR 1897|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/3/0/eff14ae031f3164ff6fd88bca03.html|Filion|Marie /Filion/|17 APR 1825|St-Constant, Roussillon, Quebec, Canada|7 AUG 1825|St-Constant, Roussillon, Quebec, Canada|
-ppl/a/7/eff14ae036f4651e396cfc37a7a.html|Fellion|Emilie Amelia Marie /Fellion/|9 APR 1839|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|23 NOV 1893|Malone, Franklin, New York, USA|
-ppl/9/f/eff14ae03bf2e4937cd6b65bcf9.html|FILION|Pierre Maxime /FILION/|25 AUG 1819|St-Constant, Roussillon, Quebec, Canada|14 AUG 1819|Saint-Constant, Roussillon, Quebec, Canada|
-ppl/f/0/eff14ae040f2cd3fb5fb515870f.html|FILION|Flavie /FILION/|5 AUG 1820|St-Constant, Roussillon, Quebec, Canada|22 SEP 1821|St-Constant, Roussillon, Quebec, Canada|
-ppl/0/a/eff14ae0455604d06075c75ada0.html|Prud'homme|Onesime (Marie) /Prud'homme/|2 MAR 1864|St Benoit, Quebec, Canada|17 MAY 1887|St Benoit, Quebec, Canada|
-ppl/0/a/eff14ae04a51b7e6e331fb1bda0.html|Legault\Deslauriers|Camille /Legault\Deslauriers/|1848|Quebec|1926|ND de la Salette, Quebec, Canada|
-ppl/6/4/eff14ae05315cb5bfc63536ce46.html|Legault Deslauriers|Marie Rose Anna /Legault Deslauriers/||St Eustache, Quebec, Canada|||
-ppl/3/b/eff14ae05c76ef60d96a7979db3.html|Legault\Deslauriers|Marie Eugenie /Legault\Deslauriers/||St Eustache, Quebec, Canada|||
-ppl/e/b/eff14ae064944549712c57721be.html|Legault|Camille /Legault/|1879|Quebec|1938||
-ppl/4/8/eff14ae06b762b063acb431c684.html|Legault|Clementine /Legault/|ABT 1873|Quebec|||
-ppl/3/c/eff14ae07113817d05906df87c3.html|Legault|Caroline /Legault/|ABT 1874|Quebec|||
-ppl/2/0/eff14ae0775ee1f7635bc5ef02.html|Legault|Clodomir /Legault/|ABT 1875|Quebec|||
-ppl/4/3/eff14ae07e36808739dc9c4ef34.html|Legault|Clara /Legault/|ABT 1885|Quebec|||
-ppl/b/9/eff14ae088d3a799b0592665d9b.html|Legault|Alfred /Legault/|ABT 1884|Quebec|||
-ppl/4/1/eff14ae08f13af4b6932d992e14.html|Legault|Rose /Legault/|ABT 1880|Quebec|||
-ppl/a/4/eff14ae09875bec89bd360b244a.html|Tremblay|M Louise /Tremblay/|||||
-ppl/0/d/eff14ae09cd3ec7f4efe8b3dbd0.html|Prud'Homme|Félix /Prud'Homme/|||||
-ppl/8/5/eff14ae09ff75a209a229e15158.html|Synnett|Xavier /Synnett/|28 OCT 1845|Gaspé, , Quebec, Canada|24 OCT 1914|Rivière-la-madeleine, comté Gaspé, Québec, Canada|
-ppl/f/6/eff14ae0a5930fec01d3001676f.html|Gagnon|Marie /Gagnon/||Madeleine, Orne, Basse-Normandie, France|||
-ppl/8/d/eff14ae0aa952c4bade071341d8.html|Synnett|Abraham /Synnett/|1868||27 DEC 1916|Mont-Louis,Gaspesie,Québec,Canada|
-ppl/1/5/eff14ae0aef9f62c3742686451.html|Synnett|Eloi /Synnett/|5 SEP 1869|Gaspé, , Quebec, Canada|14 NOV 1946|Gaspé, , Quebec, Canada|
-ppl/6/d/eff14ae0b49127c2616139d42d6.html|Synnett|Azilda /Synnett/|1883|Ste-Madeleine,QC,CND|1905||
-ppl/d/6/eff14ae0b851e33e8c0dba2596d.html|Synnett|Marie Rachel /Synnett/|25 OCT 1892|Gaspé, , Quebec, Canada||Montréal, , Quebec, Canada|
-ppl/4/e/eff14ae0c1b6a4f4e35a2814e4.html|Boucher|Marie Amanda /Boucher/||Ste Anne Des Monts, Denis, Quebec, Canada|||
-ppl/4/5/eff14ae0c4d4a1667805bb97e54.html|Gagnon|Lucien /Gagnon/|3 OCT 1827||||
-ppl/1/6/eff14ae0c7510a8fcff9ee96161.html|Gagne|Marie Olive /Gagne/||St-Urbain (Charlevoix) ; ; Qc ; Can|1866||
-ppl/1/4/eff14ae0ca7262ef633c9b60441.html|SYNNETT|Marie Alma /SYNNETT/|31 JUL 1874|Sainte-Madeleine-de-la-Rivière-Madeleine,,,,,||Grande Vallée, Gaspésie Quebec|
-ppl/5/f/eff14ae0ced62837bdc713791f5.html|Synnott (Sinnette)|Joseph Euloge /Synnott (Sinnette)/||Rivière-la-Madeleine, La Haute-Gaspésie, Quebec, Canada|1965|montreal|
-ppl/9/1/eff14ae0d2913164e90d63a6719.html|SYNNETT|Jean Baptiste Xavier /SYNNETT/|10 DEC 1888|Rivière-la-Madeleine, La Haute-Gaspésie, Quebec, Canada|||
-ppl/9/f/eff14ae0d65307bff2f079117f9.html|Synnott|Honoré /Synnott/|1897|Quebec|||
-ppl/0/9/eff14ae0da12c5c08a8a285db90.html|Synnett|Maria Alexina /Synnett/||Ste-Madeleine,QC,CND||Montréal|
-ppl/6/6/eff14ae0de77128d792e97b5066.html|Synnott|Henri /Synnott/|||||
-ppl/d/3/eff14ae0e19ec15f9f26a27a3d.html|Synnett|Jean Baptiste Xavier /Synnett/||Qc|||
-ppl/6/7/eff14ae0e555bd7fee51af2cb76.html|Synnett|Euloge /Synnett/|12 FEB 1877|Rivière-la-Madeleine,  (Comté-de-Gaspé), Québec, Canada|||
-ppl/2/5/eff14ae0e873a8b731251ca8852.html|SYNNETT|Pierre /SYNNETT/|ABT 1873|Mont-Louis, La Haute-Gaspésie, Quebec, Canada|||
-ppl/1/a/eff14ae0eb940c6ce5ec1b0fa1.html|Decarie|Marie-Louise /Decarie/|15 DEC 1769|Notre Dame, Montreal, Quebec, Canada|24 MAR 1855|Notre Dame, Montreal, Quebec, Canada|
-ppl/f/e/eff14ae0f6d6ffaf62ee9e278ef.html|Simon Delorme|Marie Helene /Simon Delorme/|13 NOV 1729|Terrebonne, Québec, Canada|8 DEC 1789|Montréal, Québec, Canada|
-ppl/a/0/eff14ae0fc72f69a6190332a30a.html|Prud'homme|Josephe (Marie) /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/c/d/eff14ae10176a94d6bf20112ddc.html|Prud'homme|Marguerite /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame de Laprairie de la Madeine, Laprairie, Quebec, Canada|
-ppl/b/c/eff14ae10715b568ab8cd173cb.html|Prud'homme|Cecile /Prud'homme/||Notre Dame, Montreal, Quebec, Canada|AFT 1756|Notre Dame, Montreal, Quebec, Canada|
-ppl/1/6/eff14ae10cb14e04e482835a761.html|Prud'homme|Michel Amable /Prud'homme/|18 FEB 1733|Notre Dame, Montreal, Quebec, Canada|7 OCT 1753|Fort de la, Michigan, United States|
-ppl/7/6/eff14ae112f671de71978b4e467.html|Prud'homme|Francois Xavier /Prud'homme/|6 SEP 1711|Notre Dame, Montreal, Quebec, Canada|2 SEP 1773|Assomption de Detroit (Sandwich), Ontario, Canada|
-ppl/5/6/eff14ae119320c6a85c661c4465.html|Prudhomme|Marie-Catherine /Prudhomme/|27 AUG 1729|Montréal, Quebec, Canada|1787|Montréal, Quebec, Canada|
-ppl/e/f/eff14ae11e3415023e4deff3bfe.html|Prud'homme|Catherine (Marie) /Prud'homme/|23 JUL 1714|Notre Dame, Montreal, Quebec, Canada|30 JAN 1792|Notre Dame, Montreal, Quebec, Canada|
-ppl/0/8/eff14ae12657ab4f712bb878280.html|Prud'homme|Elizabeth /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Reims, Hotel-Dieu, France|
-ppl/b/5/eff14ae12e7510e6e7b2e69ee5b.html|Prud'homme|Marie Anne /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/1/3/eff14ae13377c0ad37261d37b31.html|Prudhomme|François-Xavier /Prudhomme/|||||
-ppl/d/9/eff14ae135f36c8da971a8a789d.html|FILION|Flavie /FILION/|26 FEB 1823|St-Constant, Roussillon, Quebec, Canada|11 AUG 1826|Saint-Constant, Laprairie, Quebec, Canada|
-ppl/a/c/eff14ae13af6e6d8c48e6698bca.html|FILION|Joseph Olivier /FILION/|ABT APR 1819|Quebec, Canada|14 AUG 1819|St-Constant, Roussillon, Quebec, Canada|
-ppl/6/e/eff14ae13ff23ce10f9e5301be6.html|FILION|Marie Lina /FILION/|7 JAN 1833|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|26 OCT 1834|St-Rémi, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/9/5/eff14ae144f562b4ae424b7959.html|FILION|Alexis Alexandre /FILION/|20 MAR 1829|St-Constant, Roussillon, Quebec, Canada|27 JAN 1836|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/b/2/eff14ae149f7f9431468896822b.html|FILION|Joseph Alfred /FILION/|17 MAR 1834|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|2 NOV 1834|Saint-Rémi, Les Jardins-De-Napierville, Quebec, Canada|
-ppl/2/3/eff14ae14ef2f4785b02b824d32.html|FILION|Philomene /FILION/|13 OCT 1840|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|19 FEB 1856|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/c/3/eff14ae153f658b99f2e356403c.html|FILION|Alphonse /FILION/|13 SEP 1844|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|29 SEP 1844|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/7/a/eff14ae158f3b770222a225ffa7.html|FILION|Hedwidge /FILION/|28 FEB 1846|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|22 JAN 1855|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/7/1/eff14ae15df26ab8bf63430f617.html|FILION|Eulalie Eudalie /FILION/|3 DEC 1827|St-Constant, Roussillon, Quebec, Canada|30 JUN 1902|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/7/f/eff14ae162f65276c50f27793f7.html|Fellion|Paul Jean Baptiste /Fellion/|16 MAY 1835|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|2 AUG 1861|Sherrington, Quebec, Canada|
-ppl/e/9/eff14ae168914d74e8361157c9e.html|FILION|Marie /FILION/|ABT 1822|Quebec, Canada|11 AUG 1826|St-Constant, Roussillon, Quebec, Canada|
-ppl/5/9/eff14ae17292fc9dbefb7867f95.html|FILION|Marie /FILION/|29 APR 1826|St-Constant, Roussillon, Quebec, Canada|16 JUN 1826|St-Constant, Roussillon, Quebec, Canada|
-ppl/c/b/eff14ae178d730cf095a91c5abc.html|Fillion|Amelia or Emilie /Fillion/|1840|Québec, Quebec, Canada|25 NOV 1893|Malone,Franklin,New York,USA|
-ppl/1/b/eff14ae17e7780fae4158f278b1.html|Filion|Marie Olive /Filion/|3 DEC 1827|Saint-Constant, Roussillon, Quebec, Canada|||
-ppl/0/8/eff14ae182d10f5b54464747980.html|Filion|Onèsime /Filion/|29 JUN 1830|Saint-Constant, Roussillon, Quebec, Canada|10 AUG 1830|Saint-Constant, Roussillon, Quebec, Canada|
-ppl/5/c/eff14ae187d4501a67b6c6916c5.html|Fellion\dit Filion|Theophile Peter /Fellion\dit Filion/|7 OCT 1821|Saint-Constant, Laprairie, Quebec, Canada|AFT 1880|Malone, Franklin, New York, USA|
-ppl/7/2/eff14ae18c335bc3b8246074127.html|Tremblay|Paul /Tremblay/|||||
-ppl/f/f/eff14ae18f55f2cf8b588ec9eff.html|Tremblay|Joseph /Tremblay/|30 OCT 1852||||
-ppl/1/5/eff14ae1931411b62ed239c9d51.html|Labelle|Bertha /Labelle/||Quebec, Canada||Ste Julie, Quebec, Canada|
-ppl/c/d/eff14ae1b073a2c835f67b075dc.html|Labelle|Antoine /Labelle/|ABT 1885|Montreal, Quebec, Canada|1974|Montreal, Quebec, Canada|
-ppl/2/9/eff14ae1b4332e63411751b6a92.html|Ravary|Blanche /Ravary/|9 FEB 1889|Québec|1974||
-ppl/7/4/eff14ae1b6b5f33098eb1023947.html|Labelle|Marie Jeanne Blanche /Labelle/|1916|Québec|2008|Nanaimo, British Columbia, Canada|
-ppl/d/3/eff14ae1bed1d9e61093048fc3d.html|Labelle|Therese /Labelle/||Quebec, Canada|||
-ppl/8/2/eff14ae1c1f7fd67f165e8f2f28.html|Labelle|Aline /Labelle/||Quebec, Canada|||
-ppl/3/3/eff14ae1c5147f61196122d7733.html|Labelle|George /Labelle/||Quebec, Canada|||
-ppl/d/6/eff14ae1c797d35c279ffb6fe6d.html|Roussin|Michel /Roussin/|3 NOV 1783|Montreal, Quebec, Canada|10 APR 1862|St-Joseph-du-Lac, Québec, Canada|
-ppl/6/7/eff14ae1cbf4f26f76127556076.html|Renaud|Marie Amable /Renaud/|ABT 1789|Ile De Montreal, Saint Eustache, Quebec, Canada|8 MAY 1862|St Martin, Laval, Quebec, Canada|
-ppl/c/6/eff14ae1cfb63af63a2cfe21b6c.html|Roussin|Marie-Amable /Roussin/||St-Eustache, Québec, Canada|||
-ppl/6/5/eff14ae1d2d72c0bec3bc794f56.html|Roussin|Pascal /Roussin/||St-Eustache, Québec, Canada||St-Joseph-du-Lac, Québec, Canada|
-ppl/8/1/eff14ae1d732296476e52dec218.html|Roussin|Jacques /Roussin/|1823|Saint-Eustache, Quebec, Canada|||
-ppl/9/0/eff14ae1daf7da85f21a1978109.html|Roussin|Adeline Agathe /Roussin/|20 MAR 1832|St Benoit, Quebec, Canada|||
-ppl/8/c/eff14ae1deb3db6a6ee41f167c8.html|Roussin|Emile /Roussin/|ABT 1821|St-Eustache, Québec, Canada||Montréal, Québec, Canada|
-ppl/3/e/eff14ae1e316334cb94b8f2dde3.html|Roussin|Henriette /Roussin/|19 AUG 1824|St-Benoit, Québec, Canada|18 DEC 1838|Saint-Eustache, Deux-Montagnes, Quebec, Canada|
-ppl/7/e/eff14ae1e6d30eb97047ca50ae7.html|Roussin|Marie Amable /Roussin/||St-Eustache, Québec, Canada|||
-ppl/9/e/eff14ae1ea948a6c7ab512f1e9.html|Roussin|Henriette /Roussin/||St-Benoit, Québec, Canada|||
-ppl/8/b/eff14ae1ffd557537c5c9228b8.html|Roussin|Celanise /Roussin/|1832|Ste Marthe, Vaudreuil|24 MAY 1908|Glen Robertson, Ontario, Canada|
-ppl/9/8/eff14ae20753744c486e8810789.html|Roussin|Agathe /Roussin/|20 MAR 1832|St. Benoît-du-Lac (Québec)||...|
-ppl/8/6/eff14ae20bb7d344780df7d0768.html|Roussin|Marie Marguerite /Roussin/|14 OCT 1816|Oka, Deux-Montagnes, Quebec, Canada|||
-ppl/8/3/eff14ae20f72d51a338a7da0738.html|Roussin|Artemise /Roussin/|14 AUG 1829|Saint-Eustache, Deux-Montagnes, Quebec, Canada|||
-ppl/a/0/eff14ae212989560951dce890a.html|Roussin|Michel /Roussin/|8 MAR 1812|St-Eustache, Québec, Canada|11 MAY 1896|Ste-Marthe-sur-le-Lac, Québec, Canada|
-ppl/7/d/eff14ae2179448cc89c47f2ddd7.html|Roussin|Toussaint /Roussin/||St-Eustache, Québec, Canada|1 JUN 1834|Saint-Eustache, Deux-Montagnes, Quebec, Canada|
-ppl/b/e/eff14ae21bf687dc5ccaefa91eb.html|Roussin|Elmire /Roussin/|1813|||Montréal, Québec, Canada|
-ppl/4/1/eff14ae220f6b841d9414e9ce14.html|Prud'homme|Pierre /Prud'homme/|24 MAR 1658|Montréal, , Quebec, Canada|28 MAR 1703|Montréal, , Quebec, Canada|
-ppl/e/a/eff14ae225f46c7d886cf80e2ae.html|PRUDHOMME (Prud'homme)|Jacques /PRUDHOMME (Prud'homme)/ ^|1525|Sailly, Saône-et-Loire, Bourgogne, France|ABT 1600|France|
-ppl/1/0/eff14ae22917c17f675e42c6101.html|Cauconnet Rameau|Françoise /Cauconnet Rameau/||Sailly, Saône-et-Loire, Bourgogne, France|20 APR 1750|France|
-ppl/1/4/eff14ae22d723bab7d27c50bf41.html|Prud’homme \ Prud hon|Claude Nobel /Prud’homme \ Prud hon/|1546|Sailly, Saône-et-Loire, Bourgogne, France|BEF 1646||
-ppl/a/1/eff14ae231317231092183ddd1a.html|Prud’homme \ Prud hon|Claude Nobel /Prud’homme \ Prud hon/|1546|Sailly, Saône-et-Loire, Bourgogne, France|BEF 1646||
-ppl/e/9/eff14ae234f3654dc2f08bd539e.html|Gadois|Roberte /Gadois/|||||
-ppl/a/e/eff14ae236d69ecc29c86b90ea.html|Aliomet|Ancetre /Aliomet/|1560|France||France|
-ppl/c/0/eff14ae24ad7102d48b7154d00c.html|Aliomet|End of the line    Mrs /Aliomet/||France||France|
-ppl/7/d/eff14ae2525126f84d45d732cd7.html|Prud Homme|François /Prud Homme/|31 JAN 1748|L'assomption, Quebec, Canada|1767|Québec, Quebec, Canada|
-ppl/5/0/eff14ae259d1cb9e5117748c505.html|Prud'Homme|Richard Joseph Marcel /Prud'Homme/|||||
-ppl/9/f/eff14ae25c545c67d72be23c3f9.html|Prud'Homme|Sébastien /Prud'Homme/|||||
-ppl/8/a/eff14ae2601225ba2b115bb5ca8.html|Desormeaux|Linda /Desormeaux/|||||
-ppl/1/5/eff14ae261f2145dfd9b8925e51.html|Prud'Homme|Manon /Prud'Homme/|||||
-ppl/5/4/eff14ae265b2ccf3f8b3aa4fd45.html|Chale|Véronique /Chale/|||||
-ppl/e/e/eff14ae26ab2e4ebd6ded26acee.html|Châle|Laurence-Audrey /Châle/|||||
-ppl/a/c/eff14ae26f13698b9c9ca0a15ca.html|Châle|Benoit /Châle/|||17 OCT 2020|Lachine, Montréal, Quebec, Canada|
-ppl/4/f/eff14ae273777ef004e66029cf4.html|Gadois|Pierre /Gadois/|1594|St Martin, d'Ige, Mortagne, Perche, France|20 OCT 1667|Montreal, Quebec, Canada|
-ppl/8/e/eff14ae27732282955a353eb8e8.html|Mauger Gadois|Louise /Mauger Gadois/|1598|St Martin d'Ige, Alencon, Perche, France|18 MAR 1690|Montreal, Quebec, Canada|
-ppl/1/d/eff14ae27af403a50fc61d846d1.html|Gadois|François /Gadois/|FEB 1636|Québec, , Quebec, Canada|1666|Québec, , Quebec, Canada|
-ppl/0/f/eff14ae27f5c6ba18e7060daf0.html|Gadois|Étienne Pierre /Gadois/|17 NOV 1631|Ige St Martin, Orne, Basse-Normandie, France|8 MAY 1714|Montreal,,Montreal,Quebec,Canada,|
-ppl/f/0/eff14ae286da9db9052f15f60f.html|Gadois|Joseph /Gadois/|28 SEP 1639|Quebec, Quebec, Canada|OCT 1639|Québec, Quebec, Canada|
-ppl/3/0/eff14ae299919349498df103903.html|Gadois|Jeanne /Gadois/|26 JUN 1638|Québec, , Quebec, Canada|26 JUN 1638|Québec, , Quebec, Canada|
-ppl/b/f/eff14ae29df19abd204e3f393fb.html|Gadois|Pierre /Gadois/|17 NOV 1631|Appenai-sous-Belleme, Departement de l'Orne, Basse-Normandie, France|8 MAY 1714|Montreal, Montreal Region, Quebec, Canada|
-ppl/f/6/eff14ae2a252637119477309b6f.html|Gadois|Jean-Baptiste /Gadois/|2 MAR 1641|Quebec, QC|15 APR 1728|Montreal, Montreal Region, Quebec, Canada|
-ppl/4/8/eff14ae2a6b8df9f0912826584.html|Gadois|Nicolas /Gadois/|1626|Ste-Martin, d'Ige, Évêché-de-Sée, Mortagne, France|1666|Québec, Quebec, Canada|
-ppl/7/9/eff14ae2ab12c8d0a90b16bc397.html|Gadois|Etienne /Gadois/|17 NOV 1631|Ige, Perche, France|1632|Ige, Perche, France|
-ppl/8/a/eff14ae2b0b4ee072e7d9f519a8.html|Gadois|Francois /Gadois/|2 DEC 1636|Sillery, Quebec|1666|Montreal, Quebec|
-ppl/7/6/eff14ae2b515d23f648a6555667.html|Gadois|Marie Francoise /Gadois/|1627|Mortagne, Orne, Basse-Normandie, France|24 DEC 1689|Pointe-aux-Trembles, Montreal Region, Quebec, Canada|
-ppl/c/6/eff14ae2b8d7381b9290be99b6c.html|Gadois|Marie-Roberte /Gadois/|15 SEP 1628|Fresney, Calvados, Basse-Normandie, St Martin, Orne, Perche, France|14 SEP 1716|Notre Dame, Montreal, Quebec, Canada|
-ppl/4/7/eff14ae2bd360932e9a7707f274.html|Verrier|Pierre /Verrier/|1636|Varennes-sur-Loire,49730,Maine-et-Loire,Pays de la Loire,France,|30 OCT 1704|Montreal (Basilique Notre-Dame), Quebec, Canada|
-ppl/0/d/eff14ae2c0f540452499a3cc7d0.html|Leger|Cesar /Leger/|ABT 1622|Mornac-sur-Seudre,17113,Charente-Maritime,Poitou-Charentes,France,|BEF 11 NOV 1651|Sillery, Quebec, Canada|
-ppl/b/5/eff14ae2c4115841aed6200fa5b.html|Prudhomme|Marie Catherine /Prudhomme/|25 MAR 1661|Ville Marie, Quebec|ABT 1736||
-ppl/b/0/eff14ae2c7d3d891650172b540b.html|Gee|Matilda /Gee/|19 MAR 1862||||
-ppl/7/e/eff14ae2e7b515b03da20d948e7.html|Gee|John /Gee/|ABT 1785|Roughton, Norfolk, England|ABT 1865|Norfolk, United Kingdom|
-ppl/0/6/eff14ae31a5634434b17f10b560.html|Gee|Ann /Gee/|||||
-ppl/d/4/eff14ae324f443bfcf6f925e74d.html|Gee|Sarah Ann /Gee/|||||
-ppl/1/d/eff14ae33fd26479a897ec31bd1.html|Gee|Sarah /Gee/|1790|Reepham, Norfolk, England|||
-ppl/8/6/eff14ae349dca513a9b716b368.html|McGee|Hannah /McGee/|ABT 1819|Matlask, Norfolk, England|||
-ppl/c/3/eff14ae35f15e7d9023e25cc23c.html|Gee|William /Gee/|||ABT 1811||
-ppl/6/4/eff14ae365f1178647a8d611946.html|Mcgee|Thomas /Mcgee/|1736|Briningham, Norfolk, England|1803|Hanworth, Norfolk, England|
-ppl/7/a/eff14ae38cb34406d8a52fdb2a7.html|Magee|Martha /Magee/|||||
-ppl/c/d/eff14ae394d3438ec70a10e07dc.html|Mage|Thomas /Mage/|||||
-ppl/2/1/eff14ae39932d15b16703f36b12.html|Mage|Ann /Mage/|||||
-ppl/0/c/eff14ae39d94d726cdca0a76c0.html|Megee|Elizabeth /Megee/|||||
-ppl/d/7/eff14ae3aa14725f88bfd186a7d.html|Megee|James /Megee/|||ABT 1786||
-ppl/a/3/eff14ae3b9b120e8be056f4b33a.html|Magee|Henry /Magee/|||||
-ppl/e/e/eff14ae3c096967cf1360ef30ee.html|Dye|Elizabeth /Dye/|||ABT 1811||
-ppl/1/0/eff14ae3ca97cce6c151de0f101.html|Seaman|William /Seaman/|||||
-ppl/c/5/eff14ae3ce5a30180c9e0a795c.html|McCann| /McCann/|||||
-ppl/4/6/eff14ae3d211e478a38a542e564.html|McCann|Bernard /McCann/|||23 APR 1987||
-ppl/f/5/eff14ae3d5d4397c5f039e5b5f.html|Kennedy|Angus /Kennedy/|ABT 1826|Ontario|16 JUN 1879|Prescott, Ontario, Canada|
-ppl/2/0/eff14ae3d995826aee0b8d84202.html|Boudrias|Élisabeth /Boudrias/|1840|Pointe Claire, Montreal, Québec Canada|1 DEC 1920|St Eugène Prescott, Ontario, Canada|
-ppl/3/0/eff14ae3dfd719c68235b2c1f03.html|Kennedy|Patrick James /Kennedy/||County Cavan, Ireland|1839|E. Hawkesbury Tp, Prescott, Ontario, Canada|
-ppl/1/e/eff14ae3e25736fdb04123c8ae1.html|McDonald|Mary /McDonald/|ABT 1797|Glengarry St-Rafael ontario|24 MAY 1886|Prescott, Ontario, Canada|
-ppl/5/6/eff14ae3e4d21dbb714d346e565.html|Boudrias|Charles (Antoine) /Boudrias/|26 JAN 1810|Montréal, Québec, Canada|3 MAY 1903|Chute à Blondeau, Prescott, Ontario, Canada|
-ppl/4/f/eff14ae3e89fc4c7845af58cf4.html|Leblanc|Adélaïde /Leblanc/|20 JUN 1811|Pierrefonds, Québec, Canada|8 SEP 1873|Chute à Blondeau, Ontario, Canada|
-ppl/e/a/eff14ae3f1529fb4ec7df9ab3ae.html|Boudrias|Antoine /Boudrias/|24 JAN 1780|Montréal, Québec, Canada|13 APR 1831|Montréal, Québec, Canada|
-ppl/8/8/eff14ae3f6f89f6c412559ab88.html|Boudrias|Louis /Boudrias/|14 JAN 1735|Ville St-Laurent, Ile de Montreal, Quebec, Canada|31 DEC 1822|Montréal, Québec, Canada|
-ppl/4/1/eff14ae3fa17293db8518151214.html|Boudrias|Antoine /Boudrias/ Fils|25 MAR 1702|Lachine, Ile de Montréal, Québec, Canada|12 MAY 1781|Montréal, Québec, Canada|
-ppl/c/1/eff14ae3fe76b9dbec3bfcd2c1c.html|Plumereau Latreille|Marie Jeanne /Plumereau Latreille/ ***|3 MAY 1675|Sorel, Quebec, Canada|17 AUG 1759|Notre-Dame, Montreal, Ile-de-Montreal, Quebec, Canada|
-ppl/c/2/eff14ae402de93d7472b94662c.html|Barbier|Jeanne /Barbier/ ****|1649|Saint-Nicolas de Chalons-sur-marne, Marne, Champagne, France|10 NOV 1689|Chambly, 1654490, Quebec, Canada|
-ppl/3/c/eff14ae40ff4cca2e092ede98c3.html|Barbier|Guillaume /Barbier/|1615|Rethel, Departement des Ardennes, Champagne-Ardenne, France||Hotel, Alpes-de-Haute-Provence, Provence-Alpes-Cote d'Azur, France|
-ppl/3/5/eff14ae420334f701abf18ec553.html|Wilber Herbert dit Hubert|Liesse /Wilber Herbert dit Hubert/|1620|Champagne, Dordogne, Aquitaine, France|2 MAY 1691|Écueil, Marne, Champagne-Ardenne, France|
-ppl/1/c/eff14ae4267e874f786cb1cbc1.html|Rouxel|Jacquemine /Rouxel/|8 OCT 1602|Plumaugat, Côtes-d'Armor, Bretagne, France||Plénée-Jugon, Côtes-d'Armor, Bretagne, France|
-ppl/e/b/eff14ae434321b4649667ed17be.html|Grosset|Jean /Grosset/|26 JAN 1579|Lanrelas, Côtes-d'Armor, Bretagne, France|ABT 1630|France|
-ppl/3/2/eff14ae439d69ac22d23c34fc23.html|Rouxel|Yvonne /Rouxel/|18 DEC 1577|Lanrelas, Côtes-d'Armor, Bretagne, France|OCT 1609|Lanrelas, Côtes-d'Armor, Bretagne, France|
-ppl/2/5/eff14ae43cf771320dc63f0e52.html|Barbier|Mathurin /Barbier/||France|17 SEP 1678|Saint-Jouan-De-L'isle, Côtes-D'armor, Bretagne, France|
-ppl/c/f/eff14ae448d1874eda370ddaafc.html|Wilbert|Jean Hubert /Wilbert/|1590|Ecueil, Marne, Champagne-Ardenne, France|1639|Ecueil, Marne, Champagne-Ardenne, France|
-ppl/d/7/eff14ae44dd5a30541b1d9e7d7d.html|Wilbert|Valentine /Wilbert/|1570|Adelange, Moselle, Lorraine, France|1607|Ecueil, Marne, Champagne-Ardenne, France|
-ppl/8/9/eff14ae45231b4bff9724a8e098.html|Erdmann . 11th ggm|Fredericka /Erdmann . 11th ggm/|ABT 1570|Netherlands|1652|Ecuelles, Saône-et-Loire, Bourgogne, France|
-ppl/a/d/eff14ae455f780e556bd952a5da.html|Synnett|+Joseph /Synnett/|21 DEC 1783|Gaspé, , Quebec, Canada|18 MAR 1851|Gaspé, , Quebec, Canada|
-ppl/3/2/eff14ae46e51bdb894e4ab8c723.html|Dunn|Marie Louise /Dunn/|25 MAR 1811|Gaspé, , Quebec, Canada|1 JUL 1891|Gaspé, , Quebec, Canada|
-ppl/e/9/eff14ae472b2f3188019defb49e.html|Robert|Josette /Robert/|1760|, , Bretagne, France|16 NOV 1827|Gaspé, , Quebec, Canada|
-ppl/2/3/eff14ae49018ba9f2f8bba4532.html|Seneth|Edouard /Seneth/|||||
-ppl/a/e/eff14ae493d630b46421a0e52ea.html|Robert|Marie Josephe /Robert/|||||
-ppl/c/c/eff14ae49a1681429dd9e3f3acc.html|Roy|Mélanie /Roy/|||||
-ppl/4/3/eff14ae49d3457d929a19368234.html|Roy|André /Roy/|||||
-ppl/6/8/eff14ae49fb4e8ce35cb7437786.html|Maquet|Danielle /Maquet/|||||
-ppl/1/d/eff14ae4a191f7370ffef0fa9d1.html|Maquet|Henry /Maquet/|||||
-ppl/5/f/eff14ae4ac3479a6eedf32a16f5.html|Gérin-Lajoie|Hélène /Gérin-Lajoie/|||||
-ppl/2/2/eff14ae4bd13da9d2b24bb17a22.html|Maquet|Rene /Maquet/|||||
-ppl/f/4/eff14ae4c5371bba10001aed94f.html|Maquet| /Maquet/|||||
-ppl/7/b/eff14ae4c8f2d3b4b614df86cb7.html|Dorion|Pauline /Dorion/|14 MAY 1897||30 MAR 1987|montreal|
-ppl/7/5/eff14ae4f5f550e133004515f57.html||Lucile //|||||
-ppl/1/7/eff14ae4f9b43f74262cfea4f71.html||Marcel //|||||
-ppl/5/d/eff14ae4fcd2aa3145e35c6c5d5.html||Claude //|||||
-ppl/2/2/eff14ae4ff5781ca2017c806e22.html||Andr //|||||
-ppl/e/5/eff14ae50274d6d1304b66dbf5e.html||Paul //|23 FEB 1920|Montreal, Montreal Region, Quebec, Canada|25 JUN 2018|Montreal, Montreal Region, Quebec, Canada|
-ppl/a/6/eff14ae50ef7ef6a0bc4056b26a.html|Gerin-Laioie|Henri /Gerin-Laioie/|4 FEB 1892|Canada|30 JUL 1976|Montreal Region, Quebec, Canada|
-ppl/d/7/eff14ae547324318b554d0487d.html|Gérin-Lajoie|Henri /Gérin-Lajoie/|18 OCT 1859|Quebec|7 MAY 1936|Montreal Region, Quebec, Canada|
-ppl/a/f/eff14ae571b4249c6e18300f1fa.html|Gérin-Lajoie|Marie /Gérin-Lajoie/|19 OCT 1867|Montreal Region, Quebec, Canada|1 NOV 1945|Montreal, Montreal Region, Quebec, Canada|
-ppl/e/d/eff14ae58c967916b67dc59c0de.html|Lajoie|Joseph Alexander /Lajoie/|||||
-ppl/3/f/eff14ae58e758cecc497ebd94f3.html|Lajoie|Alexander /Lajoie/|MAR 1893|Quebec|||
-ppl/4/0/eff14ae599b726d29a1a3bdb804.html|Lajoie|Lebeau /Lajoie/|MAY 1895|Quebec|||
-ppl/9/8/eff14ae5ab34e1a4e0a606bf189.html|Lajoie|Marie /Lajoie/|JUN 1889|Quebec|||
-ppl/7/3/eff14ae5bd57f82a519a9451d37.html|Gerin|Lajoie Autoinette /Gerin/|ABT 1871|Quebec|||
-ppl/4/f/eff14ae5c6b25443700455437f4.html|Gerin|Josephine /Gerin/|ABT 1839|Quebec|||
-ppl/e/d/eff14ae5cf77c6255a0c6a906de.html|Gerin|Leon /Gerin/|ABT 1864|Quebec|||
-ppl/c/3/eff14ae5dab421ae702d9a18d3c.html|Gerin-Lajoie|Leon /Gerin-Lajoie/|||||
-ppl/b/9/eff14ae5e87458f61607757119b.html|Prud'Homme|Steve /Prud'Homme/|||||
-ppl/8/d/eff14ae5ec368edf25837c460d8.html|Prud'Homme|Pierre /Prud'Homme/|||||
-ppl/8/3/eff14ae5f09cfc16a3af563f38.html|Guy|Lise /Guy/|||||
-ppl/c/e/eff14ae5f956d13db36f1bf63ec.html|Gee|Cecil Thomas /Gee/|22 MAR 1903|Carleton, Ontario, Canada|1969||
-ppl/d/b/eff14ae603f52baa6ef155141bd.html|Clarke|M Bernadette Rollande /Clarke/|23 AUG 1925|Lacolle|4 APR 1995|Lachine|
-ppl/3/d/eff14ae60f332ed64cb11f1cd3.html|Clarke|Alfred /Clarke/|||1972||
-ppl/a/f/eff14ae61617864ebf8bc5d4ffa.html|Tremblay|Marie-Louise /Tremblay/|7 SEP 1901|Canada French|15 JUN 1978|Montreal, Quebec, Canada|
-ppl/f/5/eff14ae6391254feba70f939c5f.html|Helene|Guy /Helene/|||||
-ppl/c/2/eff14ae63af4cf6da3b97e08b2c.html|Thomas|Guy /Thomas/|||||
-ppl/4/e/eff14ae63f5774af690521d76e4.html|Diane|Guy /Diane/|||||
-ppl/f/a/eff14ae641359e6f4015fbb7eaf.html|Roger|Pinel /Roger/|||||
-ppl/d/3/eff14ae6427354d4d5c0d808d3d.html|Micheline|Dufort /Micheline/|||||
-ppl/b/1/eff14ae64457150d7adb52cec1b.html|Sylvio|Lejeune /Sylvio/|1941|||Lachine, Communauté-Urbaine-de-Montréal, Québec, Canada|
-ppl/e/9/eff14ae6481758e3107eedd769e.html|Seynett|Marie Huguette Gisele /Seynett/|||||
-ppl/7/c/eff14ae6503107b2697657f71c7.html|Synnett|Joseph Odina /Synnett/|6 MAY 1895|Riviere Pentecote, Paroisse de St-Patrice Co Saguenay|1956|Montréal (St-Henri), Québec|
-ppl/5/9/eff14ae65e976f7fd42be808d95.html|Rolland|Alice /Rolland/|OCT 1896|Qc|1986|Montréal (St-Henri), Québec|
-ppl/3/3/eff14ae66c565395e959f0d2133.html|Synett|John /Synett/|12 NOV 1866|Gaspé, Quebec, Canada|||
-ppl/9/8/eff14ae66ed6558625a95a3f689.html|Marie-Amanda|Boucher /Marie-Amanda/|||||
-ppl/8/a/eff14ae670118b380c6d56d1ba8.html|Rolland|Edouard /Rolland/|||||
-ppl/b/a/eff14ae671f6483719ce99749ab.html|Caron|Marie Hélène /Caron/|||||
-ppl/0/8/eff14ae673d4ba4d1408cae2180.html|Rolland|Henri /Rolland/|||||
-ppl/2/d/eff14ae67516ba4a97340117bd2.html|Laberge|Marie /Laberge/|||||
-ppl/6/e/eff14ae67657c201f059d1b05e6.html|Caron|Damase /Caron/|||||
-ppl/4/4/eff14ae67797a0f08be70b07944.html|Pelletier|Julia /Pelletier/|||||
-ppl/0/1/eff14ae678d622f1320d8b2b510.html|Prudhomme|Leopold /Prudhomme/|||||
-ppl/5/f/eff14ae67b57fe8cd5f5c5452f5.html|Prudhomme|Emile /Prudhomme/|||||
-ppl/1/4/eff14ae67dd2439eabcd6de2541.html|Cote|Herminie (Marie Hermine) /Cote/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/2/4/eff14ae68055b218d52ff3c4e42.html|Prudhomme|Jérémie Marie /Prudhomme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/8/4/eff14ae68d7641396214d9fbb48.html|Prud'homme|Nicolas /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||St Eustache, Quebec, Canada|
-ppl/1/6/eff14ae694f4e86cf1deb01d261.html|Synnett|John /Synnett/|12 NOV 1866|Mont Louis, St Maxime, Gaspé (Haute Gaspésie), Québec, Canada|||
-ppl/c/f/eff14ae696d2dca182b90ce8ffc.html|Boucher|Marie Amanda /Boucher/|24 MAY 1866|Ste-Anne-des-Monts, Québec, Canada||Montréal, Communauté-Urbaine-de-Montréal, Québec, Canada|
-ppl/c/4/eff14ae699564d4a3891767ac4c.html|Synnett|Francois-Xavier /Synnett/||St-Octave -de-l'Avenir.Qc.|||
-ppl/d/6/eff14ae69b33f6270753c456d.html|Synnett|Azilda /Synnett/|||1959|montreal|
-ppl/0/3/eff14ae69db506444bd7fe61330.html|Synnet|Georges /Synnet/||Mont-Louis,Gaspé,Quebec,Canada||Montréal,Québec,Canada|
-ppl/8/e/eff14ae6a037b2d505ef56c99e8.html|Synette|Joseph Jean /Synette/||Riviere Pentecote, Paroisse de St-Patrice Co Saguenay|||
-ppl/1/0/eff14ae6a2b64a7fac9bf23501.html|Synette|Joseph Charles Albini /Synette/||Rivière Pentecote, Paroisse St-Patrice||St-Octave de Métis, Québec|
-ppl/3/c/eff14ae6a5d1429f2fa0593bc3.html|Synnott|Maria /Synnott/||Riviere Pentecote, Paroisse de St-Patrice Co Saguenay|||
-ppl/f/d/eff14ae6acb903cc73dc12dcdf.html|Synnott|Derinda /Synnott/|1889|Qc|||
-ppl/3/8/eff14ae6b111ee0668fea7fb783.html|Synett|M Jeanne Amanda Florence /Synett/|13 SEP 1922|Montréal||Montréal|
-ppl/b/9/eff14ae6b4d337a84babcab869b.html|Synnett|M Jeanne Lucille /Synnett/||Québec|2005||
-ppl/0/e/eff14ae6b8966503afc6f73c7e0.html|Synnett|Marie Françoise Gaetane /Synnett/||Montréal (Ste-Clotilde), Québec||Montréal (Ste-Clotilde), Québec|
-ppl/4/e/eff14ae6bcf1c2a7144cf9326e4.html|Synnett|J. Gaston Marcel Jean /Synnett/||Québec||Montréal (Basilique Notre-Dame), Québec (funérailles le 16 juillet 1935)|
-ppl/c/1/eff14ae6bf7557ede188129d1c.html|Synnett|Joseph Roger Gilles /Synnett/||Montréal (Ste-Clotilde), Québec|2010|Montréal (Ste-Clotilde), Québec|
-ppl/2/d/eff14ae6c292a74d0ca814af0d2.html|Seynett|Marie Jeanne Yvette Delia /Seynett/|||||
-ppl/9/6/eff14ae6c474c28017cc1803769.html|Synnet|Marie Alice Hélène Amanda /Synnet/||Montréal (Ste-Clotilde), Québec||Montréal (Ste-Clotilde), Québec|
-ppl/5/7/eff14ae6ca16ec0885166a47a75.html|Gee|Clement Silas /Gee/|23 AUG 1872|Foulsham, Norfolk, England|1923|Montreal (Urban Agglomeration), Quebec, Canada|
-ppl/4/3/eff14ae6e6330e42e496e024834.html|Kennedy|Mary Ellen /Kennedy/|23 JUL 1873|Ontario, Canada|1956|East Hawkesbury Township, Prescott, Ontario, Canada|
-ppl/2/4/eff14ae6f99762099add1585242.html|Gee|Edgar Samuel /Gee/|9 AUG 1899|Ottawa, Ottawa, Ontario, Canada|1953|Montreal, Montréal (Urban Agglomeration), Quebec, Canada|
-ppl/5/2/eff14ae6fd56999c46ad6fc1c25.html|Gee|George Clement James /Gee/|31 MAY 1894|Ottawa, Ontario|1949||
-ppl/f/1/eff14ae702f4f7ae69a283c7e1f.html|Gee|Gertrude /Gee/|29 OCT 1897|Carleton, Ontario, Canada|1986||
-ppl/8/6/eff14ae7115394013eb3ca6e468.html|Gee|Louis /Gee/|1900|Qc|||
-ppl/4/f/eff14ae7151338b1c5daa0965f4.html|Gee|Mary /Gee/|20 SEP 1907|Quebec|2003|Hawksbury, Ontario|
-ppl/2/e/eff14ae73c7175bc4d462445e2.html|Gee|Viola /Gee/|ABT 1909|Quebec|1977||
-ppl/9/b/eff14ae74497dec9c22ae59c8b9.html|Gee|Freddy /Gee/|ABT 1910|Quebec|1978|montreal|
-ppl/0/1/eff14ae75115373d641ce60ac10.html|Gee|Aline /Gee/|ABT 1911|Quebec|1984||
-ppl/3/6/eff14ae759d2cd35be4e94acf63.html|Gee|Gordon /Gee/|ABT 1912|Quebec|1976|St Eugene, Ontario|
-ppl/d/5/eff14ae761f5b735e3fb54cff5d.html|Laniel|Laurette /Laniel/|FEB 1904|Quebec|||
-ppl/d/2/eff14ae763d32ce8c7f99bacc2d.html|Gee|Diane /Gee/||Montreal, Quebec, Canada||Montréal, Québec|
-ppl/3/1/eff14ae7665230dcf1e65891c13.html|Gee|Samuel /Gee/|ABT 1834|Matlask, Norfolk, England|||
-ppl/5/6/eff14ae779ba8f58115ec1c965.html|Gee|Matilda /Gee/|||||
-ppl/2/f/eff14ae78093d37cf9ad2ba26f2.html|Richard|Armande /Richard/|||||
-ppl/6/b/eff14ae784f37ebdaa731041b6.html||Claude //|||||
-ppl/d/f/eff14ae786d5cbcd4418c8744fd.html|Tremblay|Joseph Arthur /Tremblay/|29 APR 1881|Sherrington, Quebec, Canada|12 FEB 1952|Hemmingford, 1654509, Quebec, Canada|
-ppl/8/b/eff14ae797112d27037e2c3e3b8.html|Richard|Delima /Richard/||Hemmingford, Québec, Canada||Hemmingford, Québec, Canada|
-ppl/0/d/eff14ae798f1266af3849591fd0.html|Tremblay (Landry)|Marie Therese Yvonne /Tremblay (Landry)/|20 JUN 1913|Québec|24 AUG 1984|Quebec, Canada|
-ppl/7/4/eff14ae79b73b6563449ef9da47.html|Tremblay|Leopold /Tremblay/||USA|||
-ppl/c/5/eff14ae79d55db0d6127e348c5c.html|Tremblay|Joseph Armand /Tremblay/|19 OCT 1906|Canada French|1972||
-ppl/8/c/eff14ae7a2f61ea9de056bbd6c8.html|Tremblay|Romeo Joseph /Tremblay/|28 JUN 1911|New Bedford, Bristol, Massachusetts, USA||Cohoes, Albany, New York, États-Unis|
-ppl/b/9/eff14ae7a4d19db9379b16439b.html|Tremblay|Joseph Albert /Tremblay/||Ste-Clotilde-de-Châteauguay, Québec, Canada||Cohoes, Albany, New York, États-Unis|
-ppl/e/7/eff14ae7a755264388ce8ce37e.html|Tremblay|Lionel Joseph /Tremblay/||Ste-Clotilde-de-Châteauguay, Québec, Canada||Albany, New York, États-Unis|
-ppl/f/d/eff14ae7a936da127adeb1e5edf.html|Tremblay|Maurice Joseph /Tremblay/||Hemmingford, Québec, Canada||Hemmingford, Québec, Canada|
-ppl/e/b/eff14ae7ac53e9f50f4bf9948be.html|Richard|Marie Delima /Richard/||St-Romain, Hemmingford, Québec|7 NOV 1940|Hemmingford (St-Romain), Québec|
-ppl/9/3/eff14ae7b5b8499011c0986639.html|Trembly|Arthur /Trembly/|15 AUG 1900|Williamstown, Berkshire, Massachusetts, USA|25 FEB 1905|Quebec, Canada|
-ppl/a/3/eff14ae7b837af9fc2454150b3a.html|Tremblay|Rudolphe /Tremblay/|FEB 1918|Sainte-Clotilde-de-Chateauguay, Quebec, Canada|6 SEP 1926|Hemmingford, Quebec, Canada|
-ppl/0/5/eff14ae7ba12e73d928bbb2bd50.html|Tremblay|Leopold /Tremblay/|17 APR 1904|Williamstown, Massachusetts, USA|30 NOV 1978|Montérégie - Le Haut-Richelieu, Québec|
-ppl/f/4/eff14ae7bf1527fe48d29796b4f.html|Tremblay (Lussier)|Alice /Tremblay (Lussier)/|ABT 1910|Massachusetts|14 SEP 1970|Verdun, Île-de-Montréal|
-ppl/7/4/eff14ae7c413a6eccc5cf52d847.html|Tremblay|Vital /Tremblay/|22 MAR 1857|Sherrington, Quebec, Canada|28 NOV 1928|Lachine, Montréal, Quebec, Canada|
-ppl/a/4/eff14ae7c914ed4c5cca50c4f4a.html|Trudel|Virginia /Trudel/|1862|Berthierville, 1654473, Quebec, Canada|14 JUN 1907|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
-ppl/4/d/eff14ae7caf6d2e2a1bc68f2d4.html|Tremblay|Paul /Tremblay/|ABT 1902|Massachusetts|||
-ppl/5/0/eff14ae7ccd7dd489def6433305.html|Tremblay|Albert /Tremblay/|1883|Qc|||
-ppl/c/d/eff14ae7ceb2acaf3b43c11fadc.html|Tremblay|Marie Evangelina /Tremblay/|26 MAR 1899|Lachine|||
-ppl/5/c/eff14ae7d0956be4020c9ae8ec5.html|Tremblay|Joseph Vital /Tremblay/|28 JUL 1893|Ste-Clothilde, comté Châteauguay|30 SEP 1897|Ste-Clothilde, comté Châteauguay|
-ppl/0/2/eff14ae7d273fddf8359d99d720.html|Tremblay|Marie Alexina Léonide /Tremblay/|30 AUG 1891|Sherrington|||
-ppl/8/e/eff14ae7d454e9bbc99ce198fe8.html|Tremblay|Moise /Tremblay/|1 MAR 1885|Sherrington|||
-ppl/5/9/eff14ae7d63554e751534dbe495.html|Tremblay (Sanschagrin & Remillard)|Virginie /Tremblay (Sanschagrin & Remillard)/|6 APR 1877|Sherrington, quebec|15 NOV 1941|Malone, Franklin, New York, USA|
-ppl/b/5/eff14ae7d81687b681e8fd2ee5b.html|Tremblay (Cusson)|Frasile /Tremblay (Cusson)/|ABT 1887|Quebec|22 FEB 1959|Lachine|
-ppl/b/6/eff14ae7da919758918bdcd696b.html|Tremblay|Emelia /Tremblay/|1879|Qc|||
-ppl/0/f/eff14ae7dc759eb9c6f3f7cf7f0.html|Boulerice|Therese (Marie) /Boulerice/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/c/d/eff14ae7def18f82ff3cda3cddc.html|Roy|Marie Françoise /Roy/||Sts Anges de Lachine, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
-ppl/6/b/eff14ae7e49715a357b1bc9c4b6.html|Prud'homme|Anonyme /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
-ppl/7/c/eff14ae7e67b76bc1139437ac7.html|Prud'homme|Francois Marie /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Quebec, Canada|
-ppl/0/a/eff14ae7e8f2b26ba569f6d49a0.html|Prud'homme|Nicolas Amable /Prud'homme/|22 OCT 1748|St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
-ppl/d/2/eff14ae7ec13dd745438ace62d.html|Prud'homme|Francoise Amable /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/4/d/eff14ae7ee94bbe6efa113c38d4.html|Prud'homme|Nicolas Amable /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
-ppl/3/2/eff14ae7f0730812323a34a0823.html|Prud'homme|Agathe Marie /Prud'homme/|24 NOV 1752|St Laurent, Cte Jacques Cartier, Quebec, Canada|5 SEP 1786|Montreal, Quebec, Canada|
-ppl/c/7/eff14ae7f43130f419c7c16227c.html|Prud'homme|Marie Catherine /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
-ppl/a/9/eff14ae7f616935395ba364879a.html|Prud'homme|Marie Catherine /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada|2 NOV 1755|St Laurent, Cte Jacques Cartier, Quebec, Canada|
-ppl/d/9/eff14ae7f892e98f67b6031c09d.html|Prud'homme|Eustache /Prud'homme/|6 NOV 1756|St Laurent, Cte Jacques Cartier, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/5/f/eff14ae7fa75dce66e43e514cf5.html|Prud'homme|Helene (Marie) /Prud'homme/|4 SEP 1769|Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/a/b/eff14ae7fd95acfed0f06f4b7ba.html|Prud'homme|Joseph /Prud'homme/|11 SEP 1760|Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/2/7/eff14ae803364b8d19602fc8772.html|Prud'homme|Joseph /Prud'homme/||Notre Dame, Montreal, Quebec, Canada|||
-ppl/6/f/eff14ae805115af0cbb9f1fc2f6.html|Prud'homme|Etienne /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/e/0/eff14ae8079657e40cf321a9e0e.html|Prud'homme|Jeremie Marie /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/e/4/eff14ae809746a3c7b94505ac4e.html|Prud'homme|Antoine /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
-ppl/9/d/eff14ae80b53258a2bc739292d9.html|Prud'homme|Pierre /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||St Michel de Vaudreuil, Quebec, Canada|
-ppl/3/d/eff14ae80d327e4370475a571d3.html|Archambault|Anne /Archambault/|1610|France|ABT 1671||
-ppl/b/b/eff14ae80fb6a73162182c32abb.html|Prudhomme|Elisabeth Marie /Prudhomme/|21 SEP 1663|Notre Dame, Montreal, Quebec, Canada|1 JAN 1744|Montréal, , Quebec, Canada|
-ppl/5/e/eff14ae81195c642990c1cd48e5.html|Prud'homme|François-Xavier /Prud'homme/|2 DEC 1651|Montréal, , Quebec, Canada|22 APR 1741|Montréal, , Quebec, Canada|
-ppl/1/0/eff14ae8141495d4d1f9c608c01.html|Prud'homme|Marguerite /Prud'homme/|15 MAR 1656|Montréal, , Quebec, Canada|3 SEP 1725|Montréal, , Quebec, Canada|
-ppl/f/5/eff14ae815f512a8bba20af585f.html|Prud'homme|Jeanne /Prud'homme/|24 JUN 1667|Montréal,  Quebec, Canada|12 APR 1752|Montréal,  Quebec, Canada|
-ppl/e/3/eff14ae81917473e1a8aaf7943e.html|Prud'homme|Catherine /Prud'homme/|26 MAR 1661|Notre Dame, Montreal, Quebec, Canada|24 JUN 1736|Notre Dame, Montreal, Quebec, Canada|
-ppl/f/5/eff14ae81c31cdf3be4ec660a5f.html|Prud'homme|Jeanne /Prud'homme/|24 JUN 1667|Notre Dame, Montreal, Quebec, Canada|12 APR 1752|Montréal, , Quebec, Canada|
-ppl/0/6/eff14ae81eb7240358a276cfd60.html|Prud'homme|Pierre /Prud'homme/|24 MAR 1658|Notre Dame, Montreal, Quebec, Canada|28 MAR 1703|Notre Dame, Montreal, Quebec, Canada|
-ppl/4/1/eff14ae826d17367e4bd64d1614.html|Prudhomme|Claude /Prudhomme/|1580|St Pierre de Pomponne, Meaux, Seine et Marne, Ile de France, France|30 NOV 1650|Montreal, Quebec, Canada|
-ppl/a/b/eff14ae82db66c9bf472e7409ba.html|Prudhomme|Isabelle Aliomet /Prudhomme/|1580|Meaux, Seine-et-Marne, Ile-de-France, France|30 NOV 1650|Montreal, Quebec, Canada|
-ppl/4/4/eff14ae833f2eb336adab4af144.html|Côté|Herminie (Marie Hermine) /Côté/|ABT 1854|Quebec||St-Constant, (Cté. Laprairie)|
-ppl/3/6/eff14ae842f251ffcdf06f18963.html|Prudhomme|Jean Baptist /Prudhomme/|9 APR 1821|Saint Eustache, Quebec, Canada|13 AUG 1824|Saint Eustache, Quebec, Canada|
-ppl/8/f/eff14ae84755d75e59cfeae23f8.html|Prudhomme|Marie Margurite /Prudhomme/|4 MAR 1818|Saint Eustache, Quebec, Canada|||
-ppl/2/4/eff14ae84b12857ac6502e07942.html|Prudhomme|Marie Catherine /Prudhomme/|5 MAR 1819|St-Eustache (St-Eustache), Quebec, Canada||St Benoit, Quebec, Canada|
-ppl/e/1/eff14ae8501105155e68ac2451e.html|Prudhomme|Joseph /Prudhomme/|16 APR 1825|St Eustache, Quebec, Canada|6 FEB 1893|St Eustache, Quebec, Canada|
-ppl/6/8/eff14ae85476ee8bab59fdd6d86.html|Prudhomme|Henriette /Prudhomme/|16 MAR 1823|Saint Eustache, Quebec, Canada|25 MAY 1885|Saint Eustache, Quebec, Canada|
-ppl/8/6/eff14ae85dd110138ea14067a68.html|Prudhomme|Louis Marie /Prudhomme/|16 MAR 1816|St-Eustache (St-Eustache), Quebec, Canada|||
-ppl/a/a/eff14ae86197f2bce9972db66aa.html|Labelle|Antoine /Labelle/|ABT 1884|Quebec|1974|Montreal, Quebec, Canada|
-ppl/2/7/eff14ae883f430d17ff7fce4672.html|Labelle|Joseph Antoine /Labelle/|||||
-ppl/f/c/eff14ae888f6a8623c92a6447cf.html|Thibault|Virginie /Thibault/|||||
-ppl/6/d/eff14ae88ad1a0c09bc66ec70d6.html|Ravary|Blanche /Ravary/|9 FEB 1889|Québec|1974||
-ppl/c/5/eff14ae892550c25302f85ea45c.html|Labelle|Anne Marie Jeanne Blanche /Labelle/|1916|Quebec|2008|Nanaimo, British Columbia|
-ppl/0/d/eff14ae89611e13eea48643bbd0.html|Labelle|Bertha /Labelle/||Quebec, Canada||Ste Julie, Quebec, Canada|
-ppl/a/7/eff14ae899d2b58163aed0e9c7a.html|Labelle|Therese /Labelle/||Quebec, Canada|||
-ppl/8/3/eff14ae89cf4283e1dddea86938.html|Labelle|Aline /Labelle/||Quebec, Canada|||
-ppl/8/9/eff14ae89f76ad767f96b38e298.html|Labelle|George /Labelle/||Quebec, Canada|||
-ppl/4/1/eff14ae8a511539367f97c82f14.html|Ravary|Blanche /Ravary/|||||
-ppl/5/e/eff14ae8a6fa45dfb31b11d1e5.html|Labelle|Anastasie /Labelle/|ABT 1886|Quebec|||
-ppl/9/7/eff14ae8af15b2e4c345d1d2579.html|Labelle|Joseph /Labelle/|ABT 1888|Quebec|||
-ppl/6/4/eff14ae8b73a2165b5b43cd246.html|Labelle|Blanche /Labelle/|ABT 1888|Quebec|||
-ppl/7/3/eff14ae8ba55016ac2bc6508737.html|Pinehomme|Jeannie /Pinehomme/|||||
-ppl/4/3/eff14ae8bc35b458e216f85c034.html|Prudhomme|Angelina /Prudhomme/|28 MAR 1880|Québec||Montreal, Quebec Canada|
-ppl/2/3/eff14ae8df34c6c2d6a233ead32.html|Prudhomme|Adolphe /Prudhomme/|2 SEP 1883|Québec||Montreal, Quebec, Canada|
-ppl/0/3/eff14ae8ecf6f42a63ff0917e30.html|Prudhomme|Domina /Prudhomme/|1885|Québec|||
-ppl/7/e/eff14ae8f293bfe92c1e762c4e7.html|Prudhomme|Arthur /Prudhomme/|1887|Québec|||
-ppl/b/9/eff14ae8fb56ef49671e8bbf69b.html|Prudhomme|Bertha /Prudhomme/|28 DEC 1882|Québec|||
-ppl/9/b/eff14ae90056d7bdf10b5a97eb9.html|Prudhomme|Moise /Prudhomme/|8 MAR 1896|Québec||Montreal, Quebec, Canada|
-ppl/3/0/eff14ae907d6d1cef3b9642b803.html|Prudhomme|Pana /Prudhomme/|24 MAY 1900|Québec||Montreal, Quebec, Canada|
-ppl/0/b/eff14ae91135812cd723d0914b0.html|Prudhomme|René /Prudhomme/|ABT 1903|Quebec||Montreal, Quebec, Canada|
-ppl/e/1/eff14ae9163675fa762be611c1e.html|Prudhomme|Annette /Prudhomme/|ABT 1900|Quebec|||
-ppl/5/6/eff14ae91bd7140f92ff288ce65.html|Prud'homme|Marie Georgina /Prud'homme/||St Henri, Montreal, Quebec, Canada|||
-ppl/1/9/eff14ae91db2ffeb88c31189891.html|Prud'homme|Paul /Prud'homme/|ABT 1906|Quebec|||
-ppl/3/8/eff14ae925d560fe9e4bc240083.html|Prud'homme|Anita /Prud'homme/|ABT 1910|Quebec|||
-ppl/d/1/eff14ae92a35909c6f883c66b1d.html|Prud'Homme|Roger /Prud'Homme/|ABT 1915|Quebec|||
-ppl/2/7/eff14ae9357265d705f03d12e72.html|Prud'homme|Leopold (Joseph Lucien) /Prud'homme/|ABT 1879|Quebec||St Hubert, St Thomas de Villeneuve, Montreal, Quebec, Canada|
-ppl/5/a/eff14ae93ed33bacb1e850d8ca5.html|Labelle|Bertha /Labelle/|ABT 1881|Quebec|||
-ppl/4/8/eff14ae94472389968a8f705684.html|Prud'Homme|Laurent /Prud'Homme/|ABT 1912|Quebec|||
-ppl/0/0/eff14ae94fb5c55a38e66599700.html|Prud'Homme|Mariette /Prud'Homme/|ABT 1908|Quebec|||
-ppl/6/a/eff14ae95554b2bc2612c853ea6.html|Prud'homme|Emile (Joseph Zepherin) /Prud'homme/|28 NOV 1884|Québec|||
-ppl/9/0/eff14ae963b7e558f5225d7e809.html|Beaulieu|Blanche (Marie Odila) /Beaulieu/||St Laurent, Cte Jacques Cartier, Quebec, Canada|||
-ppl/a/7/eff14ae966d7fa3c92d4e43b87a.html|Prud'homme|Moise (Benoit) /Prud'homme/|1862|Quebec|18 NOV 1934|St Jean Domascene, Montreal, Quebec, Canada|
-ppl/6/d/eff14ae980768ba7f5120878ad6.html|Prud'homme|Jérémie /Prud'homme/|ABT 1812|Canada||St Benoit, Quebec, Canada|
-ppl/8/d/eff14ae9a55177def04004742d8.html|Roussin|Tharsille /Roussin/||Saint Eustache, Quebec, Canada|1868|Saint Benoit, Quebec, Canada|
-ppl/3/1/eff14ae9b09126161f386d59e13.html|Cote|Herminie (Marie Hermine) /Cote/|ABT 1861|Quebec||Notre Dame, Montreal, Quebec, Canada|
-ppl/4/0/eff14ae9bb34a2e36dd13caf204.html|Prud'homme|Jeremie (Pierre) /Prud'homme/|1790|Lower Canada|12 OCT 1861|St Eustache, Quebec, Canada|
-ppl/e/0/eff14ae9cd512fcfba1d0d2c60e.html|Courault|Marie Anne /Courault/|1689|Montreal, Quebec, Canada|30 NOV 1778|Notre Dame, Montreal, Quebec, Canada|
-ppl/6/4/eff14ae9d259af25618f01d846.html|Prud'homme|Bernadette (Marie Alexina) /Prud'homme/||St Irenee, Montreal, Quebec, Canada|||
-ppl/5/2/eff14ae9d5746cfa1d5c6d04425.html|Prud'homme|Antoinette (Marie Angelina) /Prud'homme/||St Paul, Montreal, Quebec, Canada||Verdun, Quebec, Canada|
-ppl/f/e/eff14ae9d931a2836015b5be9ef.html|Prud'homme|Armand (Joseph Moise) /Prud'homme/||St Irenee, Montreal, Quebec, Canada||Montreal, Quebec, Canada|
-ppl/8/3/eff14ae9e01188adc398b4d5738.html|Prudhomme|Jeremie /Prudhomme/|5 JUL 1846|Saint Benoit, Quebec, Canada|6 MAY 1923|Hilsdale, Columbia New York|
-ppl/b/e/eff14ae9e1f7e1a9e80d45110eb.html|Prudhomme|Michel /Prudhomme/|26 MAR 1848|St Benoit, Quebec,Canada|10 SEP 1912|St Benoit, Quebec, Canada|
-ppl/b/7/eff14ae9e475dc2fb83d09bd87b.html|Prudhomme|Pierre /Prudhomme/|22 FEB 1850|St Benoit, Quebec, Canada|||
-ppl/e/d/eff14ae9e657489b8077e81efde.html|Prud'homme|Marie Elmire /Prud'homme/|27 APR 1860|St Benoit, Quebec, Canada||St Benoit, Quebec, Canada|
-ppl/e/8/eff14ae9e8d292d2998c1ca238e.html|Prud'homme|Tharsille (Marie) /Prud'homme/|29 MAY 1858|St Benoit, Quebec, Canada||St Benoit, Quebec, Canada|
-ppl/4/2/eff14ae9f37651f11b3ccdba424.html|Prud'homme|Louis /Prud'homme/|16 APR 1852|St Benoit, Quebec, Canada|30 APR 1856|St Benoit, Quebec, Canada|
-ppl/3/5/eff14ae9f87721abf61cb4eb853.html|Prud'homme|Joseph (Marie) /Prud'homme/|11 JUL 1856|St Benoit, Quebec, Canada|23 MAR 1940|Montreal, Quebec, Canada|
-ppl/6/a/eff14ae9fa5428407b044658ea6.html|Prud'homme|Marie Tharsile /Prud'homme/|28 MAY 1854|St Benoit, Quebec, Canada|16 MAY 1856|St Benoit, Quebec, Canada|
-ppl/b/9/eff14ae9ff516fbeed080a6bf9b.html|Hurtubise|Marie Louise /Hurtubise/|12 MAR 1785|Montréal, , Quebec, Canada|30 MAR 1856|Saint-Eustache, , Quebec, Canada|
-ppl/6/9/eff14aea059806cf275a51c896.html|Prud'homme|Francois /Prud'homme/|8 DEC 1685|Notre Dame, Montreal, Quebec, Canada|17 NOV 1710|Montréal, Quebec, Canada|
-ppl/c/1/eff14aea1c16b9757038cabce1c.html|Prud'homme|Joseph /Prud'homme/||Montreal Region, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
-ppl/0/3/eff14aea2253e3a81135da61b30.html|Prudhomme|Marie-Françoise /Prudhomme/|25 NOV 1720|Notre Dame, Montreal, Quebec, Canada|19 APR 1803|Montreal, Montreal Region, Quebec, Canada|
-ppl/f/f/eff14aea2c5641965aa310173ff.html|Prud'homme|Francois Xavier /Prud'homme/|2 DEC 1651|Montreal, Montreal Region, Quebec, Canada|22 APR 1741|Montreal, Quebec, Canada|
-ppl/c/e/eff14aea44b55f8e18c054ed3ec.html|Gervaise|Cecile /Gervaise/|17 SEP 1671|Montréal, Quebec, Canada|6 OCT 1760|Montreal, Montreal Region, Quebec, Canada|
-ppl/f/1/eff14aea4d77f9e62959c93b1f.html|Prudhomme|Cunegonde /Prudhomme/|26 DEC 1690|Notre Dame, Montreal, Quebec, Canada|18 OCT 1735|Montreal Basilique Notre Dame, Quebec, Canada|
-ppl/3/5/eff14aea52732c61f9163bf4453.html|Prudhomme|Catherine Marguerite /Prudhomme/|31 JAN 1692|Montréal, Quebec, Canada|16 APR 1774|Montréal, , Quebec, Canada|
-ppl/7/1/eff14aea581110abc673a5f6917.html|Prudhomme|Louis /Prudhomme/|25 NOV 1701|Montreal Basilique Notre Dame, , Quebec, Canada|27 SEP 1751|Montreal Basilique Notre Dame, , Quebec, Canada|
-ppl/6/5/eff14aea5db1bdde05c6edbd356.html|Prudhomme|Jean Baptiste /Prudhomme/|17 MAY 1710|Montreal Basilique Notre Dame, Quebec, Canada|16 JAN 1795|Montréal, Quebec, Canada|
-ppl/3/6/eff14aea603245dca6873452a63.html|Prudhomme|Madeleine /Prudhomme/|5 APR 1706|Montréal, Quebec, Canada|1708|Montréal, , Quebec, Canada|
-ppl/7/5/eff14aea6492bdcb7a7ab3f5657.html|Prudhomme|Marie-Anne /Prudhomme/|26 DEC 1699|Montréal, Quebec, Canada|4 OCT 1784|Montréal, Quebec, Canada|
-ppl/2/7/eff14aea6c176e9b46752dd3b72.html|Prudhomme|Cécile /Prudhomme/|25 FEB 1689|Montréal, Quebec, Canada|18 JUL 1777|Montréal, Quebec, Canada|
-ppl/1/6/eff14aea73941498e06cc6fbd61.html|Prudhomme|Marie-Anne /Prudhomme/|29 JAN 1699|Mont-Royal, Montreal Region, Quebec, Canada|ABT 1699|Montreal, Montreal Region, Quebec, Canada|
-ppl/6/e/eff14aea7e3631194f09570bee6.html|Prudhomme|Elizabeth /Prudhomme/|24 JAN 1703|Montréal, Quebec, Canada|20 MAR 1707|Montréal, Quebec, Canada|
-ppl/9/0/eff14aea8297efc51308f57f609.html|Prudhomme|Marie /Prudhomme/|31 JAN 1694|Montréal, Quebec, Canada|ABT 1699|Montréal, Quebec, Canada|
-ppl/8/4/eff14aea8975c1f55b921f2c248.html|Prudhomme|Elizabeth /Prudhomme/|1 MAY 1708|Montréal, Quebec, Canada|30 NOV 1786|Montréal, Quebec, Canada|
-ppl/8/3/eff14aea8bf62a83f86f534f238.html|Prudhomme|Jeanne /Prudhomme/|2 APR 1697|Montréal, Quebec, Canada|2 FEB 1699|Montréal, Quebec, Canada|
-ppl/8/4/eff14aea93758ad18b4b1aae348.html|Prud'homme|Jean-Baptiste /Prud'homme/|14 FEB 1687|Montréal, Quebec, Canada|10 NOV 1709|Montréal, Quebec, Canada|
-ppl/4/4/eff14aea973176d40eba3585844.html|Prudhomme|Marie-Josephe /Prudhomme/|7 FEB 1712|Montréal, Quebec, Canada|10 FEB 1712|Montréal, Quebec, Canada|
-ppl/0/1/eff14aea9af4b38ec9a4be48710.html|Prud'homme Aliomet|Louis /Prud'homme Aliomet/|1608|St-Pierre de Pomponne, archev. Paris, Ile-de-France (ar. Meaux, Seine-et-Marne), France|2 JUL 1671|Montréal, Quebec, Canada|
-ppl/d/e/eff14aeaadb7ca4f1a3b3b9fded.html|Gadois|Marie-Roberte /Gadois/|15 SEP 1628|Fresney, Calvados, Basse-Normandie, St Martin, Orne, Perche, France|14 SEP 1716|Notre Dame, Montreal, Quebec, Canada|
-ppl/3/b/eff14aeabb74ad2b181bbc3eb3.html|Prud'homme|Paul /Prud'homme/|27 FEB 1654|Montreal Basilique Notre Dame, , Quebec, Canada|1667|Montréal, Quebec,  Canada|
-ppl/2/e/eff14aeabd5d481bedfe2b1fe2.html|Prud'homme|Marguerite /Prud'homme/|15 MAR 1656|Notre Dame, Montreal, Quebec, Canada|3 SEP 1725|Notre Dame, Montreal, Quebec, Canada|
-ppl/1/1/eff14aeac2540a5a10e21675611.html|Prud'homme|Elisabeth /Prud'homme/|21 SEP 1663|Notre Dame, Montreal, Quebec, Canada|1 JAN 1744|Montréal, , Quebec, Canada|
-ppl/5/4/eff14aeac4320b216d13cc1545.html|Prud'homme|Paul /Prud'homme/|27 FEB 1654|Notre Dame, Montreal, Quebec, Canada|1667|Montréal, Quebec, Canada|
+ppl/1/2/eff431d4f57630959e684189021.html||Beaunre //|||||
+ppl/3/e/eff431d4f892c8a794e46f5d2e3.html||K.c. //|||||
+ppl/1/4/eff431d4fa7881df3f43b48641.html|Prudhomme|Nicolas /Prudhomme/|||||
+ppl/4/8/eff431d4fd94cd398c459b88784.html|Prud'homme|Sophie (Marie) /Prud'homme/|1 MAR 1810|Saint-Luc, Huntingdon, Canada East (Quebec), Canada|19 JUL 1892|Saint-Constant, La Prairie, Quebec, Canada|
+ppl/b/1/eff431d5015288af14785bac21b.html|Prud’homme|Marie-Josephe /Prud’homme/|14 SEP 1793|Montréal ; ; Qc ; Can||St Constant, Cte Laprairie, Quebec, Canada|
+ppl/8/6/eff431d503d7acae64344b84e68.html|Prud’homme|Marie Catherine /Prud’homme/|11 OCT 1790|Montréal, , , Qc, Can,|2 SEP 1859|Notre Dame, Montreal, Quebec, Canada|
+ppl/9/f/eff431d505b67bc4eee9d2d33f9.html|Prud’homme|Marie-Josephe /Prud’homme/|6 APR 1796|Montréal, , , Qc, Can,|31 JUL 1796|Montréal (Basilique Notre-Dame), Quebec, Canada|
+ppl/f/d/eff431d508d5a20ee8247504adf.html|Prud’homme|Antoine /Prud’homme/|ABT 1791|Montréal (Basilique Notre-Dame), Québec|||
+ppl/4/0/eff431d50bf49599f1413e94704.html|Prud’homme|Gervais /Prud’homme/|4 MAY 1797|Montréal (Basilique Notre-Dame), Québec|7 MAR 1886|Montréal (Basilique Notre-Dame), Quebec, Canada|
+ppl/5/5/eff431d50fb75b1e58f37fab255.html|Prud’homme|Nicolas /Prud’homme/|27 NOV 1798|Montréal, Quebec, Canada||St Isidore, Cte Napierville, Laprairie, Quebec, Canada|
+ppl/a/d/eff431d512355258f82755976da.html|Prud'homme|Marie Anne /Prud'homme/||Notre Dame, Montreal, Quebec, Canada|||
+ppl/a/d/eff431d523b3c6dbc67a4ed07da.html|Prud'homme|Eustache (Marie) /Prud'homme/|26 NOV 1794|Notre Dame, Montreal, Quebec, Canada||Notre Dame de Graces, Montreal, Quebec, Canada|
+ppl/f/d/eff431d525915a10912fe16eddf.html|Prud'homme|Marguerite /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||St Raphael, Ile Bizard, Cte Jacques Cartier, Quebec, Canada|
+ppl/8/3/eff431d52813a7444f2bc108638.html|Prud'homme|Michel (Marie) /Prud'homme/|7 JAN 1801|Notre Dame, Montreal, Quebec, Canada|||
+ppl/7/6/eff431d529f560a8b60baa2e967.html|Prud'homme|Marie Helene /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/7/5/eff431d52bd141568cd46b6bc57.html|Prud'homme|Joseph (Marie) /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame de Graces, Montreal, Quebec, Canada|
+ppl/8/6/eff431d52db2a064c9f43063b68.html|Prud'homme|Helene (Marie) /Prud'homme/|20 SEP 1807|Notre Dame, Montreal, Quebec, Canada||St Constant, Cte Laprairie, Quebec, Canada|
+ppl/2/0/eff431d530325ab5f090bfdb602.html|Prud'homme|Marie Elizabeth /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/c/5/eff431d53213da14875927515c.html|Prud'homme|Marie Sophie /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/7/8/eff431d5349366033c437d4a887.html|Tremblay|Edouard /Tremblay/|JUL 1880|Quebec|||
+ppl/b/2/eff431d53674d8c115e19be4e2b.html|Tremblay|Regina /Tremblay/|1891|Qc|||
+ppl/9/2/eff431d538577128f5c7eb5a029.html|Tremblay|Edwidge /Tremblay/|8 APR 1883|Quebec|||
+ppl/a/4/eff431d53a3faa5c9bbc553f4a.html|Tremblay|Marie Louise /Tremblay/|1 OCT 1888|Sherrington|||
+ppl/1/3/eff431d53c168eead7974463d31.html|Tremblay|Joseph /Tremblay/|ABT 1882|Quebec|||
+ppl/2/e/eff431d53df19b9ef649ef947e2.html|Tremblay|Arthur /Tremblay/|||||
+ppl/c/b/eff431d53f36f6fac64a8d2adbc.html|Tremblay|Albert /Tremblay/|ABT 1916|Quebec|||
+ppl/5/a/eff431d541129991f1eee14a4a5.html|Tremblay|Edouard /Tremblay/|30 MAR 1824|St-Philippe, Roussillon, Quebec, Canada|2 MAR 1914|Sherrington, Québec, Canada|
+ppl/5/3/eff431d5489694f5983336b1535.html|Filion Felion|Justine /Filion Felion/|22 APR 1824|St-Constant, Roussillon, Quebec, Canada|6 APR 1891|St-Patrice, Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/d/a/eff431d54b12ea4655855864aad.html|Tremblay|Camille /Tremblay/|1848|Quebec, Canada|23 APR 1856||
+ppl/c/b/eff431d54d92d731f89aeca2fbc.html|Tremblay|Marie Justine /Tremblay/|26 SEP 1846|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|9 JUL 1860|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/7/1/eff431d54f75107f7d5fefa917.html|Tremblay|Marie Delia /Tremblay/|9 MAR 1861|Sherrington, Laprairie-Napierville, Quebec, Canada|23 MAR 1862|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/4/2/eff431d551553e74d8a4751a324.html|Tremblay|Edouard /Tremblay/|1844|St-Édouard, Les Jardins-de-Napierville, Quebec, Canada|12 JAN 1912|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/c/2/eff431d5533499b7662c9949b2c.html|Tremblay|Moise /Tremblay/|24 APR 1849|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|17 JUL 1870|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/c/1/eff431d555bce4e0c5d565f31c.html|Tremblay|Paul /Tremblay/|30 SEP 1854|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|13 APR 1941|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/b/a/eff431d558341d00550e18231ab.html|Tremblay|Etienne /Tremblay/|23 FEB 1859|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|4 APR 1860|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/3/0/eff431d55a14c35b3e512969003.html|Tremblay|Joseph Salomon /Tremblay/|30 OCT 1852|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|11 NOV 1927|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/c/c/eff431d55bf4d74add3b1b462cc.html|Hebert|Celeste /Hebert/|6 JUN 1863|Scotia, Schenectady, New York, USA|1945||
+ppl/6/d/eff431d55dd5c0369b565d3dd6.html|Nadeau|Salamire Sylvie /Nadeau/|3 APR 1844|St-Joseph-de-Beauce, Robert-Cliche, Quebec, Canada|1918|New Bedford, Bristol, Massachusetts, USA|
+ppl/a/0/eff431d560562d55c467863580a.html|Tremblay|François Clovis /Tremblay/|25 DEC 1792|Notre-Dame-de-LaPrairie-de-la-Madeleine, La Prairie, Roussillon, Quebec, Canada|18 FEB 1857|St-Patrice, Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/2/0/eff431d5623721a12efa3cbeb02.html|Hamelin|Marie Marguerite /Hamelin/|ABT 1800|Québec, Canada|1843|Quebec, Canada|
+ppl/e/f/eff431d56426d6d31401143ddfe.html|FILION FELLION|Pierre Marie /FILION FELLION/|1 FEB 1794|St-Philippe, Roussillon, Quebec, Canada|13 JUN 1857|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/d/9/eff431d565f6cabb21116a47e9d.html|ROY|Marie Louise /ROY/|1 JUN 1801|St-Constant, Roussillon, Quebec, Canada|4 MAR 1829|St Francois, Beauceville, Quebec, Canada|
+ppl/e/1/eff431d56c37d411ba8a3c0d01e.html|FILION FELLION|Theophile Peter /FILION FELLION/|7 OCT 1821|St-Constant, Roussillon, Quebec, Canada|ABT 1880|Malone, Franklin, New York, USA|
+ppl/e/f/eff431d56eb430e6a837f9625fe.html|Fellion|Paul Jean Baptiste /Fellion/|16 MAY 1835|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|2 AUG 1861|Sherrington, Quebec, Canada|
+ppl/d/8/eff431d5709ee2887024a6888d.html|Filion|Marie /Filion/|17 APR 1825|St-Constant, Roussillon, Quebec, Canada|7 AUG 1825|St-Constant, Roussillon, Quebec, Canada|
+ppl/6/3/eff431d573147cb580364dfc536.html|Fellion|Emilie Amelia Marie /Fellion/|9 APR 1839|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|23 NOV 1893|Malone, Franklin, New York, USA|
+ppl/1/9/eff431d57597c3309268f161a91.html|FILION|Pierre Maxime /FILION/|25 AUG 1819|St-Constant, Roussillon, Quebec, Canada|||
+ppl/4/4/eff431d5777158edbbeb85c7544.html|FILION|Flavie /FILION/|5 AUG 1820|St-Constant, Roussillon, Quebec, Canada|22 SEP 1821|St-Constant, Roussillon, Quebec, Canada|
+ppl/a/5/eff431d57953b6dbce4b88afe5a.html|FILION|Flavie /FILION/|26 FEB 1823|St-Constant, Roussillon, Quebec, Canada|||
+ppl/e/3/eff431d57b370f520306742643e.html|FILION|Joseph Olivier /FILION/|ABT APR 1819|Quebec, Canada|14 AUG 1819|St-Constant, Roussillon, Quebec, Canada|
+ppl/5/c/eff431d57db61a5e56986615dc5.html|FILION|Marie /FILION/|29 APR 1826|St-Constant, Roussillon, Quebec, Canada|16 JUN 1826|St-Constant, Roussillon, Quebec, Canada|
+ppl/8/6/eff431d5803e3ead691d5eb068.html|FILION|Marie /FILION/|ABT 1822|Quebec, Canada|11 AUG 1826|St-Constant, Roussillon, Quebec, Canada|
+ppl/8/8/eff431d58215eec7e341270e88.html|FILION|Marie /FILION/|ABT JUL 1830|Quebec, Canada|10 AUG 1830|St-Constant, Roussillon, Quebec, Canada|
+ppl/7/f/eff431d584911e74093b37426f7.html|FILION|Marie Lina /FILION/|7 JAN 1833|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|26 OCT 1834|St-Rémi, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/0/5/eff431d5871f9f07513b67cc50.html|FILION|Alexis Alexandre /FILION/|20 MAR 1829|St-Constant, Roussillon, Quebec, Canada|27 JAN 1836|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/f/a/eff431d589935c166e73012a5af.html|FILION|Joseph Alfred /FILION/|17 MAR 1834|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|||
+ppl/3/3/eff431d58b75286cd86fba77133.html|FILION|Philomene /FILION/|13 OCT 1840|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|19 FEB 1856|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/e/2/eff431d59076dacb9025997792e.html|FILION|Joseph /FILION/|23 MAY 1843|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|||
+ppl/3/d/eff431d59306834abe0e41e88d3.html|FILION|Alphonse /FILION/|13 SEP 1844|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|29 SEP 1844|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/6/d/eff431d594e5e3ee81a3d9928d6.html|FILION|Hedwidge /FILION/|28 FEB 1846|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|22 JAN 1855|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/7/7/eff431d59755ad3c35c5cf8aa77.html|FILION|Eulalie Eudalie /FILION/|3 DEC 1827|St-Constant, Roussillon, Quebec, Canada|30 JUN 1902|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/a/a/eff431d5993343e262445350caa.html|FILION|Marie Leocadie /FILION/|7 JUL 1831|St-Rémi, Les Jardins-de-Napierville, Quebec, Canada|22 APR 1897|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/d/e/eff431d59bb3e9f6bf0ac9444ed.html|Fileau|Peter /Fileau/|ABT 1820|Canada|ABT 23 OCT 1881|Malone, Franklin, New York, USA|
+ppl/7/e/eff431d59e3877425f881ddae7.html|FILION|Marie /FILION/|ABT JUL 1830|Quebec, Canada|10 AUG 1830|St-Constant, Roussillon, Quebec, Canada|
+ppl/2/1/eff431d5a1f45546741dc908512.html|FILION|Marie Leocadie /FILION/|7 JUL 1831|St-Rémi, Les Jardins-de-Napierville, Quebec, Canada|22 APR 1897|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/e/b/eff431d5a65171f13f7248049be.html|Filion|Marie /Filion/|17 APR 1825|St-Constant, Roussillon, Quebec, Canada|7 AUG 1825|St-Constant, Roussillon, Quebec, Canada|
+ppl/2/1/eff431d5a9713df57f54ca5a912.html|Fellion|Emilie Amelia Marie /Fellion/|9 APR 1839|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|23 NOV 1893|Malone, Franklin, New York, USA|
+ppl/7/7/eff431d5abf640de45a24a1b177.html|FILION|Pierre Maxime /FILION/|25 AUG 1819|St-Constant, Roussillon, Quebec, Canada|14 AUG 1819|Saint-Constant, Roussillon, Quebec, Canada|
+ppl/c/0/eff431d5af1583f6a1e7798dc0c.html|FILION|Flavie /FILION/|5 AUG 1820|St-Constant, Roussillon, Quebec, Canada|22 SEP 1821|St-Constant, Roussillon, Quebec, Canada|
+ppl/4/2/eff431d5b0f1d89945e3ab65224.html|Prud'homme|Onesime (Marie) /Prud'homme/|2 MAR 1864|St Benoit, Quebec, Canada|17 MAY 1887|St Benoit, Quebec, Canada|
+ppl/7/0/eff431d5b37385ff09e655e7607.html|Legault\Deslauriers|Camille /Legault\Deslauriers/|1848|Quebec|1926|ND de la Salette, Quebec, Canada|
+ppl/7/5/eff431d5baf59809398f2451457.html|Legault Deslauriers|Marie Rose Anna /Legault Deslauriers/||St Eustache, Quebec, Canada|||
+ppl/d/b/eff431d5beb2527d68656f763bd.html|Legault\Deslauriers|Marie Eugenie /Legault\Deslauriers/||St Eustache, Quebec, Canada|||
+ppl/d/0/eff431d5c31624d4ef56c2d170d.html|Legault|Camille /Legault/|1879|Quebec|1938||
+ppl/4/2/eff431d5c63463799e8c3a8d524.html|Legault|Clementine /Legault/|ABT 1873|Quebec|||
+ppl/8/9/eff431d5c9f13ad8fb9bd0fa998.html|Legault|Caroline /Legault/|ABT 1874|Quebec|||
+ppl/b/1/eff431d5cef18d46ea7f40bef1b.html|Legault|Clodomir /Legault/|ABT 1875|Quebec|||
+ppl/b/8/eff431d5d2117e29fcea379d18b.html|Legault|Clara /Legault/|ABT 1885|Quebec|||
+ppl/e/8/eff431d5dad5c6a694f30485e8e.html|Legault|Alfred /Legault/|ABT 1884|Quebec|||
+ppl/9/6/eff431d5ddf7aaf266867c62069.html|Legault|Rose /Legault/|ABT 1880|Quebec|||
+ppl/8/f/eff431d5e2547a5bb33498b44f8.html|Tremblay|M Louise /Tremblay/|||||
+ppl/e/f/eff431d5e4d460c95d3e6461cfe.html|Synnett|Xavier /Synnett/|28 OCT 1845|Gaspé, , Quebec, Canada|24 OCT 1914|Rivière-la-madeleine, comté Gaspé, Québec, Canada|
+ppl/2/0/eff431d5e7f5da7807909f0a602.html|Gagnon|Marie /Gagnon/||Madeleine, Orne, Basse-Normandie, France|||
+ppl/2/1/eff431d5ea759b4d48a48118e12.html|Synnett|Abraham /Synnett/|1868||27 DEC 1916|Mont-Louis,Gaspesie,Québec,Canada|
+ppl/c/a/eff431d5ec567c029c82af18bac.html|Synnett|Eloi /Synnett/|5 SEP 1869|Gaspé, , Quebec, Canada|14 NOV 1946|Gaspé, , Quebec, Canada|
+ppl/8/6/eff431d5ee323de68d011c6f368.html|Synnett|Azilda /Synnett/|1883|Ste-Madeleine,QC,CND|1905||
+ppl/4/c/eff431d5f0b1eac542f38c056c4.html|Synnett|Marie Rachel /Synnett/|25 OCT 1892|Gaspé, , Quebec, Canada||Montréal, , Quebec, Canada|
+ppl/1/2/eff431d5f792e654b58a8d4b721.html|Boucher|Marie Amanda /Boucher/||Ste Anne Des Monts, Denis, Quebec, Canada|||
+ppl/8/4/eff431d5f974b48a2e190189748.html|Gagnon|Lucien /Gagnon/|3 OCT 1827||||
+ppl/2/b/eff431d5fb673f8beeb1d3c12b2.html|Gagne|Marie Olive /Gagne/||St-Urbain (Charlevoix) ; ; Qc ; Can|1866||
+ppl/3/3/eff431d5fca34a6d66d0b890033.html|SYNNETT|Marie Alma /SYNNETT/|31 JUL 1874|Sainte-Madeleine-de-la-Rivière-Madeleine,,,,,||Grande Vallée, Gaspésie Quebec|
+ppl/d/a/eff431d5ff245a174e43d3873ad.html|Synnott (Sinnette)|Joseph Euloge /Synnott (Sinnette)/||Rivière-la-Madeleine, La Haute-Gaspésie, Quebec, Canada|1965|montreal|
+ppl/9/5/eff431d60106ff9e6bb6bf80c59.html|SYNNETT|Jean Baptiste Xavier /SYNNETT/|10 DEC 1888|Rivière-la-Madeleine, La Haute-Gaspésie, Quebec, Canada|||
+ppl/e/7/eff431d602d69aa5f636571dd7e.html|Synnott|Honoré /Synnott/|1897|Quebec|||
+ppl/c/d/eff431d604b7651ac4607b267dc.html|Synnett|Maria Alexina /Synnett/||Ste-Madeleine,QC,CND||Montréal|
+ppl/9/3/eff431d607d7e032f09e9c45a39.html|Synnott|Henri /Synnott/|||||
+ppl/c/f/eff431d609b28561818165141fc.html|Synnett|Jean Baptiste Xavier /Synnett/||Qc|||
+ppl/b/3/eff431d60b97d95a36a8a36d3b.html|Synnett|Euloge /Synnett/|12 FEB 1877|Rivière-la-Madeleine,  (Comté-de-Gaspé), Québec, Canada|||
+ppl/7/9/eff431d60cd7b41e64a5f69a197.html|SYNNETT|Pierre /SYNNETT/|ABT 1873|Mont-Louis, La Haute-Gaspésie, Quebec, Canada|||
+ppl/2/4/eff431d61273aa6471ece9fd42.html|Decarie|Marie-Louise /Decarie/|15 DEC 1769|Notre Dame, Montreal, Quebec, Canada|24 MAR 1855|Notre Dame, Montreal, Quebec, Canada|
+ppl/a/f/eff431d616365d74b891987bffa.html|Simon Delorme|Marie Helene /Simon Delorme/|13 NOV 1729|Terrebonne, Québec, Canada|8 DEC 1789|Montréal, Québec, Canada|
+ppl/5/6/eff431d61e51a57b59420ae0b65.html|Prud'homme|Josephe (Marie) /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/f/3/eff431d621798b34af0273213f.html|Prud'homme|Marguerite /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame de Laprairie de la Madeine, Laprairie, Quebec, Canada|
+ppl/7/b/eff431d624914826604a009b6b7.html|Prud'homme|Cecile /Prud'homme/||Notre Dame, Montreal, Quebec, Canada|AFT 1756|Notre Dame, Montreal, Quebec, Canada|
+ppl/f/b/eff431d627b24fb1557248bd9bf.html|Prud'homme|Michel Amable /Prud'homme/|18 FEB 1733|Notre Dame, Montreal, Quebec, Canada|7 OCT 1753|Fort de la, Michigan, United States|
+ppl/5/c/eff431d62ad272d5c69c4cbddc5.html|Prud'homme|Francois Xavier /Prud'homme/|6 SEP 1711|Notre Dame, Montreal, Quebec, Canada|2 SEP 1773|Assomption de Detroit (Sandwich), Ontario, Canada|
+ppl/6/3/eff431d62e95cb8ef13d6d4a236.html|Prudhomme|Marie-Catherine /Prudhomme/|27 AUG 1729|Montréal, Quebec, Canada|1787|Montréal, Quebec, Canada|
+ppl/c/4/eff431d630724e89e5c87f0164c.html|Prud'homme|Catherine (Marie) /Prud'homme/|23 JUL 1714|Notre Dame, Montreal, Quebec, Canada|30 JAN 1792|Notre Dame, Montreal, Quebec, Canada|
+ppl/a/1/eff431d634357f04294b42f601a.html|Prud'homme|Elizabeth /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Reims, Hotel-Dieu, France|
+ppl/0/4/eff431d636b325be2b80d242540.html|Prud'homme|Marie Anne /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/c/9/eff431d6393641f36cef603309c.html|Prudhomme|François-Xavier /Prudhomme/|||||
+ppl/c/f/eff431d63a75ffdc40ca3a01ffc.html|FILION|Flavie /FILION/|26 FEB 1823|St-Constant, Roussillon, Quebec, Canada|11 AUG 1826|Saint-Constant, Laprairie, Quebec, Canada|
+ppl/b/7/eff431d63d016049e8b91ff637b.html|FILION|Joseph Olivier /FILION/|ABT APR 1819|Quebec, Canada|14 AUG 1819|St-Constant, Roussillon, Quebec, Canada|
+ppl/2/3/eff431d64013fffc615b2121332.html|FILION|Marie Lina /FILION/|7 JAN 1833|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|26 OCT 1834|St-Rémi, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/8/2/eff431d646663bbe40d4e349428.html|FILION|Alexis Alexandre /FILION/|20 MAR 1829|St-Constant, Roussillon, Quebec, Canada|27 JAN 1836|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/7/7/eff431d64a14a3de587befa2977.html|FILION|Joseph Alfred /FILION/|17 MAR 1834|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|2 NOV 1834|Saint-Rémi, Les Jardins-De-Napierville, Quebec, Canada|
+ppl/3/1/eff431d64dd294a0af23ce79813.html|FILION|Philomene /FILION/|13 OCT 1840|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|19 FEB 1856|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/1/1/eff431d650520431d60043f11.html|FILION|Alphonse /FILION/|13 SEP 1844|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|29 SEP 1844|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/5/7/eff431d652d693964d38e4ee675.html|FILION|Hedwidge /FILION/|28 FEB 1846|St-Edouard, Les Jardins-de-Napierville, Quebec, Canada|22 JAN 1855|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/e/1/eff431d655535949f4e8bc0811e.html|FILION|Eulalie Eudalie /FILION/|3 DEC 1827|St-Constant, Roussillon, Quebec, Canada|30 JUN 1902|St-Michel, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/5/2/eff431d6573287486cbdb271625.html|Fellion|Paul Jean Baptiste /Fellion/|16 MAY 1835|St-Remi, Les Jardins-de-Napierville, Quebec, Canada|2 AUG 1861|Sherrington, Quebec, Canada|
+ppl/6/0/eff431d659b7e0fb6078e1fde06.html|FILION|Marie /FILION/|ABT 1822|Quebec, Canada|11 AUG 1826|St-Constant, Roussillon, Quebec, Canada|
+ppl/9/2/eff431d65c3309f4411b49e9829.html|FILION|Marie /FILION/|29 APR 1826|St-Constant, Roussillon, Quebec, Canada|16 JUN 1826|St-Constant, Roussillon, Quebec, Canada|
+ppl/3/2/eff431d65eb43f61d975982ef23.html|Fillion|Amelia or Emilie /Fillion/|1840|Québec, Quebec, Canada|25 NOV 1893|Malone,Franklin,New York,USA|
+ppl/f/d/eff431d6609546d2e6fab1ff8df.html|Filion|Marie Olive /Filion/|3 DEC 1827|Saint-Constant, Roussillon, Quebec, Canada|||
+ppl/5/d/eff431d662757d44f30c2ec9ed5.html|Filion|Onèsime /Filion/|29 JUN 1830|Saint-Constant, Roussillon, Quebec, Canada|10 AUG 1830|Saint-Constant, Roussillon, Quebec, Canada|
+ppl/d/3/eff431d664ffd5f7d53a986f3d.html|Fellion\dit Filion|Theophile Peter /Fellion\dit Filion/|7 OCT 1821|Saint-Constant, Laprairie, Quebec, Canada|AFT 1880|Malone, Franklin, New York, USA|
+ppl/6/3/eff431d66811860478c68e3d36.html|Tremblay|Paul /Tremblay/|||||
+ppl/f/5/eff431d66959c16c630931635f.html|Tremblay|Joseph /Tremblay/|30 OCT 1852||||
+ppl/a/7/eff431d66db4587ab7f2e1a0f7a.html|Labelle|Bertha /Labelle/||Quebec, Canada||Ste Julie, Quebec, Canada|
+ppl/5/f/eff431d672b2ded4dd32b733cf5.html|Labelle|Antoine /Labelle/|ABT 1885|Montreal, Quebec, Canada|1974|Montreal, Quebec, Canada|
+ppl/2/e/eff431d67532cce53bda762e0e2.html|Ravary|Blanche /Ravary/|9 FEB 1889|Québec|1974||
+ppl/c/4/eff431d6771221a6dcd2559714c.html|Labelle|Marie Jeanne Blanche /Labelle/|1916|Québec|2008|Nanaimo, British Columbia, Canada|
+ppl/0/c/eff431d678f6b582b6caddfc5c0.html|Labelle|Therese /Labelle/|||||
+ppl/7/e/eff431d67a32552b1bea85133e7.html|Labelle|Aline /Labelle/|||||
+ppl/f/a/eff431d67b739676f483565cbaf.html|Labelle|George /Labelle/|||||
+ppl/5/7/eff431d67cb46de44ce9dc0a675.html|Roussin|Michel /Roussin/|3 NOV 1783|Montreal, Quebec, Canada|10 APR 1862|St-Joseph-du-Lac, Québec, Canada|
+ppl/1/c/eff431d67e97a8f337b6a3f57c1.html|Renaud|Marie Amable /Renaud/|ABT 1789|Ile De Montreal, Saint Eustache, Quebec, Canada|8 MAY 1862|St Martin, Laval, Quebec, Canada|
+ppl/0/8/eff431d680740d87416c2ef2480.html|Roussin|Marie-Amable /Roussin/||St-Eustache, Québec, Canada|||
+ppl/8/6/eff431d6825520a6304c6deeb68.html|Roussin|Pascal /Roussin/||St-Eustache, Québec, Canada||St-Joseph-du-Lac, Québec, Canada|
+ppl/8/e/eff431d68432198c1a74ec18ae8.html|Roussin|Jacques /Roussin/|1823|Saint-Eustache, Quebec, Canada|||
+ppl/6/7/eff431d6861333daebbdb253576.html|Roussin|Adeline Agathe /Roussin/|20 MAR 1832|St Benoit, Quebec, Canada|||
+ppl/2/7/eff431d68b1468bd3a80ec5ac72.html|Roussin|Emile /Roussin/|ABT 1821|St-Eustache, Québec, Canada||Montréal, Québec, Canada|
+ppl/a/e/eff431d68d968b3357dbf8c6cea.html|Roussin|Henriette /Roussin/|19 AUG 1824|St-Benoit, Québec, Canada|18 DEC 1838|Saint-Eustache, Deux-Montagnes, Quebec, Canada|
+ppl/4/5/eff431d68f875a5f882d7942654.html|Roussin|Marie Amable /Roussin/||St-Eustache, Québec, Canada|||
+ppl/4/4/eff431d691610ac105fb41a2d44.html|Roussin|Henriette /Roussin/||St-Benoit, Québec, Canada|||
+ppl/9/9/eff431d693438cd4edaacb2c099.html|Roussin|Celanise /Roussin/|1832|Ste Marthe, Vaudreuil|24 MAY 1908|Glen Robertson, Ontario, Canada|
+ppl/e/e/eff431d6952136cb81e67c33eee.html|Roussin|Agathe /Roussin/|20 MAR 1832|St. Benoît-du-Lac (Québec)||...|
+ppl/5/4/eff431d697972cfae8f5e7bf545.html|Roussin|Marie Marguerite /Roussin/|14 OCT 1816|Oka, Deux-Montagnes, Quebec, Canada|||
+ppl/e/c/eff431d69974db78c148115eece.html|Roussin|Artemise /Roussin/|14 AUG 1829|Saint-Eustache, Deux-Montagnes, Quebec, Canada|||
+ppl/6/5/eff431d69b544cdd98901827056.html|Roussin|Michel /Roussin/|8 MAR 1812|St-Eustache, Québec, Canada|11 MAY 1896|Ste-Marthe-sur-le-Lac, Québec, Canada|
+ppl/6/8/eff431d69d31097461b644a4e86.html|Roussin|Toussaint /Roussin/||St-Eustache, Québec, Canada|1 JUN 1834|Saint-Eustache, Deux-Montagnes, Quebec, Canada|
+ppl/7/1/eff431d69fb31084f0f2608a317.html|Roussin|Elmire /Roussin/|1813|||Montréal, Québec, Canada|
+ppl/f/b/eff431d6a19215dce81aef0a0bf.html|Prud'homme|Pierre /Prud'homme/|24 MAR 1658|Montréal, , Quebec, Canada|28 MAR 1703|Montréal, , Quebec, Canada|
+ppl/a/f/eff431d6a417d9e4ad2b460f7fa.html|PRUDHOMME (Prud'homme)|Jacques /PRUDHOMME (Prud'homme)/ ^|1525|Sailly, Saône-et-Loire, Bourgogne, France|ABT 1600|France|
+ppl/6/0/eff431d6a5f2606bf9bf43ec406.html|Cauconnet Rameau|Françoise /Cauconnet Rameau/||Sailly, Saône-et-Loire, Bourgogne, France|20 APR 1750|France|
+ppl/6/b/eff431d6a7d4cc1a308473b66b6.html|Prud’homme \ Prud hon|Claude Nobel /Prud’homme \ Prud hon/|1546|Sailly, Saône-et-Loire, Bourgogne, France|BEF 1646||
+ppl/a/5/eff431d6ad73a91de9714ee905a.html|Prud’homme \ Prud hon|Claude Nobel /Prud’homme \ Prud hon/|1546|Sailly, Saône-et-Loire, Bourgogne, France|BEF 1646||
+ppl/9/3/eff431d6af6704646966cf0d439.html|Gadois|Roberte /Gadois/|||||
+ppl/f/f/eff431d6b0a651e438ceb7c60ff.html|Aliomet|Ancetre /Aliomet/|1560|France||France|
+ppl/d/d/eff431d6b271c872c7750711cdd.html|Aliomet|End of the line    Mrs /Aliomet/||France||France|
+ppl/d/2/eff431d6b4516079ae581d4592d.html|Prud Homme|François /Prud Homme/|31 JAN 1748|L'assomption, Quebec, Canada|1767|Québec, Quebec, Canada|
+ppl/a/1/eff431d6b7732c02383a776c51a.html|Gadois|Pierre /Gadois/|1594|St Martin, d'Ige, Mortagne, Perche, France|20 OCT 1667|Montreal, Quebec, Canada|
+ppl/e/5/eff431d6b953b53f10ba79965e.html|Mauger Gadois|Louise /Mauger Gadois/|1598|St Martin d'Ige, Alencon, Perche, France|18 MAR 1690|Montreal, Quebec, Canada|
+ppl/6/2/eff431d6bb32f11deb7beeb6026.html|Gadois|François /Gadois/|FEB 1636|Québec, , Quebec, Canada|1666|Québec, , Quebec, Canada|
+ppl/a/c/eff431d6bdb10328b4771b7feca.html|Gadois|Étienne Pierre /Gadois/|17 NOV 1631|Ige St Martin, Orne, Basse-Normandie, France|8 MAY 1714|Montreal,,Montreal,Quebec,Canada,|
+ppl/1/e/eff431d6bf9787db95eba1eb2e1.html|Gadois|Joseph /Gadois/|28 SEP 1639|Quebec, Quebec, Canada|OCT 1639|Québec, Quebec, Canada|
+ppl/0/1/eff431d6c176da616136412f010.html|Gadois|Jeanne /Gadois/|26 JUN 1638|Québec, , Quebec, Canada|26 JUN 1638|Québec, , Quebec, Canada|
+ppl/9/8/eff431d6c3f3c546d607d708589.html|Gadois|Pierre /Gadois/|17 NOV 1631|Appenai-sous-Belleme, Departement de l'Orne, Basse-Normandie, France|8 MAY 1714|Montreal, Montreal Region, Quebec, Canada|
+ppl/5/c/eff431d6c5dd791b097db244c5.html|Gadois|Jean-Baptiste /Gadois/|2 MAR 1641|Quebec, QC|15 APR 1728|Montreal, Montreal Region, Quebec, Canada|
+ppl/2/1/eff431d6c853b75f36cdd019412.html|Gadois|Nicolas /Gadois/|1626|Ste-Martin, d'Ige, Évêché-de-Sée, Mortagne, France|1666|Québec, Quebec, Canada|
+ppl/6/b/eff431d6cd829db9d43f0ae6eb6.html|Gadois|Etienne /Gadois/|17 NOV 1631|Ige, Perche, France|1632|Ige, Perche, France|
+ppl/b/4/eff431d6cf6454e403b4f28c24b.html|Gadois|Francois /Gadois/|2 DEC 1636|Sillery, Quebec|1666|Montreal, Quebec|
+ppl/1/b/eff431d6d1e539169acbfaf48b1.html|Gadois|Marie Francoise /Gadois/|1627|Mortagne, Orne, Basse-Normandie, France|24 DEC 1689|Pointe-aux-Trembles, Montreal Region, Quebec, Canada|
+ppl/9/8/eff431d6d3c5d0f98828dc67189.html|Gadois|Marie-Roberte /Gadois/|15 SEP 1628|Fresney, Calvados, Basse-Normandie, St Martin, Orne, Perche, France|14 SEP 1716|Notre Dame, Montreal, Quebec, Canada|
+ppl/2/6/eff431d6d6433a95067ea72d262.html|Verrier|Pierre /Verrier/|1636|Varennes-sur-Loire,49730,Maine-et-Loire,Pays de la Loire,France,|30 OCT 1704|Montreal (Basilique Notre-Dame), Quebec, Canada|
+ppl/a/c/eff431d6d787ba43ce7819e69ca.html|Leger|Cesar /Leger/|ABT 1622|Mornac-sur-Seudre,17113,Charente-Maritime,Poitou-Charentes,France,|BEF 11 NOV 1651|Sillery, Quebec, Canada|
+ppl/c/5/eff431d6d962f0abe7764e2565c.html|Prudhomme|Marie Catherine /Prudhomme/|25 MAR 1661|Ville Marie, Quebec|ABT 1736||
+ppl/a/7/eff431d6dbe1cd4e5636e192f7a.html|Gee|Matilda /Gee/|19 MAR 1862||||
+ppl/9/8/eff431d6e0e3daa0e37ee07489.html|Gee|John /Gee/|ABT 1785|Roughton, Norfolk, England|ABT 1865|Norfolk, United Kingdom|
+ppl/1/9/eff431d6fdd790d445ae57d9091.html|Gee|Ann /Gee/|||||
+ppl/b/e/eff431d70225ceb407bcb4251eb.html|Gee|Sarah Ann /Gee/|||||
+ppl/b/4/eff431d7072c79ba7e0e09844b.html|Gee|Sarah /Gee/|1790|Reepham, Norfolk, England|||
+ppl/3/d/eff431d70c263b806b510e9dbd3.html|McGee|Hannah /McGee/|ABT 1819|Matlask, Norfolk, England|||
+ppl/d/0/eff431d71a8653dc73655682b0d.html|Gee|William /Gee/|||ABT 1811||
+ppl/6/6/eff431d71e45c1c5f1e734a8e66.html|Mcgee|Thomas /Mcgee/|1736|Briningham, Norfolk, England|1803|Hanworth, Norfolk, England|
+ppl/0/e/eff431d72f316626f9028f1be0.html|Magee|Martha /Magee/|||||
+ppl/4/b/eff431d73437ca3a45aa1a504b4.html|Mage|Thomas /Mage/|||||
+ppl/9/5/eff431d73615b521e7135143059.html|Mage|Ann /Mage/|||||
+ppl/3/9/eff431d737feb37c6c4bfcce93.html|Megee|Elizabeth /Megee/|||||
+ppl/5/d/eff431d74296b387aa9041bdd5.html|Megee|James /Megee/|||ABT 1786||
+ppl/a/8/eff431d74ab1a9f93dfc46bab8a.html|Magee|Henry /Magee/|||||
+ppl/e/b/eff431d74e637b52dc5dba964be.html|Dye|Elizabeth /Dye/|||ABT 1811||
+ppl/4/f/eff431d75183fc4607172b37f4.html|Seaman|William /Seaman/|||||
+ppl/0/d/eff431d755e653097fe2c96a2d0.html|McCann| /McCann/|||||
+ppl/c/7/eff431d75863ca7896a466ffe7c.html|Kennedy|Angus /Kennedy/|ABT 1826|Ontario|16 JUN 1879|Prescott, Ontario, Canada|
+ppl/a/d/eff431d75ae2afd2ee620e824da.html|Boudrias|Élisabeth /Boudrias/|1840|Pointe Claire, Montreal, Québec Canada|1 DEC 1920|St Eugène Prescott, Ontario, Canada|
+ppl/0/1/eff431d75ea66f4951e07b84e10.html|Kennedy|Patrick James /Kennedy/||County Cavan, Ireland|1839|E. Hawkesbury Tp, Prescott, Ontario, Canada|
+ppl/e/9/eff431d76085f24ce2853e5d79e.html|McDonald|Mary /McDonald/|ABT 1797|Glengarry St-Rafael ontario|24 MAY 1886|Prescott, Ontario, Canada|
+ppl/d/e/eff431d76303f6cf87db3a6a6ed.html|Boudrias|Charles (Antoine) /Boudrias/|26 JAN 1810|Montréal, Québec, Canada|3 MAY 1903|Chute à Blondeau, Prescott, Ontario, Canada|
+ppl/a/b/eff431d764e64b76a852d82adba.html|Leblanc|Adélaïde /Leblanc/|20 JUN 1811|Pierrefonds, Québec, Canada|8 SEP 1873|Chute à Blondeau, Ontario, Canada|
+ppl/9/9/eff431d766c2192f277cfec2599.html|Boudrias|Antoine /Boudrias/|24 JAN 1780|Montréal, Québec, Canada|13 APR 1831|Montréal, Québec, Canada|
+ppl/c/3/eff431d76943b097a1a491ef83c.html|Boudrias|Louis /Boudrias/|14 JAN 1735|Ville St-Laurent, Ile de Montreal, Quebec, Canada|31 DEC 1822|Montréal, Québec, Canada|
+ppl/5/e/eff431d76c6660082bd499743e5.html|Boudrias|Antoine /Boudrias/ Fils|25 MAR 1702|Lachine, Ile de Montréal, Québec, Canada|12 MAY 1781|Montréal, Québec, Canada|
+ppl/7/6/eff431d76f84011211ae80e6367.html|Plumereau Latreille|Marie Jeanne /Plumereau Latreille/ ***|3 MAY 1675|Sorel, Quebec, Canada|17 AUG 1759|Notre-Dame, Montreal, Ile-de-Montreal, Quebec, Canada|
+ppl/6/d/eff431d777166821051c76750d6.html|Barbier|Jeanne /Barbier/ ****|1649|Saint-Nicolas de Chalons-sur-marne, Marne, Champagne, France|10 NOV 1689|Chambly, 1654490, Quebec, Canada|
+ppl/4/b/eff431d77e93f9bff8cf62200b4.html|Barbier|Guillaume /Barbier/|1615|Rethel, Departement des Ardennes, Champagne-Ardenne, France||Hotel, Alpes-de-Haute-Provence, Provence-Alpes-Cote d'Azur, France|
+ppl/4/c/eff431d7861503ca3f554708bc4.html|Wilber Herbert dit Hubert|Liesse /Wilber Herbert dit Hubert/|1620|Champagne, Dordogne, Aquitaine, France|2 MAY 1691|Écueil, Marne, Champagne-Ardenne, France|
+ppl/8/3/eff431d78f665ee0e5a7fa27938.html|Rouxel|Jacquemine /Rouxel/|8 OCT 1602|Plumaugat, Côtes-d'Armor, Bretagne, France||Plénée-Jugon, Côtes-d'Armor, Bretagne, France|
+ppl/7/f/eff431d79b57426874d0b0b3bf7.html|Grosset|Jean /Grosset/|26 JAN 1579|Lanrelas, Côtes-d'Armor, Bretagne, France|ABT 1630|France|
+ppl/c/5/eff431d79dd3baf9a1301668d5c.html|Rouxel|Yvonne /Rouxel/|18 DEC 1577|Lanrelas, Côtes-d'Armor, Bretagne, France|OCT 1609|Lanrelas, Côtes-d'Armor, Bretagne, France|
+ppl/7/b/eff431d79fa2835293501acf6b7.html|Barbier|Mathurin /Barbier/||France|17 SEP 1678|Saint-Jouan-De-L'isle, Côtes-D'armor, Bretagne, France|
+ppl/4/2/eff431d7a554776893d96797f24.html|Wilbert|Jean Hubert /Wilbert/|1590|Ecueil, Marne, Champagne-Ardenne, France|1639|Ecueil, Marne, Champagne-Ardenne, France|
+ppl/e/1/eff431d7a87cdf3358a1a001e.html|Wilbert|Valentine /Wilbert/|1570|Adelange, Moselle, Lorraine, France|1607|Ecueil, Marne, Champagne-Ardenne, France|
+ppl/0/b/eff431d7aaf39fa1c1221162fb0.html|Erdmann . 11th ggm|Fredericka /Erdmann . 11th ggm/|ABT 1570|Netherlands|1652|Ecuelles, Saône-et-Loire, Bourgogne, France|
+ppl/2/7/eff431d7acd5676bab5ccd99072.html|Synnett|+Joseph /Synnett/|21 DEC 1783|Gaspé, , Quebec, Canada|18 MAR 1851|Gaspé, , Quebec, Canada|
+ppl/1/9/eff431d7bb230cd0ddacedda891.html|Dunn|Marie Louise /Dunn/|25 MAR 1811|Gaspé, , Quebec, Canada|1 JUL 1891|Gaspé, , Quebec, Canada|
+ppl/f/1/eff431d7bd04e19fa7e8ef3ed1f.html|Robert|Josette /Robert/|1760|, , Bretagne, France|16 NOV 1827|Gaspé, , Quebec, Canada|
+ppl/5/0/eff431d7c2a5911b7e0ee605305.html|Seneth|Edouard /Seneth/|||||
+ppl/7/1/eff431d7c7a43b29b97a8d9d917.html|Robert|Marie Josephe /Robert/|||||
+ppl/d/8/eff431d7c99247aa24ac3c93c8d.html|Maquet|Rene /Maquet/|||||
+ppl/7/1/eff431d7cc13dd41c4eb749a017.html|Maquet| /Maquet/|||||
+ppl/7/4/eff431d7cdf3be6c63ba9b6ce47.html||Lucile //|||||
+ppl/6/5/eff431d7d07137dc505d00fd956.html||Marcel //|||||
+ppl/4/2/eff431d7d1b6a5200272f70a424.html||Claude //|||||
+ppl/8/7/eff431d7d2f700d97cd074f7978.html||Andr //|||||
+ppl/2/8/eff431d7d4363948f6ec849e982.html||Paul //|23 FEB 1920|Montreal, Montreal Region, Quebec, Canada|25 JUN 2018|Montreal, Montreal Region, Quebec, Canada|
+ppl/9/3/eff431d7dcf73541edd3ac2dd39.html|Gérin-Lajoie|Henri /Gérin-Lajoie/|18 OCT 1859|Quebec|7 MAY 1936|Montreal Region, Quebec, Canada|
+ppl/8/c/eff431d80bcdef5d87968be0c8.html|Gérin-Lajoie|Marie /Gérin-Lajoie/|19 OCT 1867|Montreal Region, Quebec, Canada|1 NOV 1945|Montreal, Montreal Region, Quebec, Canada|
+ppl/3/f/eff431d81d752c711dfd6169ff3.html|Lajoie|Joseph Alexander /Lajoie/|||||
+ppl/d/d/eff431d81ff53d93036297c28dd.html|Lajoie|Alexander /Lajoie/|MAR 1893|Quebec|||
+ppl/f/c/eff431d824530a5808cb9b033cf.html|Lajoie|Lebeau /Lajoie/|MAY 1895|Quebec|||
+ppl/3/1/eff431d83214105bc49e5f03013.html|Lajoie|Marie /Lajoie/|JUN 1889|Quebec|||
+ppl/d/f/eff431d83cb43c05c8c6ebfd9fd.html|Gerin|Lajoie Autoinette /Gerin/|ABT 1871|Quebec|||
+ppl/f/f/eff431d84117803108e8a37eaff.html|Gerin|Josephine /Gerin/|ABT 1839|Quebec|||
+ppl/4/5/eff431d84576717bb602cb54a54.html|Gerin|Leon /Gerin/|ABT 1864|Quebec|||
+ppl/8/f/eff431d849dee0779ba31deef8.html|Gerin-Lajoie|Leon /Gerin-Lajoie/|||||
+ppl/8/3/eff431d84c53c58e482e0248938.html|Clarke|Alfred /Clarke/|||1972||
+ppl/2/3/eff431d852978fd0141881f3132.html|Tremblay|Marie-Louise /Tremblay/|7 SEP 1901|Canada French|15 JUN 1978|Montreal, Quebec, Canada|
+ppl/7/f/eff431d85f115301b7bb91f60f7.html|Helene|Guy /Helene/|||||
+ppl/9/0/eff431d860f6e06e1a61d2f7d09.html|Thomas|Guy /Thomas/|||||
+ppl/a/b/eff431d862d453962ad898b90ba.html|Roger|Pinel /Roger/|||||
+ppl/c/9/eff431d8641268d91702ac3b39c.html|Micheline|Dufort /Micheline/|||||
+ppl/c/3/eff431d867d10b2ef3483d0223c.html|Sylvio|Lejeune /Sylvio/|1941|||Lachine, Communauté-Urbaine-de-Montréal, Québec, Canada|
+ppl/1/5/eff431d86b9254dc83a8b7c9f51.html|Synett|John /Synett/|12 NOV 1866|Gaspé, Quebec, Canada|||
+ppl/d/c/eff431d86d73748ca7966021ecd.html|Marie-Amanda|Boucher /Marie-Amanda/|||||
+ppl/b/e/eff431d86eb17d37186ace209eb.html|Rolland|Edouard /Rolland/|||||
+ppl/3/0/eff431d86ff5de21f74ff1c3a03.html|Caron|Marie Hélène /Caron/|||||
+ppl/3/6/eff431d87132c07544e2167db63.html|Rolland|Henri /Rolland/|||||
+ppl/0/0/eff431d872732709ba7a9acd400.html|Laberge|Marie /Laberge/|||||
+ppl/f/9/eff431d874548cf2a60d6ea399f.html|Caron|Damase /Caron/|||||
+ppl/1/8/eff431d87592337f18cd4584481.html|Pelletier|Julia /Pelletier/|||||
+ppl/a/e/eff431d876320e698a4cdedd1ea.html|Prudhomme|Leopold /Prudhomme/|||||
+ppl/3/e/eff431d87953b6efd32f2f983e3.html|Prudhomme|Emile /Prudhomme/|||||
+ppl/1/0/eff431d87c71e3faf56d9cb4401.html|Cote|Herminie (Marie Hermine) /Cote/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/b/f/eff431d87ef5f280faaedeb94fb.html|Prudhomme|Jérémie Marie /Prudhomme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/c/e/eff431d88991d614f93a3cf9ec.html|Prud'homme|Nicolas /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||St Eustache, Quebec, Canada|
+ppl/2/7/eff431d88dfa24e5fd68d22a72.html|Synnett|John /Synnett/|12 NOV 1866|Mont Louis, St Maxime, Gaspé (Haute Gaspésie), Québec, Canada|||
+ppl/4/8/eff431d890755b80d13c3e4ee84.html|Boucher|Marie Amanda /Boucher/|24 MAY 1866|Ste-Anne-des-Monts, Québec, Canada||Montréal, Communauté-Urbaine-de-Montréal, Québec, Canada|
+ppl/6/5/eff431d89257ffd9813ff45f156.html|Synnett|Francois-Xavier /Synnett/||St-Octave -de-l'Avenir.Qc.|||
+ppl/2/5/eff431d89434d5a32948b973052.html|Synnett|Azilda /Synnett/|||1959|montreal|
+ppl/d/7/eff431d896165232cde102fb87d.html|Synnet|Georges /Synnet/||Mont-Louis,Gaspé,Quebec,Canada||Montréal,Québec,Canada|
+ppl/2/1/eff431d8989ef4dbc7f3d4212.html|Synette|Joseph Jean /Synette/||Riviere Pentecote, Paroisse de St-Patrice Co Saguenay|||
+ppl/7/1/eff431d89a723ae1710933e3c17.html|Synette|Joseph Charles Albini /Synette/||Rivière Pentecote, Paroisse St-Patrice||St-Octave de Métis, Québec|
+ppl/c/3/eff431d89c57bd03c67441b003c.html|Synnott|Maria /Synnott/||Riviere Pentecote, Paroisse de St-Patrice Co Saguenay|||
+ppl/6/7/eff431d89e34f9b7f0607da7776.html|Synnott|Derinda /Synnott/|1889|Qc|||
+ppl/7/6/eff431d8a01a1d9fcda68b9467.html|Synett|M Jeanne Amanda Florence /Synett/|13 SEP 1922|Montréal||Montréal|
+ppl/1/e/eff431d8a516551a816754edde1.html|Synnett|M Jeanne Lucille /Synnett/||Québec|2005||
+ppl/2/9/eff431d8a6f24709ab0a95ff692.html|Synnett|Marie Françoise Gaetane /Synnett/||Montréal (Ste-Clotilde), Québec||Montréal (Ste-Clotilde), Québec|
+ppl/a/0/eff431d8a8d43b3ced604cc060a.html|Synnett|J. Gaston Marcel Jean /Synnett/||Québec||Montréal (Basilique Notre-Dame), Québec (funérailles le 16 juillet 1935)|
+ppl/5/b/eff431d8ab529f6ad74a01c67b5.html|Synnett|Joseph Roger Gilles /Synnett/||Montréal (Ste-Clotilde), Québec|2010|Montréal (Ste-Clotilde), Québec|
+ppl/3/e/eff431d8ad330c617f6b50fbbe3.html|Seynett|Marie Jeanne Yvette Delia /Seynett/|||||
+ppl/0/0/eff431d8af1765b7270639f5300.html|Synnet|Marie Alice Hélène Amanda /Synnet/||Montréal (Ste-Clotilde), Québec||Montréal (Ste-Clotilde), Québec|
+ppl/4/3/eff431d8b37455db92bc5a62a34.html|Gee|Samuel /Gee/|ABT 1834|Matlask, Norfolk, England|||
+ppl/8/1/eff431d8c274f4898ea2600c418.html|Gee|Matilda /Gee/|||||
+ppl/c/1/eff431d8c6d20bc4036de8eba1c.html|Richard|Armande /Richard/|||||
+ppl/5/3/eff431d8c8b327355341dcc8d35.html||Claude //|||||
+ppl/6/4/eff431d8ca914f5058cab142346.html|Tremblay|Joseph Arthur /Tremblay/|29 APR 1881|Sherrington, Quebec, Canada|12 FEB 1952|Hemmingford, 1654509, Quebec, Canada|
+ppl/d/a/eff431d8ddf6c16bd1b4b2ed1ad.html|Tremblay (Landry)|Marie Therese Yvonne /Tremblay (Landry)/|20 JUN 1913|Québec|24 AUG 1984|Quebec, Canada|
+ppl/0/b/eff431d8e072cce3133610422b0.html|Tremblay|Leopold /Tremblay/||USA|||
+ppl/0/f/eff431d8e255eef4f1944bbf8f0.html|Tremblay|Joseph Armand /Tremblay/|19 OCT 1906|Canada French|1972||
+ppl/0/d/eff431d8e935fa01db921e542d0.html|Tremblay|Romeo Joseph /Tremblay/|28 JUN 1911|New Bedford, Bristol, Massachusetts, USA||Cohoes, Albany, New York, États-Unis|
+ppl/1/5/eff431d8ebb4f0e70b1572c5451.html|Tremblay|Joseph Albert /Tremblay/||Ste-Clotilde-de-Châteauguay, Québec, Canada||Cohoes, Albany, New York, États-Unis|
+ppl/4/9/eff431d8f0b2352d947fc52d794.html|Tremblay|Lionel Joseph /Tremblay/||Ste-Clotilde-de-Châteauguay, Québec, Canada||Albany, New York, États-Unis|
+ppl/f/6/eff431d8f3326ea2c643cc0466f.html|Trembly|Arthur /Trembly/|15 AUG 1900|Williamstown, Berkshire, Massachusetts, USA|25 FEB 1905|Quebec, Canada|
+ppl/6/0/eff431d8f514e094d161e7c9506.html|Tremblay|Rudolphe /Tremblay/|FEB 1918|Sainte-Clotilde-de-Chateauguay, Quebec, Canada|6 SEP 1926|Hemmingford, Quebec, Canada|
+ppl/f/9/eff431d8f7918250f4295c1139f.html|Tremblay|Leopold /Tremblay/|17 APR 1904|Williamstown, Massachusetts, USA|30 NOV 1978|Montérégie - Le Haut-Richelieu, Québec|
+ppl/c/1/eff431d8fc928e09647dd1b831c.html|Tremblay (Lussier)|Alice /Tremblay (Lussier)/|ABT 1910|Massachusetts|14 SEP 1970|Verdun, Île-de-Montréal|
+ppl/8/7/eff431d901916c65f69cae08f78.html|Tremblay|Vital /Tremblay/|22 MAR 1857|Sherrington, Quebec, Canada|28 NOV 1928|Lachine, Montréal, Quebec, Canada|
+ppl/7/b/eff431d90376606af37ce1fa6b7.html|Trudel|Virginia /Trudel/|1862|Berthierville, 1654473, Quebec, Canada|14 JUN 1907|Sherrington, Les Jardins-de-Napierville, Quebec, Canada|
+ppl/1/2/eff431d9069227cf5d1866d321.html|Tremblay|Paul /Tremblay/|ABT 1902|Massachusetts|||
+ppl/8/e/eff431d90874deea01847592be8.html|Tremblay|Albert /Tremblay/|1883|Qc|||
+ppl/8/2/eff431d90cd647404b70f760f28.html|Tremblay|Marie Evangelina /Tremblay/|26 MAR 1899|Lachine|||
+ppl/5/3/eff431d90f5da7b4772133dc35.html|Tremblay|Joseph Vital /Tremblay/|28 JUL 1893|Ste-Clothilde, comté Châteauguay|30 SEP 1897|Ste-Clothilde, comté Châteauguay|
+ppl/3/a/eff431d911d29d308b6a0c004a3.html|Tremblay|Marie Alexina Léonide /Tremblay/|30 AUG 1891|Sherrington|||
+ppl/7/4/eff431d913b4872cd37190de947.html|Tremblay|Moise /Tremblay/|1 MAR 1885|Sherrington|||
+ppl/0/2/eff431d9159d308d73e28e3a20.html|Tremblay (Sanschagrin & Remillard)|Virginie /Tremblay (Sanschagrin & Remillard)/|6 APR 1877|Sherrington, quebec|15 NOV 1941|Malone, Franklin, New York, USA|
+ppl/8/a/eff431d918140650be39027e2a8.html|Tremblay (Cusson)|Frasile /Tremblay (Cusson)/|ABT 1887|Quebec|22 FEB 1959|Lachine|
+ppl/6/5/eff431d91a931f7792294583356.html|Tremblay|Emelia /Tremblay/|1879|Qc|||
+ppl/6/0/eff431d91c75b72c255b806c906.html|Boulerice|Therese (Marie) /Boulerice/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/5/4/eff431d91ef5adfbd732c272745.html|Roy|Marie Françoise /Roy/||Sts Anges de Lachine, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
+ppl/0/5/eff431d9221442fde61542b1150.html|Prud'homme|Anonyme /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
+ppl/5/3/eff431d92496581e6d838988835.html|Prud'homme|Francois Marie /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Quebec, Canada|
+ppl/d/3/eff431d92673a5cf29c1925c23d.html|Prud'homme|Nicolas Amable /Prud'homme/|22 OCT 1748|St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
+ppl/3/a/eff431d92cb672a392ab320fda3.html|Prud'homme|Francoise Amable /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/2/f/eff431d92e92000c061525bfdf2.html|Prud'homme|Nicolas Amable /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
+ppl/c/6/eff431d9311683d3cab2380186c.html|Prud'homme|Agathe Marie /Prud'homme/|24 NOV 1752|St Laurent, Cte Jacques Cartier, Quebec, Canada|5 SEP 1786|Montreal, Quebec, Canada|
+ppl/3/5/eff431d932f16e54ca9ac2bca53.html|Prud'homme|Marie Catherine /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
+ppl/1/c/eff431d935729f0fff43d2cdcc1.html|Prud'homme|Marie Catherine /Prud'homme/||St Laurent, Cte Jacques Cartier, Quebec, Canada|2 NOV 1755|St Laurent, Cte Jacques Cartier, Quebec, Canada|
+ppl/1/6/eff431d937f6a34314915d4d761.html|Prud'homme|Eustache /Prud'homme/|6 NOV 1756|St Laurent, Cte Jacques Cartier, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/a/a/eff431d939d3e75ae18d5077daa.html|Prud'homme|Helene (Marie) /Prud'homme/|4 SEP 1769|Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/8/0/eff431d93bb2f0fe1ff5d7fe508.html|Prud'homme|Joseph /Prud'homme/|11 SEP 1760|Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/8/d/eff431d93e3493d43bf281681d8.html|Prud'homme|Joseph /Prud'homme/||Notre Dame, Montreal, Quebec, Canada|||
+ppl/f/a/eff431d940175b6430bea50fcaf.html|Prud'homme|Etienne /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/d/2/eff431d941f61587bd24333f12d.html|Prud'homme|Jeremie Marie /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/8/e/eff431d943d3e023c33fffae9e8.html|Prud'homme|Antoine /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||Notre Dame, Montreal, Quebec, Canada|
+ppl/c/e/eff431d94652ef352d75fbf40ec.html|Prud'homme|Pierre /Prud'homme/||Notre Dame, Montreal, Quebec, Canada||St Michel de Vaudreuil, Quebec, Canada|
+ppl/9/e/eff431d94833d56a4f691d037e9.html|Archambault|Anne /Archambault/|1610|France|ABT 1671||
+ppl/b/0/eff431d94a131e86c85d8ab540b.html|Prudhomme|Elisabeth Marie /Prudhomme/|21 SEP 1663|Notre Dame, Montreal, Quebec, Canada|1 JAN 1744|Montréal, , Quebec, Canada|
+ppl/d/3/eff431d94f13d760b675cbfcc3d.html|Prud'homme|François-Xavier /Prud'homme/|2 DEC 1651|Montréal, , Quebec, Canada|22 APR 1741|Montréal, , Quebec, Canada|
+ppl/3/2/eff431d951961d919029570c323.html|Prud'homme|Marguerite /Prud'homme/|15 MAR 1656|Montréal, , Quebec, Canada|3 SEP 1725|Montréal, , Quebec, Canada|
+ppl/d/2/eff431d95374b6d8ccd2e3e002d.html|Prud'homme|Jeanne /Prud'homme/|24 JUN 1667|Montréal,  Quebec, Canada|12 APR 1752|Montréal,  Quebec, Canada|
+ppl/9/3/eff431d9555165cce423bc53439.html|Prud'homme|Catherine /Prud'homme/|26 MAR 1661|Notre Dame, Montreal, Quebec, Canada|24 JUN 1736|Notre Dame, Montreal, Quebec, Canada|
+ppl/3/3/eff431d957d6345315e6bc91c33.html|Prud'homme|Jeanne /Prud'homme/|24 JUN 1667|Notre Dame, Montreal, Quebec, Canada|12 APR 1752|Montréal, , Quebec, Canada|
+ppl/6/4/eff431d959b7e26362d3648f346.html|Prud'homme|Pierre /Prud'homme/|24 MAR 1658|Notre Dame, Montreal, Quebec, Canada|28 MAR 1703|Notre Dame, Montreal, Quebec, Canada|
+ppl/e/e/eff431d95cd647a291da98b8eee.html|Prudhomme|Claude /Prudhomme/|1580|St Pierre de Pomponne, Meaux, Seine et Marne, Ile de France, France|30 NOV 1650|Montreal, Quebec, Canada|
+ppl/b/e/eff431d96131931abe06fda88eb.html|Prudhomme|Isabelle Aliomet /Prudhomme/|1580|Meaux, Seine-et-Marne, Ile-de-France, France|30 NOV 1650|Montreal, Quebec, Canada|
+ppl/8/5/eff431d9645570be804d05a558.html|Côté|Herminie (Marie Hermine) /Côté/|ABT 1854|Quebec||St-Constant, (Cté. Laprairie)|
+ppl/4/8/eff431d972b1ea999e56bd2fa84.html|Prudhomme|Jean Baptist /Prudhomme/|9 APR 1821|Saint Eustache, Quebec, Canada|13 AUG 1824|Saint Eustache, Quebec, Canada|
+ppl/b/9/eff431d974940a1d477e7c6cd9b.html|Prudhomme|Marie Margurite /Prudhomme/|4 MAR 1818|Saint Eustache, Quebec, Canada|||
+ppl/7/f/eff431d976751928cdd0f0922f7.html|Prudhomme|Marie Catherine /Prudhomme/|5 MAR 1819|St-Eustache (St-Eustache), Quebec, Canada||St Benoit, Quebec, Canada|
+ppl/5/9/eff431d97852d7dd5458ebdce95.html|Prudhomme|Joseph /Prudhomme/|16 APR 1825|St Eustache, Quebec, Canada|6 FEB 1893|St Eustache, Quebec, Canada|
+ppl/e/4/eff431d97ad57ec76dcfc63304e.html|Prudhomme|Henriette /Prudhomme/|16 MAR 1823|Saint Eustache, Quebec, Canada|25 MAY 1885|Saint Eustache, Quebec, Canada|
+ppl/a/f/eff431d97f35ffb7e99828dbbfa.html|Prudhomme|Louis Marie /Prudhomme/|16 MAR 1816|St-Eustache (St-Eustache), Quebec, Canada|||
+ppl/8/0/eff431d981141ca06f2ef518c08.html|Labelle|Joseph Antoine /Labelle/|||||
+ppl/4/3/eff431d986bd7c300a47d9934.html|Thibault|Virginie /Thibault/|||||
+ppl/f/d/eff431d987f241fa0bd386a60df.html|Ravary|Blanche /Ravary/|9 FEB 1889|Québec|1974||
+ppl/5/0/eff431d98cf22fc7e481e24df05.html|Labelle|Bertha /Labelle/||Quebec, Canada||Ste Julie, Quebec, Canada|
+ppl/0/3/eff431d98ed713144f319e97a30.html|Labelle|Therese /Labelle/|||||
+ppl/2/d/eff431d9901346682634f71ded2.html|Labelle|Aline /Labelle/|||||
+ppl/a/b/eff431d99153219e150496ba1ba.html|Labelle|George /Labelle/|||||
+ppl/1/4/eff431d9929bb750d6e3317941.html|Ravary|Blanche /Ravary/|||||
+ppl/9/2/eff431d993d33456ea30c255b29.html|Labelle|Anastasie /Labelle/|ABT 1886|Quebec|||
+ppl/3/7/eff431d998dbf2b7abbbe15973.html|Labelle|Joseph /Labelle/|ABT 1888|Quebec|||
+ppl/c/1/eff431d9a0fc9830e0be43961c.html|Pinehomme|Jeannie /Pinehomme/|||||
+ppl/c/5/eff431d9a197958cfa6c1adc15c.html|Prudhomme|Angelina /Prudhomme/|28 MAR 1880|Québec||Montreal, Quebec Canada|
+ppl/4/8/eff431d9aa57e3b21b50c751b84.html|Prudhomme|Adolphe /Prudhomme/|2 SEP 1883|Québec||Montreal, Quebec, Canada|
+ppl/d/9/eff431d9b314a2860bc5c59c89d.html|Prudhomme|Domina /Prudhomme/|1885|Québec|||
+ppl/e/9/eff431d9bbd42809412027fa29e.html|Prudhomme|Arthur /Prudhomme/|1887|Québec|||
+ppl/f/1/eff431d9c21555c66e58834f11f.html|Prudhomme|Bertha /Prudhomme/|28 DEC 1882|Québec|||
+ppl/a/b/eff431d9c7b697c7f8ae50a42ba.html|Prudhomme|Moise /Prudhomme/|8 MAR 1896|Québec||Montreal, Quebec, Canada|
+ppl/f/9/eff431d9d574dd53b9e007b39f.html|Prudhomme|Pana /Prudhomme/|24 MAY 1900|Québec||Montreal, Quebec, Canada|
+ppl/c/4/eff431d9dd97c4cf879cee7504c.html|Prudhomme|René /Prudhomme/|ABT 1903|Quebec||Montreal, Quebec, Canada|
+ppl/6/0/eff431d9e2933972f355eb36706.html|Prudhomme|Annette /Prudhomme/|ABT 1900|Quebec|||
+ppl/2/9/eff431d9e8d2a251e7106b7be92.html|Prud'homme|Marie Georgina /Prud'homme/||St Henri, Montreal, Quebec, Canada|||
+ppl/3/a/eff431d9eab75b03b95ad15a1a3.html|Prud'homme|Paul /Prud'homme/|ABT 1906|Quebec|||
+ppl/1/a/eff431d9f69546e156b8c6440a1.html|Prud'homme|Anita /Prud'homme/|ABT 1910|Quebec|||
+ppl/9/e/eff431d9ff52969f302c83899e9.html|Prud'Homme|Laurent /Prud'Homme/|ABT 1912|Quebec|||
+ppl/d/6/eff431da04f57900e685ae8246d.html|Prud'homme|Emile (Joseph Zepherin) /Prud'homme/|28 NOV 1884|Québec|||
+ppl/f/2/eff431da12b4d3f01ace3fb202f.html|Prud'homme|Moise (Benoit) /Prud'homme/|1862|Quebec|18 NOV 1934|St Jean Domascene, Montreal, Quebec, Canada|
+ppl/e/3/eff431da2bb2bb988a20181793e.html|Prud'homme|Jérémie /Prud'homme/|ABT 1812|Canada||St Benoit, Quebec, Canada|
+ppl/5/1/eff431da3d315a22f61129d7015.html|Roussin|Tharsille /Roussin/||Saint Eustache, Quebec, Canada|1868|Saint Benoit, Quebec, Canada|
+ppl/9/7/eff431da419e4a5cad2916e579.html|Cote|Herminie (Marie Hermine) /Cote/|ABT 1861|Quebec||Notre Dame, Montreal, Quebec, Canada|
+ppl/e/8/eff431da4731c2ce4deee18608e.html|Prud'homme|Jeremie (Pierre) /Prud'homme/|1790|Lower Canada|12 OCT 1861|St Eustache, Quebec, Canada|
+ppl/e/9/eff431da56f25b891be30293e9e.html|Courault|Marie Anne /Courault/|1689|Montreal, Quebec, Canada|30 NOV 1778|Notre Dame, Montreal, Quebec, Canada|
+ppl/0/3/eff431da5fb7faf932dc6f49130.html|Prud'homme|Bernadette (Marie Alexina) /Prud'homme/||St Irenee, Montreal, Quebec, Canada|||
+ppl/4/4/eff431da64b52748c163985bb44.html|Prud'homme|Antoinette (Marie Angelina) /Prud'homme/||St Paul, Montreal, Quebec, Canada||Verdun, Quebec, Canada|
+ppl/8/9/eff431da6874e5ea62d11487298.html|Prud'homme|Armand (Joseph Moise) /Prud'homme/||St Irenee, Montreal, Quebec, Canada||Montreal, Quebec, Canada|
+ppl/5/c/eff431da6cd51f8337f3d866cc5.html|Prudhomme|Jeremie /Prudhomme/|5 JUL 1846|Saint Benoit, Quebec, Canada|6 MAY 1923|Hilsdale, Columbia New York|
+ppl/a/f/eff431da6eb3b4bf0c5df54f9fa.html|Prudhomme|Michel /Prudhomme/|26 MAR 1848|St Benoit, Quebec,Canada|10 SEP 1912|St Benoit, Quebec, Canada|
+ppl/0/0/eff431da713153c10ce93b51700.html|Prudhomme|Pierre /Prudhomme/|22 FEB 1850|St Benoit, Quebec, Canada|||
+ppl/3/c/eff431da731b93f80033a402c3.html|Prud'homme|Marie Elmire /Prud'homme/|27 APR 1860|St Benoit, Quebec, Canada||St Benoit, Quebec, Canada|
+ppl/4/3/eff431da76368f985ef504beb34.html|Prud'homme|Tharsille (Marie) /Prud'homme/|29 MAY 1858|St Benoit, Quebec, Canada||St Benoit, Quebec, Canada|
+ppl/9/a/eff431da85373ac0452154b4a9.html|Prud'homme|Louis /Prud'homme/|16 APR 1852|St Benoit, Quebec, Canada|30 APR 1856|St Benoit, Quebec, Canada|
+ppl/7/3/eff431da87b59cc26ac1086ee37.html|Prud'homme|Joseph (Marie) /Prud'homme/|11 JUL 1856|St Benoit, Quebec, Canada|23 MAR 1940|Montreal, Quebec, Canada|
+ppl/4/e/eff431da8a372103da24c72a1e4.html|Prud'homme|Marie Tharsile /Prud'homme/|28 MAY 1854|St Benoit, Quebec, Canada|16 MAY 1856|St Benoit, Quebec, Canada|
+ppl/f/0/eff431da8f34af2328353d3090f.html|Hurtubise|Marie Louise /Hurtubise/|12 MAR 1785|Montréal, , Quebec, Canada|30 MAR 1856|Saint-Eustache, , Quebec, Canada|
+ppl/a/c/eff431da97f494bceb32e42ecca.html|Prud'homme|Francois /Prud'homme/|8 DEC 1685|Notre Dame, Montreal, Quebec, Canada|17 NOV 1710|Montréal, Quebec, Canada|
+ppl/d/d/eff431daad35579423b546e40dd.html|Prud'homme|Joseph /Prud'homme/||Montreal Region, Quebec, Canada||St Laurent, Cte Jacques Cartier, Quebec, Canada|
+ppl/0/b/eff431dab732ba9a00bcb254bb0.html|Prudhomme|Marie-Françoise /Prudhomme/|25 NOV 1720|Notre Dame, Montreal, Quebec, Canada|19 APR 1803|Montreal, Montreal Region, Quebec, Canada|
+ppl/b/5/eff431dabb913a07487b7bb615b.html|Prud'homme|Francois Xavier /Prud'homme/|2 DEC 1651|Montreal, Montreal Region, Quebec, Canada|22 APR 1741|Montreal, Quebec, Canada|
+ppl/e/d/eff431dacdb34888ac85a37c9de.html|Gervaise|Cecile /Gervaise/|17 SEP 1671|Montréal, Quebec, Canada|6 OCT 1760|Montreal, Montreal Region, Quebec, Canada|
+ppl/1/9/eff431dad2b1acaa847f2b7291.html|Prudhomme|Cunegonde /Prudhomme/|26 DEC 1690|Notre Dame, Montreal, Quebec, Canada|18 OCT 1735|Montreal Basilique Notre Dame, Quebec, Canada|
+ppl/d/d/eff431dad7bae3f47ccf523ddd.html|Prudhomme|Catherine Marguerite /Prudhomme/|31 JAN 1692|Montréal, Quebec, Canada|16 APR 1774|Montréal, , Quebec, Canada|
+ppl/2/4/eff431daddf4d872167d6ad3642.html|Prudhomme|Louis /Prudhomme/|25 NOV 1701|Montreal Basilique Notre Dame, , Quebec, Canada|27 SEP 1751|Montreal Basilique Notre Dame, , Quebec, Canada|
+ppl/3/2/eff431dae1b1a305555045ca623.html|Prudhomme|Jean Baptiste /Prudhomme/|17 MAY 1710|Montreal Basilique Notre Dame, Quebec, Canada|16 JAN 1795|Montréal, Quebec, Canada|
+ppl/c/7/eff431dae7f7331bbc7e03b727c.html|Prudhomme|Madeleine /Prudhomme/|5 APR 1706|Montréal, Quebec, Canada|1708|Montréal, , Quebec, Canada|
+ppl/2/a/eff431daeb1cbcda0e224437a2.html|Prudhomme|Marie-Anne /Prudhomme/|26 DEC 1699|Montréal, Quebec, Canada|4 OCT 1784|Montréal, Quebec, Canada|
+ppl/4/3/eff431daf1f77fbdb6d7f219134.html|Prudhomme|Cécile /Prudhomme/|25 FEB 1689|Montréal, Quebec, Canada|18 JUL 1777|Montréal, Quebec, Canada|
+ppl/8/5/eff431daf83621de6f367eba758.html|Prudhomme|Marie-Anne /Prudhomme/|29 JAN 1699|Mont-Royal, Montreal Region, Quebec, Canada|ABT 1699|Montreal, Montreal Region, Quebec, Canada|
+ppl/d/c/eff431db02d373847fc1f052cd.html|Prudhomme|Elizabeth /Prudhomme/|24 JAN 1703|Montréal, Quebec, Canada|20 MAR 1707|Montréal, Quebec, Canada|
+ppl/e/3/eff431db07359d7ef4aa80b343e.html|Prudhomme|Marie /Prudhomme/|31 JAN 1694|Montréal, Quebec, Canada|ABT 1699|Montréal, Quebec, Canada|
+ppl/3/d/eff431db0e145babd25ab2e62d3.html|Prudhomme|Elizabeth /Prudhomme/|1 MAY 1708|Montréal, Quebec, Canada|30 NOV 1786|Montréal, Quebec, Canada|
+ppl/c/a/eff431db1134f4c92d7254acfac.html|Prudhomme|Jeanne /Prudhomme/|2 APR 1697|Montréal, Quebec, Canada|2 FEB 1699|Montréal, Quebec, Canada|
+ppl/f/2/eff431db16d698ff9e95bbcb52f.html|Prud'homme|Jean-Baptiste /Prud'homme/|14 FEB 1687|Montréal, Quebec, Canada|10 NOV 1709|Montréal, Quebec, Canada|
+ppl/8/8/eff431db1e5120e192bc2af3c88.html|Prudhomme|Marie-Josephe /Prudhomme/|7 FEB 1712|Montréal, Quebec, Canada|10 FEB 1712|Montréal, Quebec, Canada|
+ppl/f/f/eff431db221785c769b938882ff.html|Prud'homme Aliomet|Louis /Prud'homme Aliomet/|1608|St-Pierre de Pomponne, archev. Paris, Ile-de-France (ar. Meaux, Seine-et-Marne), France|2 JUL 1671|Montréal, Quebec, Canada|
+ppl/a/d/eff431db375648cdfc05b1581da.html|Gadois|Marie-Roberte /Gadois/|15 SEP 1628|Fresney, Calvados, Basse-Normandie, St Martin, Orne, Perche, France|14 SEP 1716|Notre Dame, Montreal, Quebec, Canada|
+ppl/6/d/eff431db42978fa9586ccb6cd6.html|Prud'homme|Paul /Prud'homme/|27 FEB 1654|Montreal Basilique Notre Dame, , Quebec, Canada|1667|Montréal, Quebec,  Canada|
+ppl/e/6/eff431db4511f0f3c08c0549f6e.html|Prud'homme|Marguerite /Prud'homme/|15 MAR 1656|Notre Dame, Montreal, Quebec, Canada|3 SEP 1725|Notre Dame, Montreal, Quebec, Canada|
+ppl/2/d/eff431db4c9308a9ef565babdd2.html|Prud'homme|Elisabeth /Prud'homme/|21 SEP 1663|Notre Dame, Montreal, Quebec, Canada|1 JAN 1744|Montréal, , Quebec, Canada|
+ppl/9/1/eff431db4f14d047429536fc119.html|Prud'homme|Paul /Prud'homme/|27 FEB 1654|Notre Dame, Montreal, Quebec, Canada|1667|Montréal, Quebec, Canada|
+ppl/2/a/eff431db52d6f27649f3b01a1a2.html|Desjardins|Alexxandrin /Desjardins/|9 APR 1872|Québec|||
+ppl/c/2/eff431db5a57c1fe7a93e53852c.html|Desjardins|Henrie /Desjardins/|9 FEB 1886|Québec|||
+ppl/c/8/eff431db5eb6fba00313a36b28c.html|Desjardins|Congaque /Desjardins/|21 MAY 1884|Québec|||
+ppl/4/2/eff431db66d1737dafcb2ddb24.html|Desjardins|Mathias /Desjardins/|2 JUN 1892|Québec|||
+ppl/e/5/eff431db6bd222209bdf2fbc5e.html|Desjardins|Adrien /Desjardins/|30 MAR 1874|Québec|||
+ppl/7/b/eff431db70d19e7c2c3bc47f6b7.html|Beaulieu|Aldéric /Beaulieu/|10 NOV 1861|Québec|||
+ppl/5/d/eff431db84d35f7b7470a3534d5.html|Lamarque|Sophronie /Lamarque/|20 JUN 1861|Québec|||
+ppl/9/d/eff431db8d97be1ac1e8259e1d9.html|Beaulieu|Emile /Beaulieu/|7 AUG 1890|Québec|||
+ppl/c/c/eff431db96f58d96034383a44cc.html|Beaulieu|Harvey /Beaulieu/|19 FEB 1894|Québec|||
+ppl/0/9/eff431db9f162d04e3ce5605190.html|Beaulieu|Antoine /Beaulieu/|13 JUN 1892|Québec|||
+ppl/8/4/eff431dba41c93d1fd1d662148.html|Beaulieu|Yvonne /Beaulieu/|9 DEC 1893|Québec|||
+ppl/c/f/eff431dba9144a526b6ee79d4fc.html|Beaulieu|Josepha /Beaulieu/|5 NOV 1896|Québec|||
+ppl/4/0/eff431dbb1314643f1dad390104.html|Beaulieu|Eglantine /Beaulieu/|23 MAR 1885|Québec|||
+ppl/3/5/eff431dbb597c45491d1bf5a853.html|Beaulieu|Aurore /Beaulieu/|15 SEP 1900|Québec|||
+ppl/5/1/eff431dbbb32aec311a9b705b15.html|Beaulieu|Florida /Beaulieu/|20 APR 1884|Québec|||
+ppl/d/4/eff431dbc0d2211a91b83f99b4d.html|Beaulieu dit Montpellier|Jean-Baptiste /Beaulieu dit Montpellier/|1827|St-Laurent|3 OCT 1900||
+ppl/6/e/eff431dbc5d217fc4bb06bc44e6.html|Crevier|Zoé /Crevier/||St-Laurent (Montréal), Québec, Canada||St-Laurent, Québec, Canada|
+ppl/0/6/eff431dbc853c4c0856e7b2f560.html|Beaulieu dit Montpellier|François /Beaulieu dit Montpellier/ *|19 OCT 1785|St-Laurent|22 SEP 1846|St-Laurent|
+ppl/f/3/eff431dbccb19bb9ef8a7b5b23f.html|Rapidieux|Marie Marguerite /Rapidieux/||St-Laurent||Québec, Quebec, Canada|
+ppl/7/a/eff431dbcfd394e7403cbf911a7.html|Monpellier|Pierre Stanislas /Monpellier/|||||
+ppl/7/5/eff431dbd4d43122e41d421b157.html|Montpellier|François /Montpellier/|||||
+ppl/8/a/eff431dbd931e6af4dc08520da8.html|Prud'Homme|Lune /Prud'Homme/|||||
+ppl/2/8/eff431dbde33b6859c103ad5382.html||Inconnu //|||||
+ppl/4/c/eff431dbded6a5f189e09b35dc4.html|Gee|Lawrence V Gordon /Gee/|29 DEC 1901|Ottawa,Carleton, Ontario, Canada|||
+ppl/4/5/eff431dbe1f627aa10b9bf54.html|Lefebvre|Jacques /Lefebvre/|||||
+ppl/d/8/eff431dbe33ae83c7e6192538d.html|Labelle|Therese /Labelle/|||||
+ppl/3/b/eff431dbe47520f598ffb8a9cb3.html|Labelle|Aline /Labelle/|||||
+ppl/7/b/eff431dbe5b54dca49c05a66db7.html|Labelle|George /Labelle/|||||
+ppl/6/0/eff431dbe6f6aa471169cd78c06.html|Gee|Cecil Thomas /Gee/|22 MAR 1903|Carleton, Ontario, Canada|1969||
+ppl/6/c/eff431dbefb28bf7f6e9a08b3c6.html|Clarke|M Bernadette Rollande /Clarke/|23 AUG 1925|Lacolle|4 APR 1995|Lachine|
+ppl/d/f/eff431dbf9b6fbab819848fe8fd.html|Diane|Guy /Diane/|||||
+ppl/5/c/eff431dbfaf214a37989ec72dc5.html|Synnett|Joseph Odina /Synnett/|6 MAY 1895|Riviere Pentecote, Paroisse de St-Patrice Co Saguenay|1956|Montréal (St-Henri), Québec|
+ppl/e/5/eff431dc03b366b3567b70e395e.html|Prud'homme|Leopold (Joseph Lucien) /Prud'homme/|ABT 1879|Quebec||St Hubert, St Thomas de Villeneuve, Montreal, Quebec, Canada|
+ppl/3/0/eff431dc13545781a81551fd803.html|Labelle|Bertha /Labelle/|ABT 1881|Quebec||Ste Julie, Quebec, Canada|
+ppl/9/9/eff431dc1b76a8f7dba95633a99.html|Prud'Homme|Mariette /Prud'Homme/|ABT 1908|Quebec|||
+ppl/3/c/eff431dc24332983ccf7558c1c3.html|Beaulieu|Blanche (Marie Odila) /Beaulieu/||St Laurent, Cte Jacques Cartier, Quebec, Canada|||
+ppl/e/8/eff431dc2c53a55fd051794028e.html|Gee|Clement Silas /Gee/|23 AUG 1872|Foulsham, Norfolk, England|1923|Montréal, Québec, Canada|
+ppl/6/e/eff431dc42d3861eecd270e98e6.html|Kennedy|Mary Ellen /Kennedy/|23 JUL 1873|Ontario, Canada|1956|East Hawkesbury Township, Prescott, Ontario, Canada|
+ppl/4/b/eff431dc527668ddefbab3332b4.html|Gee|Edgar Samuel /Gee/|9 AUG 1899|Ottawa, Ottawa, Ontario, Canada|1953|Montreal, Montréal (Urban Agglomeration), Quebec, Canada|
+ppl/e/a/eff431dc5593d4a565cc87923ae.html|Gee|George Clement James /Gee/|31 MAY 1894|Ottawa, Ontario|1949||
+ppl/f/3/eff431dc58b3772b5f6b1d2d73f.html|Gee|Gertrude /Gee/|29 OCT 1897|Carleton, Ontario, Canada|1986||
+ppl/1/6/eff431dc62b2d693da166967361.html|Gee|Louis /Gee/|1900|Qc|||
+ppl/a/8/eff431dc63f23492abdc267748a.html|Gee|Mary /Gee/|20 SEP 1907|Quebec|2003|Hawksbury, Prescott, Ontario, Canada|
+ppl/0/d/eff431dc6fd74462afcdc5e98d0.html|Gee|Viola /Gee/|4 OCT 1909|Montréal, Québec, Canada|1977||
+ppl/8/3/eff431dc7942e3a90316cd6a038.html|Gee|Freddy /Gee/|ABT 1910|Quebec|1978|montreal|
+ppl/f/8/eff431dc8164046b510e186068f.html|Gee|Aline /Gee/|ABT 1911|Quebec|1984||
+ppl/7/e/eff431dc92e7c93b0a9e5e6e0e7.html|Gee|Gordon /Gee/|ABT 1912|Quebec|1976|St Eugene, Ontario|
+ppl/0/9/eff431dca3c38ce65cf78479890.html|Laniel|Laurette /Laniel/|FEB 1904|Quebec||Montréal, Quebec, Canada|
+ppl/9/2/eff431dcaa02b9787030169429.html|Gee|Diane /Gee/||Montreal, Quebec, Canada||Montréal, Québec|
+ppl/9/9/eff431dcaf058b0ee163dccee99.html|Richard|Delima /Richard/||Hemmingford, Québec, Canada||Hemmingford, Québec, Canada|
+ppl/4/a/eff431dcb4a2d065b5f765a2ba4.html|Tremblay|Maurice Joseph /Tremblay/||Hemmingford, Québec, Canada||Hemmingford, Québec, Canada|
+ppl/3/0/eff431dcc447d452505a97c303.html|Richard|Marie Delima /Richard/||St-Romain, Hemmingford, Québec|7 NOV 1940|Hemmingford (St-Romain), Québec|
+ppl/0/9/eff431dcd207642489fb2c5f690.html|Prud'Homme|Félix /Prud'Homme/|||||
+ppl/2/c/eff431dcd482ea12e6025e64ec2.html|McCann|Bernard /McCann/|||23 APR 1987||
+ppl/7/0/eff431dcda225a39a5f0fd67907.html|Prud'Homme|Raphaëlle /Prud'Homme/|||||
+ppl/e/6/eff431dcdc03d8a1d976e5dc06e.html|Labelle|Antoine /Labelle/|ABT 1884|Quebec|1974|Montreal, Quebec, Canada|
+ppl/a/5/eff431dcf0a36f2e5d1d5f2415a.html|Labelle|Anne Marie Jeanne Blanche /Labelle/|1916|Quebec|2008|Nanaimo, British Columbia|
+ppl/e/8/eff431dcf50582d3c3a18c728e.html|Ravary|Blanche /Ravary/|ABT 1888|Québec|1974||
+ppl/f/7/eff431dcfdc74dc419acffad77f.html|Deyareline|Marie Anne /Deyareline/|2 APR 1878|Québec|||
+ppl/2/b/eff431dd05e5bd77fb42d6087b2.html|Desjardins|Damase /Desjardins/|20 JUN 1848|Québec|||
+ppl/2/c/eff431dd108dd6b51abf8542c2.html|Desjardins|Alixe /Desjardins/|18 MAR 1846|Québec|||
+ppl/6/1/eff431dd1626cfce8b0aac3fd16.html|Desjardins|Bernadette /Desjardins/|6 MAR 1881|Québec|||
+ppl/b/e/eff431dd1bc39e0fbaa983ae3eb.html|Desjardins|Teodor /Desjardins/|24 JUN 1884|Québec|||
+ppl/5/9/eff431dd23e45111959afae0f95.html|Ethier|Bernadette /Ethier/|ABT 1874|Québec|||
+ppl/4/b/eff431dd2d4723f13899c828b4.html|Prud'Homme|Steve /Prud'Homme/|||||
+ppl/5/4/eff431dd2e8629660da8e5ca445.html|Prud'Homme|Pierre /Prud'Homme/|||||
+ppl/0/c/eff431dd3065f0bb788ed9bb3c0.html|Guy|Lise /Guy/|||||
+ppl/e/a/eff431dd342127c0027151075ae.html|Seynett|Marie Huguette Gisele /Seynett/||sainte-clotilde, Montréal (Urban Agglomeration), Québec, Canada|2021|Châteauguay, Roussillon, Quebec, Canada|
+ppl/5/7/eff431dd45a778a4c00be860875.html|Rolland|Alice /Rolland/|OCT 1896|Qc|1986|Montréal (St-Henri), Québec|
+ppl/7/c/eff431dd4e6611f42f5ce3b85c7.html|Prud'Homme|Roger /Prud'Homme/|||||
+ppl/b/f/eff431dd55414750ca8175afffb.html|Prud'Homme|Richard Joseph Marcel /Prud'Homme/|||||
+ppl/d/6/eff431dd568fa7e4669ad0b06d.html|Prud'Homme|Sébastien /Prud'Homme/|||||
+ppl/b/e/eff431dd58644bc7e78a08b2ceb.html|Desormeaux|Linda /Desormeaux/|||||
+ppl/d/7/eff431dd5a427de67ef954c97d.html|Prud'Homme|Manon /Prud'Homme/|||||
+ppl/2/2/eff431dd5ea7ef71f7c79a96d22.html|Chale|Véronique /Chale/|||||
+ppl/1/8/eff431dd5fe49512f73b12a8981.html|Châle|Laurence-Audrey /Châle/|||||
+ppl/2/a/eff431dd61c2fe99cb4790b92a2.html|Châle|Benoit /Châle/|||17 OCT 2020|Lachine, Montréal, Quebec, Canada|
+ppl/a/3/eff431dd66c2059291ba5e9b43a.html|Roy|Mélanie /Roy/|||||
+ppl/3/4/eff431dd68a4ee17d1265fc0343.html|Roy|André /Roy/|||||
+ppl/6/d/eff431dd694dcb94eba996cfd6.html|Maquet|Danielle /Maquet/|||||
+ppl/c/1/eff431dd6a93c49eeeb9ca8781c.html|Maquet|Henry /Maquet/|||||
+ppl/8/5/eff431dd6ee4139e42f9ed3c358.html|Gérin-Lajoie|Hélène /Gérin-Lajoie/|||||
+ppl/9/3/eff431dd7703cc45e9da82c8139.html|Dorion|Pauline /Dorion/|14 MAY 1897||30 MAR 1987|montreal|
+ppl/3/8/eff431dd8c46e29f8016cdb5983.html|Gerin-Laioie|Henri /Gerin-Laioie/|4 FEB 1892|Canada|30 JUL 1976|Montreal Region, Quebec, Canada|
+ppl/9/7/eff431ddaf453c8c8679b17579.html|Roy|Roland /Roy/|||||
+ppl/7/7/eff431ddafe671178d4044c5677.html|Bourdages|Fernande /Bourdages/||Bonnaventure||Montréal, Québec, Canada|
+ppl/1/e/eff431ddb627c639c5d803adde1.html|Prud'Homme|Sylvie /Prud'Homme/|||||
+ppl/4/9/eff431ddb762aebab8a7ead894.html|Prud'Homme Amyot-Carelli|Érik /Prud'Homme Amyot-Carelli/|||||
+ppl/6/b/eff431ddb8a3651efc43c63d9b6.html|Legault|Pierre /Legault/|||||
+ppl/1/2/eff431ddb946653fbdbdfcaf821.html|Legault|Pierre-Oliver /Legault/|||||
