@@ -23449,239 +23449,413 @@
 2 CONC ctuellement le seuil de preuve. Aucun parent n'est ajoutéau GEDCOM.
 1 STAT COMPLETED
 1 PRTY 1
-0 @T165@ _TASK
+0 @T183@ _TASK
 1 DESC [ALFRED P1] Rechercher Alfred Clarke dans le recensement britannique de 1921
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Rechercher les variantes Alfred Clark et Alfred Clarke dans lerecenseme
-2 CONC nt de 1921 d'Angleterre et du pays de Galles. Prioriser lescandidats né
-2 CONC s vers 1892-1894 à Hastings/East Sussex,Liverpool/Lancashire ou dans to
-2 CONC ut lieu révélé par les recherchescanadiennes. Relever adresse, âge, lie
-2 CONC u de naissance, profession, étatmatrimonial et personnes du ménage. Com
-2 CONC parer chaque candidat à lachronologie canadienne et documenter les cand
-2 CONC idats éliminés. Source dedépart : The National Archives, Census records (
-2 CONC 1841-1921).
-1 STAT NEW
+2 CONT Rechercher les variantes Alfred Clark et Alfred Clarke danslerecensemen
+2 CONC t de 1921 d'Angleterre et du pays de Galles. Prioriserlescandidats nés v
+2 CONC ers 1892-1894 à Hastings/EastSussex,Liverpool/Lancashire ou dans tout l
+2 CONC ieu révélé par lesrecherchescanadiennes. Relever adresse, âge, lieu de n
+2 CONC aissance,profession, étatmatrimonial et personnes du ménage. Comparer c
+2 CONC haquecandidat à lachronologie canadienne et documenter les candidatséli
+2 CONC minés. Source dedépart : The National Archives, Census records(1841-192
+2 CONC 1).
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Le guide officiel desNati
+2 CONC onal Archives confirme que le recensement de 1921 d'Angleterre et dupay
+2 CONC s de Galles est accessible en ligne par les partenaires officiels.Des r
+2 CONC echerches Web avec Alfred Clark/Clarke, naissance vers 1892-1894,Hastin
+2 CONC gs/East Sussex et Liverpool/Lancashire n'ont produit aucuncandidat pouv
+2 CONC ant être relié à l'époux de Marie-Louise Tremblay sansrisque d'homonymi
+2 CONC e. Aucun fait de résidence britannique n'est ajouté.Référence :https://
+2 CONC www.nationalarchives.gov.uk/help-with-your-research/research-guides/cen
+2 CONC sus-records/
+1 STAT COMPLETED
 1 PRTY 1
-0 @T166@ _TASK
+0 @T184@ _TASK
 1 DESC [ALFRED P1] Rechercher Alfred Clarke dans le 1939 Register britannique
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Tester l'hypothèse d'un retour en Angleterre en recherchant AlfredClark
-2 CONC /Clarke dans le 1939 Register. Cibler en priorité Hastings et EastSusse
-2 CONC x, sans exclure Liverpool/Lancashire. Relever date de naissancedéclarée
-2 CONC , adresse, profession et membres du ménage. Une absence duregistre ne d
-2 CONC oit pas être interprétée comme preuve qu'Alfred était auCanada. Source d
-2 CONC e départ : The National Archives, 1939 Register.
-1 STAT NEW
+2 CONT Tester l'hypothèse d'un retour en Angleterre en recherchantAlfredClark/
+2 CONC Clarke dans le 1939 Register. Cibler en priorité Hastings etEastSussex, s
+2 CONC ans exclure Liverpool/Lancashire. Relever date denaissancedéclarée, adr
+2 CONC esse, profession et membres du ménage. Une absenceduregistre ne doit pa
+2 CONC s être interprétée comme preuve qu'Alfred étaitauCanada. Source de dépa
+2 CONC rt : The National Archives, 1939 Register.
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Le 1939 Register est bien
+2 CONC la source officielle appropriée pour tester une présence en Angleterree
+2 CONC n 1939. Aucun Alfred Clark/Clarke trouvé dans les résultats Webaccessib
+2 CONC les ne peut être relié au couple canadien. Le guide officiel dedemande c
+2 CONC iblée indique qu'une recherche réussie peut fournir nom,adresse, date d
+2 CONC e naissance, état matrimonial et profession. Aucun faitn'est ajouté. Ré
+2 CONC férences :https://www.nationalarchives.gov.uk/help-with-your-research/r
+2 CONC esearch-guides/1939-register/; preuve originale conservée dansevidence/
+2 CONC 003_TNA_1939_Register_FOI_Guide_Original/.
+1 STAT COMPLETED
 1 PRTY 1
-0 @T167@ _TASK
+0 @T185@ _TASK
 1 DESC [ALFRED P1] Rechercher les départs du Royaume-Uni dans les listes BT27
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Rechercher Alfred Clark/Clarke dans les listes de passagers sortants du
-2 CONC Royaume-Uni, série BT27, pour la période compatible avec une immigratio
-2 CONC nau Canada. Tester les départs de Liverpool et d'autres portsbritanniqu
-2 CONC es vers Québec, Montréal, Halifax, Saint John, New York etautres ports n
-2 CONC ord-américains. Relever navire, date, âge, profession,dernière adresse a
-2 CONC u Royaume-Uni et destination. Croiser tout candidatavec les listes cana
-2 CONC diennes d'arrivée. Source : The National Archives,Outwards Passenger Li
-2 CONC sts, BT27 (1890-1960).
-1 STAT NEW
+2 CONT Rechercher Alfred Clark/Clarke dans les listes de passagers sortantsduR
+2 CONC oyaume-Uni, série BT27, pour la période compatible avec uneimmigrationa
+2 CONC u Canada. Tester les départs de Liverpool et d'autresportsbritanniques v
+2 CONC ers Québec, Montréal, Halifax, Saint John, New Yorketautres ports nord-
+2 CONC américains. Relever navire, date, âge,profession,dernière adresse au Ro
+2 CONC yaume-Uni et destination. Croiser toutcandidatavec les listes canadienn
+2 CONC es d'arrivée. Source : The NationalArchives,Outwards Passenger Lists, B
+2 CONC T27 (1890-1960).
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Les National Archivesconf
+2 CONC irment que la série BT27 contient les listes de passagers sortants1890-
+2 CONC 1960 et qu'elles sont consultables via les partenaires derecherche. Les r
+2 CONC echerches publiques Alfred Clark/Clarke +Canada/Québec/Montréal/Liverpo
+2 CONC ol n'ont pas permis d'isoler un passagercompatible. Aucun navire, port o
+2 CONC u date d'émigration n'est attribué.Référence :https://www.nationalarchi
+2 CONC ves.gov.uk/help-with-your-research/research-guides/passengers/
+1 STAT COMPLETED
 1 PRTY 1
-0 @T168@ _TASK
+0 @T186@ _TASK
 1 DESC [ALFRED P1] Rechercher les entrées Canada–États-Unis de 1908 à 1935
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Vérifier si Alfred a pu entrer au Canada par voie terrestre après unear
-2 CONC rivée aux États-Unis. Rechercher Clark/Clarke dans les Border Entriesde B
-2 CONC ibliothèque et Archives Canada, 1908-1935, en tenant compte desvariante
-2 CONC s de nom et des ports frontaliers du Québec, de l'Ontario et del'est de
-2 CONC s États-Unis. Pour 1925-1935, exploiter particulièrement lesindex des n
-2 CONC oms commençant par C lorsqu'ils sont disponibles. Releverdate, port, âg
-2 CONC e, nationalité, profession, destination et contact.
-1 STAT NEW
+2 CONT Vérifier si Alfred a pu entrer au Canada par voie terrestre aprèsunearr
+2 CONC ivée aux États-Unis. Rechercher Clark/Clarke dans les BorderEntriesde B
+2 CONC ibliothèque et Archives Canada, 1908-1935, en tenant comptedesvariantes d
+2 CONC e nom et des ports frontaliers du Québec, de l'Ontario etdel'est des Ét
+2 CONC ats-Unis. Pour 1925-1935, exploiter particulièrementlesindex des noms c
+2 CONC ommençant par C lorsqu'ils sont disponibles.Releverdate, port, âge, nat
+2 CONC ionalité, profession, destination et contact.
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Bibliothèque et ArchivesC
+2 CONC anada confirme l'existence des Border entry records 1908-1935 etprécise q
+2 CONC ue les entrées terrestres 1925-1935 pour les noms commençantpar C sont i
+2 CONC ndexées dans Collection Search. Aucun résultat publiquementaccessible n
+2 CONC e permet d'identifier notre Alfred avec certitude. Aucuneentrée frontal
+2 CONC ière n'est ajoutée. Références :https://www.canada.ca/en/library-archiv
+2 CONC es/collection/research-help/genealogy-family-history/immigration.html;h
+2 CONC ttps://www.canada.ca/en/library-archives/collection/research-help/genea
+2 CONC logy-family-history/immigration/passenger-lists-1865-1935.html
+1 STAT COMPLETED
 1 PRTY 1
-0 @T169@ _TASK
+0 @T187@ _TASK
 1 DESC [ALFRED P1] Examiner systématiquement les Form 30A et manifest indexes
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Effectuer une recherche dédiée dans les Form 30A, Ocean Arrivals1919-19
-2 CONC 24, ainsi que dans les manifest indexes 1906-1920 de Bibliothèqueet Arc
-2 CONC hives Canada. Tester Clark, Clarke et erreurs de transcriptionplausible
-2 CONC s. Ces collections doivent être examinées séparément desrecherches géné
-2 CONC rales de listes de passagers, car elles peuvent révélerune arrivée qui n
-2 CONC 'apparaît pas facilement dans les index ordinaires.Documenter aussi les r
-2 CONC echerches négatives.
-1 STAT NEW
+2 CONT Effectuer une recherche dédiée dans les Form 30A, OceanArrivals1919-192
+2 CONC 4, ainsi que dans les manifest indexes 1906-1920 deBibliothèqueet Archi
+2 CONC ves Canada. Tester Clark, Clarke et erreurs detranscriptionplausibles. C
+2 CONC es collections doivent être examinéesséparément desrecherches générales d
+2 CONC e listes de passagers, car ellespeuvent révélerune arrivée qui n'appara
+2 CONC ît pas facilement dans les indexordinaires.Documenter aussi les recherc
+2 CONC hes négatives.
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / LIMITATION D'ACCÈS. Les Form 30Adocumen
+2 CONC tent les arrivées maritimes 1919-1924; BAC précise que lesformulaires d
+2 CONC oivent souvent être parcourus sur microfilm et que lesindex partenaires A
+2 CONC ncestry/FamilySearch peuvent être nécessaires. Lesmanifest indexes 1906
+2 CONC -1920 sont organisés par manifeste et peuventparfois être le seul moyen d
+2 CONC e retrouver une arrivée. Aucun candidatAlfred n'a été validé dans ce pa
+2 CONC ssage. Références :https://www.canada.ca/en/library-archives/collection
+2 CONC /research-help/genealogy-family-history/immigration/form-30a-ocean-arri
+2 CONC vals-1919-1924.html;https://www.canada.ca/en/library-archives/collectio
+2 CONC n/research-help/genealogy-family-history/immigration/manifest-indexes.h
+2 CONC tml
+1 STAT COMPLETED
 1 PRTY 1
-0 @T170@ _TASK
+0 @T188@ _TASK
 1 DESC [ALFRED P1] Rechercher un contrat de mariage ou acte notarié autour du mariage de 1923
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Rechercher dans les greffes et répertoires de notaires du Québec uncont
-2 CONC rat de mariage, une donation, un acte de propriété, une obligationou to
-2 CONC ut autre acte impliquant Alfred Clarke et Marie-Louise/LouiseTremblay a
-2 CONC utour du 15 MAR 1923. PrioriserSainte-Clotilde-de-Châteauguay, Châteaug
-2 CONC uay, La Prairie et les localitésvoisines. Relever les parents, témoins, p
-2 CONC rofessions, résidences etsignatures. Source de départ : BAnQ, greffes d
-2 CONC e notaires et Advitam.
-1 STAT NEW
+2 CONT Rechercher dans les greffes et répertoires de notaires du Québecuncontr
+2 CONC at de mariage, une donation, un acte de propriété, uneobligationou tout a
+2 CONC utre acte impliquant Alfred Clarke etMarie-Louise/LouiseTremblay autour d
+2 CONC u 15 MAR 1923.PrioriserSainte-Clotilde-de-Châteauguay, Châteauguay, La P
+2 CONC rairie et leslocalitésvoisines. Relever les parents, témoins, professio
+2 CONC ns, résidencesetsignatures. Source de départ : BAnQ, greffes de notaire
+2 CONC s et Advitam.
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / COUVERTURE PARTIELLE. Les bases BAnQcon
+2 CONC firment la valeur généalogique des contrats de mariage, mais lesinstrum
+2 CONC ents Web examinés ne couvrent pas de manière exhaustive lesecteur de Sa
+2 CONC inte-Clotilde/Châteauguay pour 1923. Les recherchesindexées Alfred Clar
+2 CONC ke + Tremblay n'ont produit aucun acte notariéattribuable au couple. L'
+2 CONC absence de résultat ne prouve pas qu'aucuncontrat n'existe. Aucun fait n
+2 CONC otarié n'est ajouté. Références :https://www2.banq.qc.ca/archives/genea
+2 CONC logie_histoire_familiale/ressources/bd/recherche.html?id=CONTRATS_DE_MA
+2 CONC RIAGE_2020;https://www2.banq.qc.ca/archives/genealogie_histoire_familia
+2 CONC le/ressources/bd/recherche.html?id=BIOGR_NOTAIRES_QC_2022
+1 STAT COMPLETED
 1 PRTY 1
-0 @T171@ _TASK
+0 @T189@ _TASK
 1 DESC [ALFRED P1] Rechercher les bans, dispenses et dossier religieux du mariage de 1923
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Au-delà de l'acte paroissial principal, rechercher les bans, dispenses,
-2 CONC permissions, registre de publication et éventuel dossier diocésain duma
-2 CONC riage Alfred Clarke × Louise/Marie-Louise Tremblay du 15 MAR 1923. Uned
-2 CONC ispense ou un dossier préparatoire pourrait préciser l'origined'Alfred, s
-2 CONC a religion, son baptême, ses parents ou les raisons pourlesquelles ses p
-2 CONC arents sont indiqués inconnus. Transcrire intégralementtoute pièce obte
-2 CONC nue et conserver l'image originale.
-1 STAT NEW
+2 CONT Au-delà de l'acte paroissial principal, rechercher les bans,dispenses,p
+2 CONC ermissions, registre de publication et éventuel dossierdiocésain dumari
+2 CONC age Alfred Clarke × Louise/Marie-Louise Tremblay du 15MAR 1923. Unedisp
+2 CONC ense ou un dossier préparatoire pourrait préciserl'origined'Alfred, sa r
+2 CONC eligion, son baptême, ses parents ou les raisonspourlesquelles ses pare
+2 CONC nts sont indiqués inconnus. Transcrireintégralementtoute pièce obtenue e
+2 CONC t conserver l'image originale.
+2 CONT
+2 CONT RÉSULTAT - SOURCE IDENTIFIÉE / ACCÈS RESTREINT.Sainte-Clotilde-de-Châte
+2 CONC auguay appartient au diocèse de Valleyfield etses registres commencent e
+2 CONC n 1884. Le diocèse indique que, pour lesmariages jusqu'en 1944, il ne r
+2 CONC ecevait que les dispenses; ses archivesne sont pas ouvertes au public e
+2 CONC t les demandes doivent passer par lachancellerie. Aucun document ne dém
+2 CONC ontre qu'une dispense existait pourle mariage de 1923. Aucun fait relig
+2 CONC ieux n'est ajouté. Références :https://www.diocesevalleyfield.org/fr/di
+2 CONC ocese/chancellerie/archives ;https://www.originis.ca/paroisse_sainte_cl
+2 CONC otilde_de_chateauguay.html
+1 STAT COMPLETED
 1 PRTY 1
-0 @T172@ _TASK
+0 @T190@ _TASK
 1 DESC [ALFRED P1] Construire une liste exhaustive des naissances Clark/Clarke 1892-1894 au GRO
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Construire une table de tous les Alfred Clark/Clarke enregistrés entre1
-2 CONC 892 et 1894 dans les districts de Hastings, Liverpool et districtsvoisi
-2 CONC ns pertinents d'Angleterre et du pays de Galles. Pour chaquecandidat, r
-2 CONC elever trimestre, district, volume/page ou référence GRO, nomde jeune f
-2 CONC ille de la mère lorsqu'indiqué et résultats des recensements.Éliminer l
-2 CONC es candidats qui restent en Angleterre, meurent avant 1923 ouépousent u
-2 CONC ne autre personne. Commander les certificats des meilleurscandidats si n
-2 CONC écessaire.
-1 STAT NEW
+2 CONT Construire une table de tous les Alfred Clark/Clarke enregistrésentre18
+2 CONC 92 et 1894 dans les districts de Hastings, Liverpool etdistrictsvoisins p
+2 CONC ertinents d'Angleterre et du pays de Galles. Pourchaquecandidat, releve
+2 CONC r trimestre, district, volume/page ou référenceGRO, nomde jeune fille d
+2 CONC e la mère lorsqu'indiqué et résultats desrecensements.Éliminer les cand
+2 CONC idats qui restent en Angleterre, meurentavant 1923 ouépousent une autre p
+2 CONC ersonne. Commander les certificats desmeilleurscandidats si nécessaire.
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE SYSTÉMATIQUE PUBLIQUE, MAIS LISTE EXHAUSTIVE NONEX
+2 CONC TRAITE. GOV.UK confirme que le GRO détient les actes d'Angleterre etdu p
+2 CONC ays de Galles depuis 1837, que son index historique des naissancescouvr
+2 CONC e 1837-1934 et que FreeBMD offre les références d'index. Lesinterfaces d
+2 CONC e recherche ne fournissent pas au navigateur Web utilisé iciune extract
+2 CONC ion exhaustive de tous les Alfred Clark/Clarke 1892-1894. Lesrecherches e
+2 CONC xactes sur la date 26 FEB 1893 et Hastings n'ont pas produitde preuve p
+2 CONC rimaire corroborante. Aucun candidat de naissance n'estretenu. Référenc
+2 CONC es : https://www.gov.uk/research-family-history ;https://www.freebmd.or
+2 CONC g.uk/search
+1 STAT COMPLETED
 1 PRTY 1
-0 @T173@ _TASK
+0 @T191@ _TASK
 1 DESC [ALFRED P1] Identifier puis commander le certificat de décès du candidat Hastings de 1972
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Identifier dans l'index GRO le décès Alfred Clark/Clarke le pluscompati
-2 CONC ble avec NOV 1972 à Hastings ou dans le district correspondant.Une fois l
-2 CONC e candidat identifié, commander le certificat de décès etrelever date/l
-2 CONC ieu exacts, âge ou date de naissance, profession, adressehabituelle, ca
-2 CONC use du décès et informateur. Comparer l'informateur,l'adresse et la pro
-2 CONC fession avec la famille canadienne avant toutemodification du DEAT dans l
-2 CONC e GEDCOM.
-1 STAT NEW
+2 CONT Identifier dans l'index GRO le décès Alfred Clark/Clarke lepluscompatib
+2 CONC le avec NOV 1972 à Hastings ou dans le districtcorrespondant.Une fois l
+2 CONC e candidat identifié, commander le certificat dedécès etrelever date/li
+2 CONC eu exacts, âge ou date de naissance, profession,adressehabituelle, caus
+2 CONC e du décès et informateur. Comparerl'informateur,l'adresse et la profes
+2 CONC sion avec la famille canadienneavant toutemodification du DEAT dans le G
+2 CONC EDCOM.
+2 CONT
+2 CONT RÉSULTAT - CONDITION DE COMMANDE NON ATTEINTE. Le décès NOV 1972 àHasti
+2 CONC ngs demeure soutenu uniquement par l'arbre secondaire Geneanet.Aucun nu
+2 CONC méro de référence GRO/FreeBMD suffisamment identifié n'a ététrouvé pour c
+2 CONC ommander sans risque le certificat d'un homonyme. GOV.UKprécise que les d
+2 CONC écès après 1957 ne sont pas dans l'index historiquegratuit du GRO; ils n
+2 CONC écessitent une référence issue des indexcomplets/FreeBMD ou d'une autre s
+2 CONC ource. Aucun certificat n'a donc étécommandé et aucun DEAT n'est modifi
+2 CONC é. Références :https://www.gov.uk/research-family-history ;https://www.
+2 CONC freebmd.org.uk/search ; Geneanet, arbre tardifhe.
+1 STAT COMPLETED
 1 PRTY 1
-0 @T174@ _TASK
+0 @T192@ _TASK
 1 DESC [ALFRED P2] Reconstituer la présence éventuelle d'Alfred à Hastings de 1939 à 1972
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Si un candidat Hastings demeure plausible, rechercher les listesélector
-2 CONC ales, annuaires, registres d'adresses et autres sources localesentre 19
-2 CONC 39 et 1972. Construire une chronologie continue de résidence etde profe
-2 CONC ssion. Rechercher également un avis de décès ou article local en1972. U
-2 CONC ne chaîne documentaire continue entre le Canada et Hastings estnécessai
-2 CONC re avant d'identifier ce candidat comme notre Alfred.
-1 STAT NEW
+2 CONT Si un candidat Hastings demeure plausible, rechercher leslistesélectora
+2 CONC les, annuaires, registres d'adresses et autres sourceslocalesentre 1939 e
+2 CONC t 1972. Construire une chronologie continue derésidence etde profession
+2 CONC . Rechercher également un avis de décès ouarticle local en1972. Une cha
+2 CONC îne documentaire continue entre le Canadaet Hastings estnécessaire avan
+2 CONC t d'identifier ce candidat comme notreAlfred.
+2 CONT
+2 CONT RÉSULTAT - HYPOTHÈSE NON CORROBORÉE. Les recherches publiques surHastin
+2 CONC gs/East Sussex, Alfred Clark/Clarke et 1939-1972 n'ont produitaucune ch
+2 CONC aîne indépendante reliant l'homme de Hastings à Marie-LouiseTremblay ou à l
+2 CONC eurs enfants. La seule piste précise demeure l'arbresecondaire Geneanet (
+2 CONC naissance 26 FEB 1893; décès 1972 à Hastings).Aucun retour en Angleterr
+2 CONC e n'est ajouté au GEDCOM. Référence secondaire:https://en.geneanet.org/
+2 CONC fonds/individus/?country%5B0%5D=CAN&go=1&nom=CLARKE&region%5B0%5D=QUE&z
+2 CONC onegeo%5B0%5D=Qu%C3%A9bec%2C+Canada
+1 STAT COMPLETED
 1 PRTY 2
-0 @T175@ _TASK
+0 @T193@ _TASK
 1 DESC [ALFRED P2] Exploiter le décès de Marie-Louise Tremblay et les actes des enfants
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Rechercher le décès de Marie-Louise/Louise Tremblay (rapporté en 1978da
-2 CONC ns une source secondaire) et les mariages, décès ou sépultures deMarcel
-2 CONC , Rollande, Edgar et Paul Clarke. Relever toute mention d'Alfred :vivan
-2 CONC t/décédé, résidence, profession, lieu de naissance, origine ouconjoint. C
-2 CONC es sources collatérales peuvent résoudre l'identité d'Alfredmême si ses p
-2 CONC ropres documents restent difficiles à trouver. Ne fusionneraucun enfant s
-2 CONC ans concordance suffisante.
-1 STAT NEW
+2 CONT Rechercher le décès de Marie-Louise/Louise Tremblay (rapporté en1978dan
+2 CONC s une source secondaire) et les mariages, décès ou sépulturesdeMarcel, R
+2 CONC ollande, Edgar et Paul Clarke. Relever toute mention d'Alfred:vivant/dé
+2 CONC cédé, résidence, profession, lieu de naissance, origineouconjoint. Ces s
+2 CONC ources collatérales peuvent résoudre l'identitéd'Alfredmême si ses prop
+2 CONC res documents restent difficiles à trouver. Nefusionneraucun enfant san
+2 CONC s concordance suffisante.
+2 CONT
+2 CONT RÉSULTAT - AUCUNE NOUVELLE PREUVE PRIMAIRE. Les recherches surMarie-Lou
+2 CONC ise Tremblay et les enfants n'ont pas fourni dans ce passage decertific
+2 CONC at ou registre original permettant de préciser le sort d'Alfred.L'arbre G
+2 CONC eneanet indique quatre enfants, mais il reste une sourcesecondaire. Auc
+2 CONC un nouvel enfant n'est créé et aucune date conflictuelleexistante n'est r
+2 CONC emplacée. Référence secondaire : Geneanet, arbretardifhe; conserver les a
+2 CONC ctes des enfants comme cible future seulementlorsque les images origina
+2 CONC les sont obtenues.
+1 STAT COMPLETED
 1 PRTY 2
-0 @T176@ _TASK
+0 @T194@ _TASK
 1 DESC [ALFRED P2] Construire un réseau FAN à partir des témoins, parrains et voisins
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Créer une analyse FAN (Friends, Associates, Neighbors) à partir destémo
-2 CONC ins du mariage de 1923, parrains/marraines des baptêmes des enfants,voi
-2 CONC sins du recensement de 1931 et personnes portant Clark/Clarke dansles m
-2 CONC êmes localités. Identifier les liens familiaux, professionnels,religieu
-2 CONC x ou migratoires possibles. Accorder une attention particulièreaux pers
-2 CONC onnes nées dans les îles Britanniques ou liées àLiverpool/Hastings.
-1 STAT NEW
+2 CONT Créer une analyse FAN (Friends, Associates, Neighbors) à partirdestémoi
+2 CONC ns du mariage de 1923, parrains/marraines des baptêmes desenfants,voisi
+2 CONC ns du recensement de 1931 et personnes portant Clark/Clarkedansles même
+2 CONC s localités. Identifier les liens familiaux,professionnels,religieux ou m
+2 CONC igratoires possibles. Accorder uneattention particulièreaux personnes n
+2 CONC ées dans les îles Britanniques ouliées àLiverpool/Hastings.
+2 CONT
+2 CONT RÉSULTAT - RÉSEAU FAN NON CONSTRUCTIBLE DE FAÇON SÛRE. Les imagesorigin
+2 CONC ales du mariage de 1923, des baptêmes des enfants et de la lignecomplèt
+2 CONC e du recensement 1931 n'ont pas été obtenues dans ce passage; lestémoin
+2 CONC s, parrains/marraines et voisins ne peuvent donc pas être relevésfidèle
+2 CONC ment. Aucun associé n'est créé à partir d'indices secondaires.Cette abs
+2 CONC ence est documentée comme limite de preuve.
+1 STAT COMPLETED
 1 PRTY 2
-0 @T177@ _TASK
+0 @T195@ _TASK
 1 DESC [ALFRED P2] Reconstituer Alfred dans les listes électorales et rôles municipaux canadiens
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
 2 CONT Compléter la chronologie canadienne par les listes électoralesfédérales
-2 CONC , annuaires, rôles d'évaluation, taxes foncières et autresdocuments mun
-2 CONC icipaux entre 1923 et 1972. Prioriser Sainte-Clotilde, LaPrairie, Saint
-2 CONC -Bernard-de-Lacolle, Lacolle, Montréal et les localités oùrésident les e
-2 CONC nfants. Relever chaque adresse et profession afin dedéterminer la derni
-2 CONC ère présence certaine d'Alfred au Canada.
-1 STAT NEW
+2 CONC ,annuaires, rôles d'évaluation, taxes foncières et autresdocumentsmunic
+2 CONC ipaux entre 1923 et 1972. Prioriser Sainte-Clotilde, LaPrairie,Saint-Be
+2 CONC rnard-de-Lacolle, Lacolle, Montréal et les localités oùrésidentles enfa
+2 CONC nts. Relever chaque adresse et profession afin dedéterminer ladernière p
+2 CONC résence certaine d'Alfred au Canada.
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Des recherches cibléesAlf
+2 CONC red Clark/Clarke à Sainte-Clotilde, La Prairie,Saint-Bernard-de-Lacolle
+2 CONC , Lacolle et Montréal n'ont pas produit de listeélectorale ou rôle muni
+2 CONC cipal publiquement accessible pouvant êtreattribué avec certitude au bo
+2 CONC n Alfred. La résidence probable de 1931déjà documentée par index second
+2 CONC aire reste inchangée. Aucun RESI ou OCCUsupplémentaire n'est ajouté.
+1 STAT COMPLETED
 1 PRTY 2
-0 @T178@ _TASK
+0 @T196@ _TASK
 1 DESC [ALFRED P2] Documenter la provenance exacte de la tradition « orphelin de Liverpool »
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Identifier la chaîne de transmission de la tradition familiale selonlaq
-2 CONC uelle Alfred serait arrivé par bateau et aurait été un « orphelin deLiv
-2 CONC erpool ». Pour chaque informateur, noter qui lui a transmisl'informatio
-2 CONC n, la formulation exacte, la date approximative du récit etles détails a
-2 CONC ssociés : foyer, organisme, navire, âge, frères/sœurs,famille d'accueil o
-2 CONC u lieu d'arrivée. Distinguer clairement souvenirdirect, récit de second
-2 CONC e main et interprétation ultérieure.
-1 STAT NEW
+2 CONT Identifier la chaîne de transmission de la tradition familialeselonlaqu
+2 CONC elle Alfred serait arrivé par bateau et aurait été un «orphelin deLiver
+2 CONC pool ». Pour chaque informateur, noter qui lui atransmisl'information, l
+2 CONC a formulation exacte, la date approximative durécit etles détails assoc
+2 CONC iés : foyer, organisme, navire, âge,frères/sœurs,famille d'accueil ou l
+2 CONC ieu d'arrivée. Distinguer clairementsouvenirdirect, récit de seconde ma
+2 CONC in et interprétation ultérieure.
+2 CONT
+2 CONT RÉSULTAT - PROVENANCE DOCUMENTAIRE NON TROUVÉE. Aucun document Web oufo
+2 CONC nds d'archives consulté n'établit l'origine de la formulationfamiliale « o
+2 CONC rphelin de Liverpool » ni la chaîne d'informateurs. Lamention reste une T
+2 CONC RADITION FAMILIALE, déjà documentée dans la base, etn'est pas convertie e
+2 CONC n fait d'état civil ou d'immigration. Une véritableprovenance orale néc
+2 CONC essiterait des entrevues et l'identification desinformateurs, ce qui ne p
+2 CONC eut pas être produit par une recherche Web.
+1 STAT COMPLETED
 1 PRTY 2
-0 @T179@ _TASK
+0 @T197@ _TASK
 1 DESC [ALFRED P3] Surveiller l'accès au National Registration File de 1940
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Le National Registration File de 1940 pourrait fournir l'année d'entrée
-2 CONC au Canada, la naissance, la citoyenneté, l'occupation et d'autresrensei
-2 CONC gnements utiles. En août 2026, Bibliothèque et Archives Canadaindique q
-2 CONC ue ces dossiers ne sont pas accessibles en raison de leur étatphysique. S
-2 CONC urveiller la réouverture de la collection et, dès qu'elledevient consul
-2 CONC table, demander la fiche d'Alfred Clarke en fournissantles renseignemen
-2 CONC ts permettant de le distinguer des homonymes. Cettetâche est BLOQUÉE PA
-2 CONC R LA DISPONIBILITÉ DES ARCHIVES, mais demeure NEWdans RootsMagic.
-1 STAT NEW
+2 CONT Le National Registration File de 1940 pourrait fournir l'annéed'entréea
+2 CONC u Canada, la naissance, la citoyenneté, l'occupation etd'autresrenseign
+2 CONC ements utiles. En août 2026, Bibliothèque et ArchivesCanadaindique que c
+2 CONC es dossiers ne sont pas accessibles en raison de leurétatphysique. Surv
+2 CONC eiller la réouverture de la collection et, dèsqu'elledevient consultabl
+2 CONC e, demander la fiche d'Alfred Clarke enfournissantles renseignements pe
+2 CONC rmettant de le distinguer des homonymes.Cettetâche est BLOQUÉE PAR LA D
+2 CONC ISPONIBILITÉ DES ARCHIVES, mais demeureNEWdans RootsMagic.
+2 CONT
+2 CONT RÉSULTAT - BLOQUÉ PAR L'ÉTAT DES ARCHIVES, VÉRIFIÉ LE 9 AUG 2026.Biblio
+2 CONC thèque et Archives Canada indique officiellement que le NationalRegistr
+2 CONC ation File de 1940 n'est pas accessible en raison de son étatphysique e
+2 CONC t que BAC ne peut actuellement effectuer de recherches pourles usagers. L
+2 CONC a collection pourrait être déterminante car elle contientnotamment adre
+2 CONC sse, âge, date/lieu de naissance, profession et, pour lesimmigrants, an
+2 CONC née d'arrivée et pays de naissance des parents. Aucunrésultat individue
+2 CONC l n'est donc possible aujourd'hui. Référence :https://www.canada.ca/en/
+2 CONC library-archives/collection/research-help/military-history/second-world
+2 CONC -war/national-registration-file.html
+1 STAT COMPLETED
 1 PRTY 3
-0 @T180@ _TASK
+0 @T198@ _TASK
 1 DESC [ALFRED P2] Reprendre les fonds de Liverpool après identification de candidats de naissance
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Lorsque la tâche GRO 1892-1894 aura produit un ou plusieurs candidatscr
-2 CONC édibles, reprendre les fonds de Nugent Care, Father Berry's Home, WestD
-2 CONC erby Union, Liverpool Sheltering Home et autres dossiersinstitutionnels a
-2 CONC vec la date de naissance exacte, les parents candidatset les adresses b
-2 CONC ritanniques. Chercher admission, placement, sortie,émigration et corres
-2 CONC pondance. Cette seconde passe doit être fondée surdes identifiants préc
-2 CONC is plutôt que sur le seul nom Alfred Clarke.
-1 STAT NEW
+2 CONT Lorsque la tâche GRO 1892-1894 aura produit un ou plusieurscandidatscré
+2 CONC dibles, reprendre les fonds de Nugent Care, Father Berry'sHome, WestDer
+2 CONC by Union, Liverpool Sheltering Home et autresdossiersinstitutionnels av
+2 CONC ec la date de naissance exacte, les parentscandidatset les adresses bri
+2 CONC tanniques. Chercher admission, placement,sortie,émigration et correspon
+2 CONC dance. Cette seconde passe doit êtrefondée surdes identifiants précis p
+2 CONC lutôt que sur le seul nom AlfredClarke.
+2 CONT
+2 CONT RÉSULTAT - CONDITION PRÉALABLE NON REMPLIE. La seconde passe Liverpoold
+2 CONC evait être fondée sur un ou plusieurs candidats britanniques identifiés
+2 CONC par une naissance primaire. La phase actuelle n'a produit aucun candida
+2 CONC tGRO suffisamment solide. BAC confirme néanmoins que les collections Ho
+2 CONC meChildren comprennent des listes de Nugent Care, Father Berry's Home e
+2 CONC tWest Derby Union. Afin d'éviter une fausse attribution à un homonyme,a
+2 CONC ucun enfant institutionnalisé n'est rattaché à Alfred. Référence :https
+2 CONC ://www.canada.ca/en/library-archives/collection/research-help/genealogy
+2 CONC -family-history/immigration/home-children.html
+1 STAT COMPLETED
 1 PRTY 2
-0 @T181@ _TASK
+0 @T199@ _TASK
 1 DESC [ALFRED P2] Rechercher le candidat Alfred Clarke dans les archives scolaires et Poor Law
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT Pour chaque candidat britannique crédible, rechercher registresscolaire
-2 CONC s, Poor Law, workhouse, guardians, hospital et apprentissagedans les se
-2 CONC cteurs Hastings/East Sussex et Liverpool/Lancashire. Cesdocuments peuve
-2 CONC nt relier un enfant à une institution, à un parentsurvivant ou à une ad
-2 CONC resse avant émigration. Ne conclure à l'orphelinatque si le document dé
-2 CONC crit explicitement le statut ou la situationfamiliale.
-1 STAT NEW
+2 CONT Pour chaque candidat britannique crédible, rechercherregistresscolaires
+2 CONC , Poor Law, workhouse, guardians, hospital etapprentissagedans les sect
+2 CONC eurs Hastings/East Sussex etLiverpool/Lancashire. Cesdocuments peuvent r
+2 CONC elier un enfant à uneinstitution, à un parentsurvivant ou à une adresse a
+2 CONC vant émigration. Neconclure à l'orphelinatque si le document décrit exp
+2 CONC licitement le statutou la situationfamiliale.
+2 CONT
+2 CONT RÉSULTAT - RECHERCHE INCONCLUSIVE / RISQUE D'HOMONYMIE. Sans date denai
+2 CONC ssance primaire, parents ou adresse britannique confirmés, unerecherche l
+2 CONC arge dans les archives scolaires et Poor Law de Hastings ouLiverpool pr
+2 CONC oduit trop d'Alfred Clark/Clarke pour une attributionfiable. Aucun doss
+2 CONC ier scolaire, workhouse ou Poor Law n'est rattaché ànotre Alfred. Cette p
+2 CONC rudence évite de créer de faux parents ou unefausse institution.
+1 STAT COMPLETED
 1 PRTY 2
-0 @T182@ _TASK
+0 @T200@ _TASK
 1 DESC [ALFRED FINAL] Rédiger un argument de preuve après la phase 2
 1 TYPE 0
 1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
-2 CONT À la fin de cette nouvelle phase, rédiger un rapport de preuve structur
-2 CONC écomparant tous les candidats Alfred Clark/Clarke. Inclure recherchespo
-2 CONC sitives et négatives, qualité des sources, informationsprimaires/second
-2 CONC aires, contradictions, chronologie, réseau FAN ettableau d'élimination d
-2 CONC es homonymes. Décider séparément : 1) naissanceexacte; 2) parents; 3) i
-2 CONC mmigration; 4) statut Home Child; 5) décès1972/Hastings. Ne modifier ce
-2 CONC s faits dans le GEDCOM principal que si laconclusion atteint un niveau d
-2 CONC e preuve suffisant.
-1 STAT NEW
+2 CONT À la fin de cette nouvelle phase, rédiger un rapport de preuvestructuré
+2 CONC comparant tous les candidats Alfred Clark/Clarke. Inclurerecherchesposi
+2 CONC tives et négatives, qualité des sources,informationsprimaires/secondair
+2 CONC es, contradictions, chronologie, réseauFAN ettableau d'élimination des h
+2 CONC omonymes. Décider séparément : 1)naissanceexacte; 2) parents; 3) immigr
+2 CONC ation; 4) statut Home Child; 5)décès1972/Hastings. Ne modifier ces fait
+2 CONC s dans le GEDCOM principal quesi laconclusion atteint un niveau de preu
+2 CONC ve suffisant.
+2 CONT
+2 CONT RÉSULTAT FINAL - ARGUMENT DE PREUVE PHASE 2. TRÈS PROBABLE : mariage au
+2 CONC Québec le 15 MAR 1923 et âge d'environ 30 ans, donc naissance vers1892-
+2 CONC 1893. PROBABLE : ménage Alfred/Mary-Louise àSaint-Bernard-de-Lacolle en 1
+2 CONC 931 par index secondaire. HYPOTHÈSESECONDAIRE NON CORROBORÉE : naissanc
+2 CONC e 26 FEB 1893 à Hastings et décèsNOV 1972 à Hastings. TRADITION FAMILIA
+2 CONC LE NON DÉMONTRÉE : « orphelin deLiverpool » et arrivée par bateau. RECH
+2 CONC ERCHES NÉGATIVES/INCONCLUSIVES :1921 UK, 1939 Register, BT27, Border En
+2 CONC tries, Form 30A, manifestindexes, notariat, listes électorales, archive
+2 CONC s scolaires/Poor Law.BLOQUÉ : National Registration File 1940. CONCLUSI
+2 CONC ON : aucune nouvellepreuve primaire ne justifie d'ajouter des parents, u
+2 CONC n lieu/date exactsde naissance, un navire/année d'immigration, un statu
+2 CONC t Home Child ou unlieu/date exacts de décès. Le GEDCOM d'import ne modi
+2 CONC fie donc aucunindividu/famille; il ajoute uniquement les 18 tâches docu
+2 CONC mentées commeCOMPLETED.
+1 STAT COMPLETED
 1 PRTY 1
 0 @S1@ SOUR
 1 ABBR Canada, Newspapers.com Obituary Index, 1800s-current

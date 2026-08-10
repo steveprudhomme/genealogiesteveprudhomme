@@ -1,0 +1,4 @@
+TYPE: ORIGINAL_NATIVE_PDF
+STATUS: Original PDF downloaded directly from the publisher/source URL.
+SHA256: 6425d8ac58c4c83789656b20d35f0ff2de5abb81cda302851558f4dbd282efd8
+PNG files in this directory are pixel renders of this exact original PDF.

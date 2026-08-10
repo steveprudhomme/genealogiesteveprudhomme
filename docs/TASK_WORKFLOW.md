@@ -2,31 +2,27 @@
 
 ## Source de vérité
 
-Le GEDCOM actuel utilisé pour cette version contient **118 tâches**.
+Le GEDCOM courant `genealogiesteveprudhomme(1).ged` contient 118 tâches jusqu'à T164.
 
-Le snapshot `gedcom/tasks_snapshot_v0.4.0.ged` ajoute 18 tâches Alfred Clarke et sert de représentation
-versionnée de la feuille de route complète.
+La phase 2 Alfred Clarke utilise **T165-T182** pour éviter toute collision.
 
 ## Import RootsMagic
 
-Pour la base RootsMagic actuelle, utiliser **uniquement**
-`gedcom/alfred_clarke_new_tasks_v0.4.0.ged` afin d'ajouter T148–T165.
+Importer uniquement `gedcom/alfred_clarke_phase2_import_completed_v0.5.0.ged` dans la base correspondant au GEDCOM courant.
+Le fichier ne contient aucun individu, famille ou source maître : uniquement les 18 nouvelles tâches
+avec leur documentation et le statut `COMPLETED`.
 
-Importer le snapshot complet dans la base actuelle pourrait dupliquer les tâches existantes.
+## Snapshot
+
+`gedcom/tasks_snapshot_v0.5.0.ged` est destiné à Git, au ROADMAP et à l'audit. Ne pas l'importer dans la base
+courante, car il contient aussi les 118 tâches déjà présentes.
 
 ## Statuts
 
-- `NEW` : recherche à effectuer.
-- `COMPLETED` : recherche prévue effectuée et documentée.
+- `NEW` : recherche encore à effectuer.
+- `COMPLETED` : passage de recherche effectué et documenté; le résultat peut être négatif ou bloqué.
 
-Ne pas confondre tâche complétée et hypothèse démontrée.
+## Synchronisation
 
-## Synchronisation ROADMAP
-
-Toute création, suppression ou changement de statut d'une tâche doit être reproduit dans
-`ROADMAP.md` dans la même version.
-
-## Changelog
-
-Tout changement significatif de recherche, structure ou conclusion doit être inscrit dans
-`CHANGELOG.md`.
+Toute modification d'une tâche dans le snapshot doit être reflétée dans `ROADMAP.md` : même ID,
+description, note, statut, priorité et ordre.

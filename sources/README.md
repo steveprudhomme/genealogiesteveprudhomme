@@ -1,6 +1,7 @@
 # Sources
 
-Ce dossier est réservé aux métadonnées de sources, listes de liens et inventaires de documents.
+Le fichier `SOURCES_PHASE2.md` contient les liens consultés pendant la phase 2 Alfred Clarke et
+renvoie vers les dossiers correspondants dans `evidence/`.
 
-Ne pas placer ici de documents tiers protégés ou soumis à restriction sans vérifier les droits
-de conservation et de redistribution.
+Les sources officielles et archivistiques sont privilégiées. Les arbres publics sont toujours
+identifiés comme sources secondaires et ne sont pas utilisés seuls pour créer un fait certain.

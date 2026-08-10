@@ -1,0 +1,4 @@
+Type: BROWSER_CONTENT_ARCHIVE
+Titre: BAnQ - Contrats de mariage
+URL: https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=CONTRATS_DE_MARIAGE_2020
+Consulté: 2026-08-09

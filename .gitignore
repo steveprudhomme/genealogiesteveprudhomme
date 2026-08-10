@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+~$*
+
+# RootsMagic binary databases / backups
+*.rmtree
+*.rmgc
+*.rmgb
+*.backup
+*.bak
+*.tmp
+
+# Private genealogy material
+private/
+living/
+dna/
+
+# Local working exports
+work/
+scratch/

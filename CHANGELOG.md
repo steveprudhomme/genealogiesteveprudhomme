@@ -1,48 +1,78 @@
 # Changelog
 
-Tous les changements notables de ce projet généalogique sont documentés ici.
-
-Le format suit l'esprit de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le
-versionnage suit [Semantic Versioning](https://semver.org/).
+Tous les changements notables du projet sont documentés ici.
 
 ## [Unreleased]
 
-### À faire
-- Exécuter progressivement la phase Alfred Clarke T148–T165.
-- Mettre à jour le GEDCOM principal uniquement lorsque les preuves justifient une modification.
+## [0.5.2] — 2026-08-10
 
-## [0.4.0] — 2026-08-09
+### Corrigé
+- Suppression des PNG dérivés qui pouvaient être interprétés comme des captures pixel par pixel des pages Web HTML.
+- Distinction explicite entre preuve originale et archive dérivée du contenu Web.
+- Remplacement des PDF natifs par de nouvelles copies téléchargées directement depuis les URL officielles.
 
 ### Ajouté
-- Création d'une structure de projet inspirée des bonnes pratiques d'un dépôt open source,
-  adaptée à un projet de généalogie GEDCOM.
-- Ajout de `README.md`, `LICENSE`, `NOTICE.md`, `CONTRIBUTING.md`,
-  `CODE_OF_CONDUCT.md`, `PRIVACY.md`, `.gitignore`, `.gitattributes` et `VERSION`.
-- Ajout de la documentation `RESEARCH_METHOD.md`, `GEDCOM_CONVENTIONS.md`,
-  `SOURCE_POLICY.md` et `TASK_WORKFLOW.md`.
-- Ajout d'un snapshot GEDCOM contenant **les 118 tâches du GEDCOM actuel**.
-- Ajout de **18 nouvelles tâches Alfred Clarke (T148–T165)**.
-- Ajout d'un GEDCOM d'import séparé contenant uniquement les 18 nouvelles tâches.
-- Mise à jour de `ROADMAP.md` pour refléter **les 136 tâches** du snapshot.
+- PNG `_ORIGINAL_pNNN.png` rendus directement depuis les PDF natifs originaux.
+- `ORIGINAL_FILE_STATUS.txt` avec empreinte SHA-256 pour les PDF natifs.
+- `WEB_SCREENSHOT_STATUS.txt` pour chaque source HTML lorsque la capture pixel du site n'est pas disponible.
 
-### Conservé
-- Les statuts, priorités, descriptions et notes des 118 tâches du GEDCOM actuel sont conservés.
-- Le snapshot contient 89 tâches existantes `NEW` et 29 `COMPLETED`.
-- Les nouvelles tâches T148–T165 sont `NEW`.
 
-### Sécurité contre les doublons
-- Le snapshot complet est destiné au versionnage et à l'audit.
-- Le fichier `gedcom/alfred_clarke_new_tasks_v0.4.0.ged` est fourni pour l'import des nouvelles tâches
-  sans réimporter les 118 tâches déjà présentes.
+## [0.5.1] — 2026-08-10
 
-## [0.2.0] — 2026-08-09
+### Ajouté
+- Ajout de rendus PNG **pixel par pixel** pour chaque preuve PDF du dossier `evidence/`.
+- Normalisation du nommage des images de preuve au format `<nom_du_repertoire>_pNNN.png`.
+- Intégration de ces PNG dans le paquet ZIP complet du projet.
+
+### Documentation
+- Mise à jour du `README.md` et du manifeste des preuves pour documenter la convention PNG/PDF.
+
+
+### À faire
+- Attendre une nouvelle preuve primaire ou un nouvel accès d'archives avant de modifier l'identité d'Alfred Clarke.
+- Réévaluer le National Registration File de 1940 lorsque BAC rétablira l'accès.
+
+## [0.5.0] - 2026-08-09
 
 ### Recherche
-- Exécution d'une première phase de 17 recherches Alfred Clarke.
-- Production d'un GEDCOM différentiel, d'un rapport, d'une liste de sources et d'archives de consultation.
+- Exécution des 18 tâches de la phase 2 Alfred Clarke.
+- Tâches rebasées de T148-T165 à **T165-T182** afin d'éviter une collision avec le GEDCOM courant,
+  qui contient déjà T148-T164 pour la phase précédente.
+- Les 18 tâches sont marquées `COMPLETED` avec résultat positif, négatif, inconclusif ou bloqué.
 
-## [0.1.0] — 2026-08-09
+### GEDCOM
+- Création de `alfred_clarke_phase2_import_completed_v0.5.0.ged`, contenant uniquement T165-T182.
+- Aucun `INDI`, `FAM` ou `SOUR` dans le delta d'importation : aucune nouvelle preuve primaire ne
+  justifie une modification généalogique et cette stratégie réduit le risque de doublons.
+- Création de `tasks_snapshot_v0.5.0.ged` avec **136 tâches** : 72 NEW et 64 COMPLETED.
+
+### Preuves
+- Ajout de 19 répertoires de preuve nommés précisément.
+- Les PDF officiels natifs sont conservés tels quels et rendus en PNG avec la mise en page originale.
+- Pour les pages HTML, ajout d'un PDF du contenu réellement récupéré par le navigateur Web et d'un
+  PNG rendu à partir de ce PDF; ces archives sont explicitement distinguées des captures HTML pixel-par-pixel.
+- Les noms de PDF/PNG correspondent au nom de leur répertoire.
+
+### Conclusions
+- Aucune corroboration primaire de la naissance 26 FEB 1893 à Hastings.
+- Aucune corroboration primaire du décès NOV 1972 à Hastings.
+- Aucun navire ni année d'immigration identifié.
+- Aucun parent biologique ajouté.
+- La tradition « orphelin de Liverpool » reste une tradition familiale.
+- Le National Registration File de 1940 est officiellement inaccessible à BAC au 9 AUG 2026.
+
+## [0.4.0] - 2026-08-09
 
 ### Ajouté
-- Première série de 17 tâches Alfred Clarke.
-- Première convention `GEDCOM + ROADMAP.md + CHANGELOG.md`.
+- Structure open-source adaptée à la généalogie.
+- Nouvelle phase de 18 tâches Alfred Clarke.
+
+### Corrigé par 0.5.0
+- Les identifiants T148-T165 de la phase 0.4.0 entraient en collision avec les tâches de la base
+  courante après import de la première phase. La version 0.5.0 les rebascule sur T165-T182.
+
+## [0.2.0] - 2026-08-09
+- Première phase de recherche Alfred Clarke exécutée.
+
+## [0.1.0] - 2026-08-09
+- Première série de tâches Alfred Clarke et convention GEDCOM/ROADMAP/CHANGELOG.

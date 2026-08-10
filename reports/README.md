@@ -1,4 +1,6 @@
 # Rapports
 
-Ce dossier accueille les rapports de recherche, matrices de preuve, chronologies et synthèses
-généalogiques produits au fil des versions.
+Ce dossier contient le rapport de recherche de la phase 2 et le journal des recherches effectuées.
+
+- `ALFRED_CLARKE_PHASE2_RESEARCH_REPORT.md` : synthèse et argument de preuve.
+- `ALFRED_CLARKE_PHASE2_SEARCH_LOG.md` : variantes de noms, lieux et collections ciblées.

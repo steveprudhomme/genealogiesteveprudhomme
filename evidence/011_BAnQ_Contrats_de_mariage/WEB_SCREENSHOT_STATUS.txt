@@ -1,0 +1,5 @@
+TYPE: HTML_WEB_PAGE
+STATUS: NO_PIXEL_SCREENSHOT_AVAILABLE_FROM_CURRENT_WEB_TOOL
+The browser tool can retrieve and parse this public HTML page, but it does not expose a pixel screenshot function for HTML pages.
+The *_BROWSER_CONTENT_ARCHIVE.pdf file is a derived archive of browser-retrieved content, NOT the original website layout.
+No derived PNG is presented as an original website screenshot.

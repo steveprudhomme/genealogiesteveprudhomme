@@ -1,0 +1,4 @@
+Type: BROWSER_CONTENT_ARCHIVE
+Titre: BAnQ - Archives notariales / base biographique des notaires
+URL: https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=BIOGR_NOTAIRES_QC_2022
+Consulté: 2026-08-09

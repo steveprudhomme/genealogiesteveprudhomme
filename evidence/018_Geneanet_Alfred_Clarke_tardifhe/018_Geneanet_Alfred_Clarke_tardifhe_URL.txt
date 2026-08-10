@@ -1,0 +1,4 @@
+Type: BROWSER_CONTENT_ARCHIVE_SECONDARY
+Titre: Geneanet - Alfred Clarke, family tree of tardifhe
+URL: https://en.geneanet.org/fonds/individus/?country%5B0%5D=CAN&go=1&nom=CLARKE&region%5B0%5D=QUE&zonegeo%5B0%5D=Qu%C3%A9bec%2C+Canada
+Consulté: 2026-08-09

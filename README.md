@@ -1,32 +1,51 @@
-# Projet généalogique — Recherche et documentation
+# Projet généalogique - Recherche et documentation
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Format](https://img.shields.io/badge/format-GEDCOM%205.5.1-informational)
-![Version](https://img.shields.io/badge/version-0.4.0-informational)
-![Type](https://img.shields.io/badge/projet-généalogie-success)
+![Version](https://img.shields.io/badge/version-0.5.0-informational)
 
-Ce dépôt structure un travail de **recherche généalogique documentée** autour du GEDCOM
-principal, avec une attention particulière à la branche **Alfred Clarke**.
+Ce dépôt organise la recherche généalogique versionnée autour du GEDCOM principal, avec une phase
+dédiée à **Alfred Clarke**. Il s'inspire de la structure d'un projet open source comme GNU Astrolist,
+mais le livrable principal est de la **donnée généalogique GEDCOM**, pas du logiciel.
 
-Le projet reprend plusieurs bonnes pratiques d'un dépôt open source classique — README,
-CHANGELOG, ROADMAP, licence, règles de contribution, conventions de format et documentation —
-mais il ne s'agit **pas d'un logiciel**. Le langage / format de données principal est **GEDCOM
-5.5.1**.
+## État de la version 0.5.0
 
-## Objectifs
+- Base courante analysée : `genealogiesteveprudhomme(1).ged`.
+- Tâches déjà présentes dans cette base : **118**, jusqu'à **T164**.
+- Nouvelle phase Alfred rebasée pour éviter les collisions : **T165-T182**.
+- Snapshot de projet : **136 tâches** = **72 NEW** + **64 COMPLETED**.
+- Les 18 tâches Alfred phase 2 sont **COMPLETED**.
+- Aucun nouvel individu ni famille n'est ajouté par le delta, faute de nouvelle preuve primaire assez sûre.
 
-- conserver les tâches de recherche dans un format versionnable;
-- synchroniser le `ROADMAP.md` avec les tâches GEDCOM;
-- distinguer les faits établis, les probabilités, les hypothèses, les contradictions et les traditions familiales;
-- conserver les références et la provenance des sources;
-- éviter les doublons d'individus, de familles et de faits;
-- protéger les renseignements concernant les personnes vivantes;
-- documenter les recherches négatives aussi soigneusement que les résultats positifs.
+## GEDCOM à importer
 
-## Arborescence
+`gedcom/alfred_clarke_phase2_import_completed_v0.5.0.ged` contient **uniquement T165-T182** avec leurs résultats et statut
+`COMPLETED`. Il contient **0 INDI, 0 FAM, 0 SOUR**. C'est volontaire : le GEDCOM actuel possède déjà
+Alfred Clarke et de nombreuses sources pertinentes; ne pas les réimporter évite les doublons.
+
+`gedcom/tasks_snapshot_v0.5.0.ged` est le snapshot de versionnage de toutes les tâches et ne doit pas être
+réimporté dans la base RootsMagic actuelle.
+
+## Preuves (`evidence/`)
+
+Chaque répertoire de preuve utilise un nom précis; le PDF et le PNG portent **le même nom que le
+répertoire**. Pour les PDF multipages, les PNG sont suffixés `_p001`, `_p002`, etc.
+
+Deux niveaux de fidélité sont séparés :
+
+1. `ORIGINAL_NATIVE_PDF` - document PDF officiel téléchargé tel quel; le PNG est un rendu pixel de
+   ce PDF et conserve donc sa mise en page originale.
+2. `BROWSER_CONTENT_ARCHIVE` - archive PDF du **contenu pertinent réellement récupéré par le
+   navigateur Web**, puis PNG rendu à partir de ce PDF. Ce format ne prétend pas reproduire les
+   pixels ni la mise en page HTML originale, car l'outil de navigation ne fournit pas de capture
+   pixel-par-pixel des pages HTML.
+
+Voir `evidence/MANIFEST.md`.
+
+## Structure
 
 ```text
-genealogie-alfred-clarke-v0.4.0/
+genealogie-alfred-clarke-v0.5.0/
 ├── README.md
 ├── LICENSE
 ├── NOTICE.md
@@ -39,114 +58,41 @@ genealogie-alfred-clarke-v0.4.0/
 ├── .gitignore
 ├── .gitattributes
 ├── gedcom/
-│   ├── tasks_snapshot_v0.4.0.ged
-│   └── alfred_clarke_new_tasks_v0.4.0.ged
+│   ├── alfred_clarke_phase2_import_completed_v0.5.0.ged
+│   └── tasks_snapshot_v0.5.0.ged
 ├── docs/
-│   ├── RESEARCH_METHOD.md
-│   ├── GEDCOM_CONVENTIONS.md
-│   ├── SOURCE_POLICY.md
-│   └── TASK_WORKFLOW.md
 ├── sources/
-│   └── README.md
+│   └── SOURCES_PHASE2.md
 ├── evidence/
-│   └── README.md
+│   ├── MANIFEST.md
+│   └── 001_... / 019_...
 └── reports/
-    └── README.md
+    ├── ALFRED_CLARKE_PHASE2_RESEARCH_REPORT.md
+    └── ALFRED_CLARKE_PHASE2_SEARCH_LOG.md
 ```
 
-## Deux GEDCOM de tâches
+## Méthode
 
-### 1. `gedcom/tasks_snapshot_v0.4.0.ged`
-
-Snapshot de projet comprenant **les 118 tâches déjà présentes dans le GEDCOM actuel** plus
-**18 nouvelles tâches Alfred Clarke**, pour un total de **136 tâches**.
-
-Ce fichier sert principalement au **versionnage, à l'audit et au ROADMAP**.
-
-> **Important :** ne l'importez pas tel quel dans une base RootsMagic qui contient déjà les
-> 118 tâches existantes, car RootsMagic pourrait créer des doublons de tâches.
-
-### 2. `gedcom/alfred_clarke_new_tasks_v0.4.0.ged`
-
-Contient uniquement les **18 nouvelles tâches T148–T165**. C'est le fichier à privilégier pour
-ajouter la nouvelle phase de recherche à la base RootsMagic actuelle.
-
-## État actuel des tâches
-
-Le snapshot préserve exactement les statuts du GEDCOM actuel :
-
-- 89 tâches existantes : `NEW`;
-- 29 tâches existantes : `COMPLETED`;
-- 18 nouvelles tâches Alfred Clarke : `NEW`.
-
-Total : **136 tâches**, dont **107 NEW** et **29 COMPLETED**.
-
-## Nouvelle phase Alfred Clarke — résumé
-
-Les nouvelles recherches ciblent notamment :
-
-- le recensement britannique de 1921;
-- le `1939 Register`;
-- les listes de passagers sortants britanniques `BT27`;
-- les entrées Canada–États-Unis 1908–1935;
-- les `Form 30A` et manifest indexes;
-- les contrats de mariage et actes notariés québécois;
-- les bans, dispenses et dossiers religieux du mariage de 1923;
-- une matrice exhaustive des naissances Clark/Clarke 1892–1894 au GRO;
-- le certificat de décès du candidat Hastings de 1972;
-- les listes électorales et annuaires de Hastings;
-- les actes de Marie-Louise Tremblay et des enfants;
-- une analyse FAN des témoins, parrains, marraines et voisins;
-- les listes électorales et rôles municipaux canadiens;
-- la provenance exacte de la tradition « orphelin de Liverpool »;
-- la réouverture éventuelle du National Registration File de 1940;
-- une seconde passe ciblée dans les institutions de Liverpool;
-- les archives scolaires et Poor Law;
-- un argument de preuve final.
-
-## Principes de preuve
-
-Aucune relation de parenté ni date exacte ne doit être ajoutée simplement parce qu'elle apparaît
-dans un arbre public. Une conclusion doit reposer sur plusieurs éléments cohérents et les
-contradictions doivent être explicitement résolues.
-
-Les catégories recommandées sont :
-
-- `SOLIDE`
-- `PROBABLE`
-- `HYPOTHÈSE`
-- `CONTRADICTION`
-- `TRADITION FAMILIALE`
-- `RECHERCHE NÉGATIVE`
-
-Voir `docs/RESEARCH_METHOD.md`.
-
-## Versionnage
-
-Le projet utilise **Semantic Versioning** pour ses livrables documentaires :
-
-- `PATCH` : corrections de texte, citations ou métadonnées sans changement de conclusion;
-- `MINOR` : nouvelles tâches, nouvelles sources ou nouvelles conclusions documentées;
-- `MAJOR` : changement important de structure, convention GEDCOM ou modèle de preuve.
-
-Le `CHANGELOG.md` suit l'esprit de **Keep a Changelog**.
+Les conclusions sont classées `SOLIDE`, `PROBABLE`, `HYPOTHÈSE`, `CONTRADICTION`,
+`TRADITION FAMILIALE` ou `RECHERCHE NÉGATIVE`. Une tâche peut être `COMPLETED` même si elle est
+négative ou bloquée, dès lors que le passage prévu est documenté.
 
 ## Licence
 
-Les fichiers créés pour ce projet sont distribués sous **GNU General Public License v3.0**.
-Voir `LICENSE`.
+La structure, les fichiers GEDCOM de tâches et la documentation créés pour ce projet sont sous
+**GNU GPL v3.0**. Les documents d'archives et sources tierces conservent leurs droits propres.
 
-Les documents d'archives, images, articles, certificats et autres sources tierces conservent
-leurs propres droits et **ne sont pas automatiquement placés sous GPL**. Voir `NOTICE.md`.
+## Statut des preuves visuelles originales
 
-## Confidentialité
+La version **0.5.2** applique une distinction stricte :
 
-Les données sur les personnes vivantes doivent être minimisées ou anonymisées avant publication.
-Ne pas versionner publiquement des adresses privées, dossiers médicaux récents, données ADN brutes
-ou documents soumis à des restrictions. Voir `PRIVACY.md`.
+- **PDF natif fourni par l'organisme source** : le fichier PDF original est conservé tel quel dans `evidence/`, et les PNG portant `_ORIGINAL_pNNN.png` sont rendus directement à partir de ce PDF.
+- **Page Web HTML** : aucun PNG dérivé n'est présenté comme une « capture originale ». Le navigateur Web disponible dans cette session permet de lire le contenu HTML mais ne fournit pas de fonction de capture pixel par pixel pour les pages HTML. Le fichier `*_BROWSER_CONTENT_ARCHIVE.pdf` est explicitement classé comme dérivé.
 
-## Contribution
+Les trois PDF natifs originaux actuellement conservés sont :
 
-Les contributions documentaires sont bienvenues lorsqu'elles comportent une source vérifiable,
-une distinction claire entre transcription et interprétation, et une explication des conflits.
-Voir `CONTRIBUTING.md`.
+1. `003_TNA_1939_Register_FOI_Guide_Original`
+2. `005_TNA_BT26_Information_Original`
+3. `016_GOVUK_Discover_Family_History_Guide_Original`
+
+Cette règle évite de confondre une reconstitution ou un rendu de texte avec une preuve visuelle originale.
