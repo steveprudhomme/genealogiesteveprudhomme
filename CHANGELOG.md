@@ -1,35 +1,48 @@
-# CHANGELOG — Recherche sur Alfred Clarke
+# Changelog
 
-Toutes les modifications notables de ce jeu de travail sont consignées ici.
+Tous les changements notables de ce projet généalogique sont documentés ici.
+
+Le format suit l'esprit de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le
+versionnage suit [Semantic Versioning](https://semver.org/).
+
+## [Unreleased]
+
+### À faire
+- Exécuter progressivement la phase Alfred Clarke T148–T165.
+- Mettre à jour le GEDCOM principal uniquement lorsque les preuves justifient une modification.
+
+## [0.4.0] — 2026-08-09
+
+### Ajouté
+- Création d'une structure de projet inspirée des bonnes pratiques d'un dépôt open source,
+  adaptée à un projet de généalogie GEDCOM.
+- Ajout de `README.md`, `LICENSE`, `NOTICE.md`, `CONTRIBUTING.md`,
+  `CODE_OF_CONDUCT.md`, `PRIVACY.md`, `.gitignore`, `.gitattributes` et `VERSION`.
+- Ajout de la documentation `RESEARCH_METHOD.md`, `GEDCOM_CONVENTIONS.md`,
+  `SOURCE_POLICY.md` et `TASK_WORKFLOW.md`.
+- Ajout d'un snapshot GEDCOM contenant **les 118 tâches du GEDCOM actuel**.
+- Ajout de **18 nouvelles tâches Alfred Clarke (T148–T165)**.
+- Ajout d'un GEDCOM d'import séparé contenant uniquement les 18 nouvelles tâches.
+- Mise à jour de `ROADMAP.md` pour refléter **les 136 tâches** du snapshot.
+
+### Conservé
+- Les statuts, priorités, descriptions et notes des 118 tâches du GEDCOM actuel sont conservés.
+- Le snapshot contient 89 tâches existantes `NEW` et 29 `COMPLETED`.
+- Les nouvelles tâches T148–T165 sont `NEW`.
+
+### Sécurité contre les doublons
+- Le snapshot complet est destiné au versionnage et à l'audit.
+- Le fichier `gedcom/alfred_clarke_new_tasks_v0.4.0.ged` est fourni pour l'import des nouvelles tâches
+  sans réimporter les 118 tâches déjà présentes.
 
 ## [0.2.0] — 2026-08-09
 
-### Recherche effectuée
-- Exécution des **17 tâches** Alfred Clarke de la phase 0.1.0.
-- Passage des 17 tâches au statut **Completed**.
-- Ajout du résultat, y compris les résultats négatifs/inconclusifs, dans chaque tâche.
-- Normalisation des priorités : P1=1, P2=2, P3=3.
+### Recherche
+- Exécution d'une première phase de 17 recherches Alfred Clarke.
+- Production d'un GEDCOM différentiel, d'un rapport, d'une liste de sources et d'archives de consultation.
 
-### Données ajoutées au GEDCOM différentiel
-- Ajout d'un événement de recherche **Recensement 1931 - index secondaire** pour le ménage Alfred Clark × Mary-Louise Clark à Saint-Bernard-de-Lacolle, explicitement classé PROBABLE.
-- Ajout de notes de recherche documentant le mariage du 15 MAR 1923, l'indice du baptême de Marcel, la piste Hastings, la piste Liverpool/Home Children, les recherches négatives et la matrice de preuve finale.
-- Ajout d'un seul maître-source de synthèse afin de limiter les doublons de sources.
+## [0.1.0] — 2026-08-09
 
-### Conclusions
-- La naissance **26 FEB 1893 à Hastings** n'est pas confirmée par une source primaire.
-- Le décès **NOV 1972 à Hastings** n'est pas confirmé par une source primaire.
-- La tradition **« orphelin de Liverpool »** reste non résolue.
-- Aucun parent biologique n'est ajouté.
-- Aucun nouvel enfant n'est créé.
-- L'Alfred Clarke CEF **772761** est exclu comme homonyme.
-
-### Anti-doublons
-- Le fichier est un **GEDCOM de modifications seulement**, pas un GEDCOM maître.
-- Il contient **un seul individu : Alfred Clarke**, avec son UID existant.
-- Il ne contient **aucune famille** et ne recrée pas le mariage F131.
-- Il ne modifie pas les anciens BIRT/DEAT concurrents; leur nettoyage demeure séparé.
-
-### Fichiers compagnons
-- `ROADMAP.md` reflète exactement les 17 tâches du GEDCOM, toutes `Completed`.
-- `SOURCES_CONSULTEES.md` fournit les liens directs vers les sources et portails.
-- `RAPPORT_RECHERCHE_ALFRED_CLARKE.md` résume les résultats et la matrice de preuve.
+### Ajouté
+- Première série de 17 tâches Alfred Clarke.
+- Première convention `GEDCOM + ROADMAP.md + CHANGELOG.md`.
