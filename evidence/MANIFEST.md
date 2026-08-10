@@ -1,6 +1,6 @@
-# Manifeste des preuves — v0.5.3
+# Manifeste des preuves — v0.5.5
 
-Ce manifeste distingue les PDF natifs officiels des impressions de pages Web.
+Ce manifeste distingue les PDF natifs conservés tels qu’ils sont servis par leur éditeur, les impressions de pages Web et les notes de recherche dérivées.
 
 - `ORIGINAL_NATIVE_PDF` : fichier officiel conservé tel quel.
 - `WEB_PRINT_PDF` : impression PDF directe de la page HTML par Edge/Chrome (Chromium).
@@ -228,3 +228,74 @@ Ce manifeste distingue les PDF natifs officiels des impressions de pages Web.
 - **Archive v0.5.2 conservée temporairement :** `019_LAC_Home_Children_BROWSER_CONTENT_ARCHIVE.pdf`
 - **Génération :** `scripts/print_web_evidence.ps1`
 - **Vérification :** ouvrir le PDF et confirmer que la page attendue, et non une page de consentement/connexion/antirobot, a été imprimée.
+
+
+## 020_StAnaclet_Lignees_Lavoie_Original
+
+- **Titre :** Lignées Lavoie à St-Anaclet - un peu de généalogie et d'histoire
+- **Type :** `ORIGINAL_NATIVE_PDF`
+- **URL :** `https://stanaclet-genhis.com/wp-content/uploads/2025/09/Lavoie-a-St-Anaclet.pdf`
+- **PDF original :** `020_StAnaclet_Lignees_Lavoie_Original.pdf`
+- **Pages :** 42
+- **Page pertinente :** 37
+- **SHA-256 :** `c7b935f5e697ad2bf76e71156962e5372f22968f78917d9a20466d62949c5032`
+- **Contrôle :** `ORIGINAL_FILE_STATUS.txt`
+- **PNG rendu direct pertinent :** `020_StAnaclet_Lignees_Lavoie_Original_ORIGINAL_p037.png`
+- **Rôle T201 :** corroboration secondaire du mariage John dit Johnny Synnett / Amanda Boucher en 1887 à Rivière-Madeleine.
+
+## 021_MesAieux_Amanda_Boucher
+
+- **Type :** `WEB_PRINT_PDF_SECONDARY`
+- **URL :** `https://www.mesaieux.com/genealogie/m.-amanda_boucher`
+- **État :** `PENDING_LOCAL_GENERATION`
+- **Rôle T201 :** indexe le mariage Johnny Synnett / Amanda Boucher en 1887 à Sainte-Madeleine-de-la-Rivière-Madeleine.
+- **Note dérivée :** `RESEARCH_EXTRACT.md`
+
+## 022_NosOrigines_Amanda_Boucher
+
+- **Type :** `WEB_PRINT_PDF_SECONDARY`
+- **URL :** `https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Boucher_Amanda&pid=536987`
+- **État :** `PENDING_LOCAL_GENERATION`
+- **Rôle T201 :** date de mariage 21 Jul 1887 et parents proposés Georges Boucher / Odile Fournier.
+- **Note dérivée :** `RESEARCH_EXTRACT.md`
+
+## 023_NosOrigines_Johnny_Synnott
+
+- **Type :** `WEB_PRINT_PDF_SECONDARY`
+- **URL :** `https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Synnott_Johnny&pid=536986`
+- **État :** `PENDING_LOCAL_GENERATION`
+- **Rôle T201 :** corroboration des parents François-Xavier Synnott / Marie Gagnon déjà présents.
+- **Note dérivée :** `RESEARCH_EXTRACT.md`
+
+## 024_MesAieux_Odile_Fournier
+
+- **Type :** `WEB_PRINT_PDF_SECONDARY`
+- **URL :** `https://www.mesaieux.com/genealogie/odile_fournier`
+- **État :** `PENDING_LOCAL_GENERATION`
+- **Rôle T201 :** indexe le mariage Georges Boucher / Odile Fournier en 1865 à Sainte-Anne-des-Monts.
+- **Note dérivée :** `RESEARCH_EXTRACT.md`
+
+## 025_LameDePierre_Les_Boucher
+
+- **Type :** `WEB_PRINT_PDF_SECONDARY`
+- **URL :** `https://lamedepierre.info/les-boucher/`
+- **État :** `PENDING_LOCAL_GENERATION`
+- **Rôle T201 :** histoire locale présentant Amanda parmi les premiers enfants de Georges et Odile.
+- **Limite :** `SEARCH_INDEX_SNIPPET_ONLY` pendant cette passe.
+- **Note dérivée :** `RESEARCH_EXTRACT.md`
+
+## 026_BAnQ_Actes_Deposes_Gaspesie
+
+- **Type :** `WEB_PRINT_PDF`
+- **URL :** `https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=ACTES_DEPOSE_GASPE`
+- **État :** `PENDING_LOCAL_GENERATION`
+- **Rôle T201 :** collection archivistique officielle de contexte; aucun résultat nominatif T201 obtenu dans cette passe.
+- **Note dérivée :** `RESEARCH_EXTRACT.md`
+
+## 027_Geneanet_Marcel_Fournier_Amanda
+
+- **Type :** `WEB_PRINT_PDF_SECONDARY`
+- **URL :** `https://gw.geneanet.org/marcelf?lang=en&m=P&v=amanda`
+- **État :** `PENDING_LOCAL_GENERATION`
+- **Rôle T201 :** corroboration secondaire Amanda fille de Georges Boucher / Odile Fournier et mariage avec Johnny Synnott en 1887.
+- **Note dérivée :** `RESEARCH_EXTRACT.md`

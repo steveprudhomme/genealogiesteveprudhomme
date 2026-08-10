@@ -1,0 +1,6 @@
+Title: Geneanet - arbre de Marcel Fournier, Amanda
+Type: WEB_PRINT_PDF_SECONDARY
+URL: https://gw.geneanet.org/marcelf?lang=en&m=P&v=amanda
+Accessed: 2026-08-10
+Target PDF: 027_Geneanet_Marcel_Fournier_Amanda_WEB_PRINT.pdf
+Role: Recherche T201 - Synnett, John / Boucher, Marie Amanda.

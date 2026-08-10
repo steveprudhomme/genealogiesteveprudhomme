@@ -4,6 +4,31 @@ Tous les changements notables du projet sont documentés ici.
 
 ## [Unreleased]
 
+## [0.5.5] — 2026-08-10
+
+### T201 - Synnett / Boucher
+- Exécution et documentation de T201 à partir du GEDCOM courant fourni, avec contrôle anti-homonymes avant intégration.
+- Mariage John/Johnny Synnett - Amanda Boucher en 1887 à Sainte-Madeleine-de-la-Rivière-Madeleine corroboré par plusieurs sources secondaires; NosOrigines donne 21 Jul 1887, mais l'acte original n'a pas été obtenu.
+- Parents de John (François-Xavier Synnott et Marie Gagnon) corroborés et déjà présents : aucune nouvelle fiche John créée.
+- Georges Boucher et Odile Fournier retenus comme parents **probables** d'Amanda par convergence de NosOrigines, Geneanet et histoire locale; leur mariage de 1865 à Sainte-Anne-des-Monts est indexé par MesAieux.
+- Aucun changement aux dates de naissance existantes de John/Amanda en raison de contradictions secondaires et de l'absence des baptêmes originaux.
+
+### GEDCOM
+- Ajout de `gedcom/t201_research_import_v0.5.5.ged` : delta anti-doublon avec **2 INDI, 1 FAM, 4 SOUR et 1 TASK (T219)**.
+- Aucun John/Johnny Synnett ni Amanda Boucher réimporté; aucun lien enfant vers Amanda n'est créé tant que la fiche canonique et la preuve primaire ne sont pas résolues.
+- T201 passe à `COMPLETED` dans `tasks_snapshot_v0.5.5.ged`; T219 conserve la recherche des images originales.
+- Snapshot courant : **155 tâches = 90 NEW + 65 COMPLETED**.
+
+### Preuves et références
+- Ajout des preuves **020-027** pour T201.
+- Ajout d'un PDF natif `020_StAnaclet_Lignees_Lavoie_Original.pdf`, SHA-256 `c7b935f5e697ad2bf76e71156962e5372f22968f78917d9a20466d62949c5032`, et rendu direct vérifié de la page 37.
+- Ajout de 7 sources Web T201 avec `WEB_PRINT_STATUS.txt` et notes `RESEARCH_EXTRACT.md`; impression navigateur réelle à effectuer localement.
+- Ajout de `sources/SOURCES_T201.md`, `reports/T201_SYNNETT_BOUCHER_RESEARCH_REPORT.md` et `reports/T201_SYNNETT_BOUCHER_SEARCH_LOG.md`.
+
+### Documentation
+- Mise à jour de `README.md`, `ROADMAP.md`, `docs/TASK_WORKFLOW.md`, `docs/SOURCE_POLICY.md`, `evidence/README.md`, `evidence/MANIFEST.md`, `reports/README.md`, `sources/README.md`, `scripts/README.md` et `VERSION`.
+
+
 ## [0.5.4] — 2026-08-10
 
 ### Tâches de recherche

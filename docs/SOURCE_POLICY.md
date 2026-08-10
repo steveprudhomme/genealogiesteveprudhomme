@@ -52,3 +52,15 @@ Règles :
 - Les pages secondaires ou collaboratives, notamment Geneanet, gardent leur statut secondaire même
   lorsqu'une impression PDF existe.
 - Les anciens `BROWSER_CONTENT_ARCHIVE` ne constituent plus le format de preuve Web cible à partir de 0.5.3.
+
+
+## Notes de recherche dérivées
+
+Les fichiers `RESEARCH_EXTRACT.md` du dossier `evidence/` sont des résumés de travail générés pendant la recherche. Ils servent à conserver localement le résultat observé et ses limites, mais **ne remplacent jamais** :
+
+- un PDF natif original;
+- une image de registre;
+- une impression `WEB_PRINT_PDF` vérifiée visuellement;
+- une citation bibliographique complète.
+
+La mention `SEARCH_INDEX_SNIPPET_ONLY` indique qu'une page n'a pas pu être récupérée correctement et que seule une brève information indexée a été utilisée comme piste secondaire. Aucune conclusion certaine ne doit reposer seule sur ce type d'extrait.

@@ -1,0 +1,12 @@
+State: COMPLETE
+Method: DIRECT_DOWNLOAD_FROM_PUBLISHER_URL
+URL: https://stanaclet-genhis.com/wp-content/uploads/2025/09/Lavoie-a-St-Anaclet.pdf
+PDF: 020_StAnaclet_Lignees_Lavoie_Original.pdf
+Downloaded: 2026-08-10
+SizeBytes: 1770290
+Pages: 42
+SHA256: c7b935f5e697ad2bf76e71156962e5372f22968f78917d9a20466d62949c5032
+RelevantPage: 37
+VisualVerification: COMPLETE
+RenderedEvidence: 020_StAnaclet_Lignees_Lavoie_Original_ORIGINAL_p037.png
+Note: Le PDF a été conservé tel qu'il était servi par le site éditeur. Le PNG de la page 37 est un rendu direct du PDF, vérifié visuellement. Cette publication est une source compilée secondaire, non l'acte paroissial original de 1887.

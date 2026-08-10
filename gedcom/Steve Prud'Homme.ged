@@ -1673,20 +1673,6 @@
 2 DATE 21 SEPTEMBRE 1968
 2 PLAC Montréal, , Quebec, Canada
 1 FAMC @F11@
-0 @I92@ INDI
-1 NAME Marie Amanda /Boucher/
-2 GIVN Marie Amanda
-2 SURN Boucher
-1 SEX F
-1 _UID 7A102601E30643559721C3E850593345B6E1
-1 _AMTID 172358603532:1030:180308467
-1 CHAN
-2 DATE 3 MAR 2022
-1 BIRT
-2 DATE 24 MAI 1866
-2 PLAC Ste Anne Des Monts, Denis, Quebec, Canada
-1 DEAT Y
-1 FAMS @F12@
 0 @I93@ INDI
 1 NAME Lucien /Gagnon/
 2 GIVN Lucien
@@ -7666,25 +7652,6 @@
 2 _PRIM Y
 1 FAMS @F61@
 1 FAMC @F63@
-0 @I273@ INDI
-1 NAME John /Synett/
-2 GIVN John
-2 SURN Synett
-1 NAME John /Synnett/
-2 GIVN John
-2 SURN Synnett
-1 SEX M
-1 _UID A5DD3EE96B8143BF8D6F15E97BD746689141
-1 _AMTID 172352463461:1030:180308467
-1 CHAN
-2 DATE 3 MAR 2022
-1 BIRT
-2 DATE 12 NOV 1866
-2 PLAC Gaspé, Quebec, Canada
-1 DEAT Y
-1 FAMS @F12@
-1 FAMS @F62@
-1 FAMC @F11@
 0 @I274@ INDI
 1 NAME Boucher /Marie-Amanda/
 2 GIVN Boucher
@@ -7695,6 +7662,73 @@
 1 CHAN
 2 DATE 3 MAR 2022
 1 DEAT Y
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\026_BAnQ_Actes_Deposes_Gaspesie\026_BAnQ_Actes_Deposes_Gaspesie_URL.txt
+2 FORM txt
+2 NOTE # Extrait de recherche - preuve 026
+3 CONT **Titre :** BAnQ - Actes déposés de la Gaspésie : 1814-1929
+3 CONT **Consulté :** 10 Aug 2026
+3 CONT **Mode :** `WEB_RESEARCH_EXTRACT`
+3 CONT **Nature :** note de recherche dérivée; ce fichier Markdown n'est ni un
+3 CONC e capture du site, ni un acte original.
+3 CONT ## Observation pertinente
+3 CONT La base officielle de BAnQ couvre des actes déposés de la Gaspésie de 1
+3 CONC 814 à 1929 et peut contenir contrats de mariage, ventes, testaments et d
+3 CONC onations, avec noms, résidences, cotes et parfois liens de parenté/occu
+3 CONC pations. Aucun résultat spécifique John Synnett/Amanda Boucher n'a été o
+3 CONC btenu par les accès Web disponibles durant cette passe; cette preuve do
+3 CONC cumente donc la collection ciblée et la recherche négative/incomplète, n
+3 CONC on le mariage paroissial.
+3 CONT ## Limite
+3 CONT Source archivistique officielle de contexte; pas de résultat nominatif T
+3 CONC 201 obtenu.
+3 CONT
+3 CONT State: PENDING_LOCAL_GENERATION
+3 CONT Method: BROWSER_PRINT_TO_PDF
+3 CONT URL: https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/res
+3 CONC sources/bd/recherche.html?id=ACTES_DEPOSE_GASPE
+3 CONT PDF: 026_BAnQ_Actes_Deposes_Gaspesie_WEB_PRINT.pdf
+3 CONT Browser: Microsoft Edge ou Google Chrome requis
+3 CONT Generated: not-yet-generated
+3 CONT Note: L'environnement de création du paquet ne permet pas une impressio
+3 CONC n navigateur fiable de cette page en direct. Exécuter scripts/print_web
+3 CONC _evidence.ps1 localement puis vérifier visuellement le PDF. Le fichier R
+3 CONC ESEARCH_EXTRACT.md est une note dérivée et ne remplace pas l'impression d
+3 CONC u site ni un document original.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\027_Geneanet_Marcel_Fournier_Amanda\027_Geneanet_Marcel_Fournier_Amanda_URL.txt
+2 FORM txt
+2 NOTE # Extrait de recherche - preuve 027
+3 CONT **Titre :** Geneanet - arbre de Marcel Fournier, Amanda
+3 CONT **Consulté :** 10 Aug 2026
+3 CONT **Mode :** `WEB_RESEARCH_EXTRACT`
+3 CONT **Nature :** note de recherche dérivée; ce fichier Markdown n'est ni un
+3 CONC e capture du site, ni un acte original.
+3 CONT ## Observation pertinente
+3 CONT L'arbre de Marcel Fournier présente une Amanda Boucher née en 1866, fil
+3 CONC le de Georges Boucher et d'Odile Fournier, mariée à Johnny Synnott en 1
+3 CONC 887. Cette concordance soutient la filiation proposée mais demeure un a
+3 CONC rbre public secondaire.
+3 CONT ## Limite
+3 CONT Arbre collaboratif secondaire; corroboration seulement.
+3 CONT
+3 CONT State: PENDING_LOCAL_GENERATION
+3 CONT Method: BROWSER_PRINT_TO_PDF
+3 CONT URL: https://gw.geneanet.org/marcelf?lang=en&m=P&v=amanda
+3 CONT PDF: 027_Geneanet_Marcel_Fournier_Amanda_WEB_PRINT.pdf
+3 CONT Browser: Microsoft Edge ou Google Chrome requis
+3 CONT Generated: not-yet-generated
+3 CONT Note: L'environnement de création du paquet ne permet pas une impressio
+3 CONC n navigateur fiable de cette page en direct. Exécuter scripts/print_web
+3 CONC _evidence.ps1 localement puis vérifier visuellement le PDF. Le fichier R
+3 CONC ESEARCH_EXTRACT.md est une note dérivée et ne remplace pas l'impression d
+3 CONC u site ni un document original.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
 1 FAMS @F62@
 0 @I275@ INDI
 1 NAME Edouard /Rolland/
@@ -7968,6 +8002,9 @@
 1 NAME John /Synnett/
 2 GIVN John
 2 SURN Synnett
+1 NAME John /Synett/
+2 GIVN John
+2 SURN Synett
 1 SEX M
 1 _UID A98EEBB9AB88479EA7488EA4E558FF89D92C
 1 _AMTID 172352470640:1030:180308467
@@ -7975,9 +8012,184 @@
 2 DATE 3 MAR 2022
 1 BIRT
 2 DATE 12 NOV 1866
+2 PLAC Gaspé, Quebec, Canada
+1 BIRT
+2 DATE 12 NOV 1866
 2 PLAC Mont Louis, St Maxime, Gaspé (Haute Gaspésie), Québec, Canada
 1 DEAT Y
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\020_StAnaclet_Lignees_Lavoie_Original\020_StAnaclet_Lignees_Lavoie_Original.pdf
+2 FORM pdf
+2 NOTE State: COMPLETE
+3 CONT Method: DIRECT_DOWNLOAD_FROM_PUBLISHER_URL
+3 CONT URL: https://stanaclet-genhis.com/wp-content/uploads/2025/09/Lavoie-a-S
+3 CONC t-Anaclet.pdf
+3 CONT PDF: 020_StAnaclet_Lignees_Lavoie_Original.pdf
+3 CONT Downloaded: 2026-08-10
+3 CONT SizeBytes: 1770290
+3 CONT Pages: 42
+3 CONT SHA256: c7b935f5e697ad2bf76e71156962e5372f22968f78917d9a20466d62949c503
+3 CONC 2
+3 CONT RelevantPage: 37
+3 CONT VisualVerification: COMPLETE
+3 CONT RenderedEvidence: 020_StAnaclet_Lignees_Lavoie_Original_ORIGINAL_p037.p
+3 CONC ng
+3 CONT Note: Le PDF a été conservé tel qu'il était servi par le site éditeur. L
+3 CONC e PNG de la page 37 est un rendu direct du PDF, vérifié visuellement. C
+3 CONC ette publication est une source compilée secondaire, non l'acte paroiss
+3 CONC ial original de 1887.
+3 CONT
+3 CONT # Extrait de recherche - preuve 020
+3 CONT **Nature :** note de recherche dérivée du PDF natif; ce fichier Markdow
+3 CONC n n'est pas une preuve originale.
+3 CONT La page 37 indique que **John dit Johnny Synnett** est issu d'une ligné
+3 CONC e gaspésienne et qu'il a épousé **Amanda Boucher en 1887 à Rivière-Made
+3 CONC leine**.
+3 CONT Cette publication confirme donc indépendamment le couple et l'année/lie
+3 CONC u général du mariage, mais elle ne fournit ni la date exacte du mariage
+3 CONC , ni les parents d'Amanda, ni l'image de l'acte paroissial.
+3 CONT **Classement :** source compilée secondaire; corroboration seulement.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\020_StAnaclet_Lignees_Lavoie_Original\020_StAnaclet_Lignees_Lavoie_Original_ORIGINAL_p037.png
+2 FORM png
+2 NOTE State: COMPLETE
+3 CONT Method: DIRECT_DOWNLOAD_FROM_PUBLISHER_URL
+3 CONT URL: https://stanaclet-genhis.com/wp-content/uploads/2025/09/Lavoie-a-S
+3 CONC t-Anaclet.pdf
+3 CONT PDF: 020_StAnaclet_Lignees_Lavoie_Original.pdf
+3 CONT Downloaded: 2026-08-10
+3 CONT SizeBytes: 1770290
+3 CONT Pages: 42
+3 CONT SHA256: c7b935f5e697ad2bf76e71156962e5372f22968f78917d9a20466d62949c503
+3 CONC 2
+3 CONT RelevantPage: 37
+3 CONT VisualVerification: COMPLETE
+3 CONT RenderedEvidence: 020_StAnaclet_Lignees_Lavoie_Original_ORIGINAL_p037.p
+3 CONC ng
+3 CONT Note: Le PDF a été conservé tel qu'il était servi par le site éditeur. L
+3 CONC e PNG de la page 37 est un rendu direct du PDF, vérifié visuellement. C
+3 CONC ette publication est une source compilée secondaire, non l'acte paroiss
+3 CONC ial original de 1887.
+3 CONT
+3 CONT # Extrait de recherche - preuve 020
+3 CONT **Nature :** note de recherche dérivée du PDF natif; ce fichier Markdow
+3 CONC n n'est pas une preuve originale.
+3 CONT La page 37 indique que **John dit Johnny Synnett** est issu d'une ligné
+3 CONC e gaspésienne et qu'il a épousé **Amanda Boucher en 1887 à Rivière-Made
+3 CONC leine**.
+3 CONT Cette publication confirme donc indépendamment le couple et l'année/lie
+3 CONC u général du mariage, mais elle ne fournit ni la date exacte du mariage
+3 CONC , ni les parents d'Amanda, ni l'image de l'acte paroissial.
+3 CONT **Classement :** source compilée secondaire; corroboration seulement.
+2 _TYPE PHOTO
+2 _SCBK Y
+2 _PRIM N
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\023_NosOrigines_Johnny_Synnott\023_NosOrigines_Johnny_Synnott_URL.txt
+2 FORM txt
+2 NOTE # Extrait de recherche - preuve 023
+3 CONT **Titre :** NosOrigines - Johnny Synnott
+3 CONT **Consulté :** 10 Aug 2026
+3 CONT **Mode :** `WEB_RESEARCH_EXTRACT`
+3 CONT **Nature :** note de recherche dérivée; ce fichier Markdown n'est ni un
+3 CONC e capture du site, ni un acte original.
+3 CONT ## Observation pertinente
+3 CONT La fiche Johnny Synnott identifie François-Xavier Synnott et Marie Gagn
+3 CONC on comme parents et donne une naissance le 12 novembre 1866. Ces parent
+3 CONC s et cette date sont déjà présents dans le GEDCOM fourni; aucune nouvel
+3 CONC le fiche John n'est créée.
+3 CONT ## Limite
+3 CONT Base collaborative/compilée; corroboration de données déjà présentes se
+3 CONC ulement.
+3 CONT
+3 CONT State: PENDING_LOCAL_GENERATION
+3 CONT Method: BROWSER_PRINT_TO_PDF
+3 CONT URL: https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Syn
+3 CONC nott_Johnny&pid=536986
+3 CONT PDF: 023_NosOrigines_Johnny_Synnott_WEB_PRINT.pdf
+3 CONT Browser: Microsoft Edge ou Google Chrome requis
+3 CONT Generated: not-yet-generated
+3 CONT Note: L'environnement de création du paquet ne permet pas une impressio
+3 CONC n navigateur fiable de cette page en direct. Exécuter scripts/print_web
+3 CONC _evidence.ps1 localement puis vérifier visuellement le PDF. Le fichier R
+3 CONC ESEARCH_EXTRACT.md est une note dérivée et ne remplace pas l'impression d
+3 CONC u site ni un document original.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\026_BAnQ_Actes_Deposes_Gaspesie\026_BAnQ_Actes_Deposes_Gaspesie_URL.txt
+2 FORM txt
+2 NOTE # Extrait de recherche - preuve 026
+3 CONT **Titre :** BAnQ - Actes déposés de la Gaspésie : 1814-1929
+3 CONT **Consulté :** 10 Aug 2026
+3 CONT **Mode :** `WEB_RESEARCH_EXTRACT`
+3 CONT **Nature :** note de recherche dérivée; ce fichier Markdown n'est ni un
+3 CONC e capture du site, ni un acte original.
+3 CONT ## Observation pertinente
+3 CONT La base officielle de BAnQ couvre des actes déposés de la Gaspésie de 1
+3 CONC 814 à 1929 et peut contenir contrats de mariage, ventes, testaments et d
+3 CONC onations, avec noms, résidences, cotes et parfois liens de parenté/occu
+3 CONC pations. Aucun résultat spécifique John Synnett/Amanda Boucher n'a été o
+3 CONC btenu par les accès Web disponibles durant cette passe; cette preuve do
+3 CONC cumente donc la collection ciblée et la recherche négative/incomplète, n
+3 CONC on le mariage paroissial.
+3 CONT ## Limite
+3 CONT Source archivistique officielle de contexte; pas de résultat nominatif T
+3 CONC 201 obtenu.
+3 CONT
+3 CONT State: PENDING_LOCAL_GENERATION
+3 CONT Method: BROWSER_PRINT_TO_PDF
+3 CONT URL: https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/res
+3 CONC sources/bd/recherche.html?id=ACTES_DEPOSE_GASPE
+3 CONT PDF: 026_BAnQ_Actes_Deposes_Gaspesie_WEB_PRINT.pdf
+3 CONT Browser: Microsoft Edge ou Google Chrome requis
+3 CONT Generated: not-yet-generated
+3 CONT Note: L'environnement de création du paquet ne permet pas une impressio
+3 CONC n navigateur fiable de cette page en direct. Exécuter scripts/print_web
+3 CONC _evidence.ps1 localement puis vérifier visuellement le PDF. Le fichier R
+3 CONC ESEARCH_EXTRACT.md est une note dérivée et ne remplace pas l'impression d
+3 CONC u site ni un document original.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\027_Geneanet_Marcel_Fournier_Amanda\027_Geneanet_Marcel_Fournier_Amanda_URL.txt
+2 FORM txt
+2 NOTE # Extrait de recherche - preuve 027
+3 CONT **Titre :** Geneanet - arbre de Marcel Fournier, Amanda
+3 CONT **Consulté :** 10 Aug 2026
+3 CONT **Mode :** `WEB_RESEARCH_EXTRACT`
+3 CONT **Nature :** note de recherche dérivée; ce fichier Markdown n'est ni un
+3 CONC e capture du site, ni un acte original.
+3 CONT ## Observation pertinente
+3 CONT L'arbre de Marcel Fournier présente une Amanda Boucher née en 1866, fil
+3 CONC le de Georges Boucher et d'Odile Fournier, mariée à Johnny Synnott en 1
+3 CONC 887. Cette concordance soutient la filiation proposée mais demeure un a
+3 CONC rbre public secondaire.
+3 CONT ## Limite
+3 CONT Arbre collaboratif secondaire; corroboration seulement.
+3 CONT
+3 CONT State: PENDING_LOCAL_GENERATION
+3 CONT Method: BROWSER_PRINT_TO_PDF
+3 CONT URL: https://gw.geneanet.org/marcelf?lang=en&m=P&v=amanda
+3 CONT PDF: 027_Geneanet_Marcel_Fournier_Amanda_WEB_PRINT.pdf
+3 CONT Browser: Microsoft Edge ou Google Chrome requis
+3 CONT Generated: not-yet-generated
+3 CONT Note: L'environnement de création du paquet ne permet pas une impressio
+3 CONC n navigateur fiable de cette page en direct. Exécuter scripts/print_web
+3 CONC _evidence.ps1 localement puis vérifier visuellement le PDF. Le fichier R
+3 CONC ESEARCH_EXTRACT.md est une note dérivée et ne remplace pas l'impression d
+3 CONC u site ni un document original.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
+1 FAMS @F62@
 1 FAMS @F71@
+1 FAMC @F11@
 0 @I287@ INDI
 1 NAME Marie Amanda /Boucher/
 2 GIVN Marie Amanda
@@ -7990,9 +8202,149 @@
 1 BIRT
 2 DATE 24 MAY 1866
 2 PLAC Ste-Anne-des-Monts, Québec, Canada
+1 BIRT
+2 DATE 24 MAI 1866
+2 PLAC Ste Anne Des Monts, Denis, Quebec, Canada
 1 DEAT
 2 DATE 5 FÉV 1942
 2 PLAC Montréal, Communauté-Urbaine-de-Montréal, Québec, Canada
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\020_StAnaclet_Lignees_Lavoie_Original\020_StAnaclet_Lignees_Lavoie_Original.pdf
+2 FORM pdf
+2 NOTE State: COMPLETE
+3 CONT Method: DIRECT_DOWNLOAD_FROM_PUBLISHER_URL
+3 CONT URL: https://stanaclet-genhis.com/wp-content/uploads/2025/09/Lavoie-a-S
+3 CONC t-Anaclet.pdf
+3 CONT PDF: 020_StAnaclet_Lignees_Lavoie_Original.pdf
+3 CONT Downloaded: 2026-08-10
+3 CONT SizeBytes: 1770290
+3 CONT Pages: 42
+3 CONT SHA256: c7b935f5e697ad2bf76e71156962e5372f22968f78917d9a20466d62949c503
+3 CONC 2
+3 CONT RelevantPage: 37
+3 CONT VisualVerification: COMPLETE
+3 CONT RenderedEvidence: 020_StAnaclet_Lignees_Lavoie_Original_ORIGINAL_p037.p
+3 CONC ng
+3 CONT Note: Le PDF a été conservé tel qu'il était servi par le site éditeur. L
+3 CONC e PNG de la page 37 est un rendu direct du PDF, vérifié visuellement. C
+3 CONC ette publication est une source compilée secondaire, non l'acte paroiss
+3 CONC ial original de 1887.
+3 CONT
+3 CONT # Extrait de recherche - preuve 020
+3 CONT **Nature :** note de recherche dérivée du PDF natif; ce fichier Markdow
+3 CONC n n'est pas une preuve originale.
+3 CONT La page 37 indique que **John dit Johnny Synnett** est issu d'une ligné
+3 CONC e gaspésienne et qu'il a épousé **Amanda Boucher en 1887 à Rivière-Made
+3 CONC leine**.
+3 CONT Cette publication confirme donc indépendamment le couple et l'année/lie
+3 CONC u général du mariage, mais elle ne fournit ni la date exacte du mariage
+3 CONC , ni les parents d'Amanda, ni l'image de l'acte paroissial.
+3 CONT **Classement :** source compilée secondaire; corroboration seulement.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\020_StAnaclet_Lignees_Lavoie_Original\020_StAnaclet_Lignees_Lavoie_Original_ORIGINAL_p037.png
+2 FORM png
+2 NOTE State: COMPLETE
+3 CONT Method: DIRECT_DOWNLOAD_FROM_PUBLISHER_URL
+3 CONT URL: https://stanaclet-genhis.com/wp-content/uploads/2025/09/Lavoie-a-S
+3 CONC t-Anaclet.pdf
+3 CONT PDF: 020_StAnaclet_Lignees_Lavoie_Original.pdf
+3 CONT Downloaded: 2026-08-10
+3 CONT SizeBytes: 1770290
+3 CONT Pages: 42
+3 CONT SHA256: c7b935f5e697ad2bf76e71156962e5372f22968f78917d9a20466d62949c503
+3 CONC 2
+3 CONT RelevantPage: 37
+3 CONT VisualVerification: COMPLETE
+3 CONT RenderedEvidence: 020_StAnaclet_Lignees_Lavoie_Original_ORIGINAL_p037.p
+3 CONC ng
+3 CONT Note: Le PDF a été conservé tel qu'il était servi par le site éditeur. L
+3 CONC e PNG de la page 37 est un rendu direct du PDF, vérifié visuellement. C
+3 CONC ette publication est une source compilée secondaire, non l'acte paroiss
+3 CONC ial original de 1887.
+3 CONT
+3 CONT # Extrait de recherche - preuve 020
+3 CONT **Nature :** note de recherche dérivée du PDF natif; ce fichier Markdow
+3 CONC n n'est pas une preuve originale.
+3 CONT La page 37 indique que **John dit Johnny Synnett** est issu d'une ligné
+3 CONC e gaspésienne et qu'il a épousé **Amanda Boucher en 1887 à Rivière-Made
+3 CONC leine**.
+3 CONT Cette publication confirme donc indépendamment le couple et l'année/lie
+3 CONC u général du mariage, mais elle ne fournit ni la date exacte du mariage
+3 CONC , ni les parents d'Amanda, ni l'image de l'acte paroissial.
+3 CONT **Classement :** source compilée secondaire; corroboration seulement.
+2 _TYPE PHOTO
+2 _SCBK Y
+2 _PRIM N
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\021_MesAieux_Amanda_Boucher\021_MesAieux_Amanda_Boucher_URL.txt
+2 FORM txt
+2 NOTE # Extrait de recherche - preuve 021
+3 CONT **Titre :** M.-Amanda Boucher - résultats généalogiques
+3 CONT **Consulté :** 10 Aug 2026
+3 CONT **Mode :** `WEB_RESEARCH_EXTRACT`
+3 CONT **Nature :** note de recherche dérivée; ce fichier Markdown n'est ni un
+3 CONC e capture du site, ni un acte original.
+3 CONT ## Observation pertinente
+3 CONT Le résultat pertinent indexe un mariage en 1887 entre Johnny Synnett et A
+3 CONC manda Boucher à Sainte-Madeleine-de-la-Rivière-Madeleine, Québec, dans l
+3 CONC a catégorie des actes d'état civil. La même page comporte de nombreux h
+3 CONC omonymes Amanda Boucher : l'identification doit donc rester rattachée a
+3 CONC u conjoint et au lieu.
+3 CONT ## Limite
+3 CONT Index/transcription secondaire; l’image de l’acte original n’a pas été o
+3 CONC btenue.
+3 CONT
+3 CONT State: PENDING_LOCAL_GENERATION
+3 CONT Method: BROWSER_PRINT_TO_PDF
+3 CONT URL: https://www.mesaieux.com/genealogie/m.-amanda_boucher
+3 CONT PDF: 021_MesAieux_Amanda_Boucher_WEB_PRINT.pdf
+3 CONT Browser: Microsoft Edge ou Google Chrome requis
+3 CONT Generated: not-yet-generated
+3 CONT Note: L'environnement de création du paquet ne permet pas une impressio
+3 CONC n navigateur fiable de cette page en direct. Exécuter scripts/print_web
+3 CONC _evidence.ps1 localement puis vérifier visuellement le PDF. Le fichier R
+3 CONC ESEARCH_EXTRACT.md est une note dérivée et ne remplace pas l'impression d
+3 CONC u site ni un document original.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
+1 OBJE
+2 FILE C:\Users\steve\Downloads\genealogiesteveprudhomme\evidence\022_NosOrigines_Amanda_Boucher\022_NosOrigines_Amanda_Boucher_URL.txt
+2 FORM txt
+2 NOTE # Extrait de recherche - preuve 022
+3 CONT **Titre :** NosOrigines - Amanda Boucher
+3 CONT **Consulté :** 10 Aug 2026
+3 CONT **Mode :** `WEB_RESEARCH_EXTRACT`
+3 CONT **Nature :** note de recherche dérivée; ce fichier Markdown n'est ni un
+3 CONC e capture du site, ni un acte original.
+3 CONT ## Observation pertinente
+3 CONT La fiche donne le mariage d'Amanda Boucher avec Johnny Synnott/Synnett l
+3 CONC e 21 juillet 1887 à Sainte-Madeleine-de-la-Rivière-Madeleine. Elle iden
+3 CONC tifie Georges Boucher comme père et Odile Fournier comme mère. Elle men
+3 CONC tionne également que l'index consolidé des décès du Québec donne le 24 m
+3 CONC ai 1866 comme date de naissance d'Amanda.
+3 CONT ## Limite
+3 CONT Base collaborative/compilée; les assertions doivent être confirmées par l
+3 CONC ’acte original.
+3 CONT
+3 CONT State: PENDING_LOCAL_GENERATION
+3 CONT Method: BROWSER_PRINT_TO_PDF
+3 CONT URL: https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Bou
+3 CONC cher_Amanda&pid=536987
+3 CONT PDF: 022_NosOrigines_Amanda_Boucher_WEB_PRINT.pdf
+3 CONT Browser: Microsoft Edge ou Google Chrome requis
+3 CONT Generated: not-yet-generated
+3 CONT Note: L'environnement de création du paquet ne permet pas une impressio
+3 CONC n navigateur fiable de cette page en direct. Exécuter scripts/print_web
+3 CONC _evidence.ps1 localement puis vérifier visuellement le PDF. Le fichier R
+3 CONC ESEARCH_EXTRACT.md est une note dérivée et ne remplace pas l'impression d
+3 CONC u site ni un document original.
+2 _TYPE DOCUMENT
+2 _SCBK Y
+2 _PRIM N
 1 FAMS @F71@
 0 @I288@ INDI
 1 NAME Francois-Xavier /Synnett/
@@ -20257,6 +20609,20 @@
 2 DATE 1972
 1 BIRT
 1 FAMS @F131@
+0 @I472@ INDI
+1 NAME Living
+1 SEX M
+1 _UID BAD8E7B2C0CC4534B5B647EA2AD030FFF593
+1 CHAN
+2 DATE 10 AUG 2026
+1 FAMS @F132@
+0 @I473@ INDI
+1 NAME Living
+1 SEX F
+1 _UID 8224511889D54EB09774DD24AAFD35F74A77
+1 CHAN
+2 DATE 10 AUG 2026
+1 FAMS @F132@
 0 @F1@ FAM
 1 HUSB @I3@
 1 WIFE @I4@
@@ -20396,7 +20762,7 @@
 0 @F11@ FAM
 1 HUSB @I86@
 1 WIFE @I87@
-1 CHIL @I273@
+1 CHIL @I286@
 1 CHIL @I88@
 1 CHIL @I89@
 1 CHIL @I103@
@@ -20413,12 +20779,6 @@
 1 MARR
 2 DATE 1 AOÛT 1865
 2 PLAC Rivière-Au-Renard, Québec
-0 @F12@ FAM
-1 HUSB @I273@
-1 WIFE @I92@
-1 MARR
-2 DATE 21 JUIL 1887
-2 PLAC Rivière-la-Madeleine, Québec
 0 @F13@ FAM
 1 HUSB @I93@
 1 WIFE @I94@
@@ -20880,7 +21240,7 @@
 1 MARR
 2 PLAC Montréal (Ste-Clotilde), Québec
 0 @F62@ FAM
-1 HUSB @I273@
+1 HUSB @I286@
 1 WIFE @I274@
 1 CHIL @I468@
 1 MARR
@@ -21673,6 +22033,12 @@
 2 DATE 1923
 2 PLAC Ste-Clotilde-de-Chateauguay, Quebec, Canada
 1 MARR
+0 @F132@ FAM
+1 HUSB @I472@
+1 WIFE @I473@
+1 MARR
+2 DATE 1865
+2 PLAC Sainte-Anne-des-Monts, Québec, Canada
 0 @T1@ _TASK
 1 DESC Trouver la tombe
 1 TYPE 0
@@ -24000,7 +24366,7 @@
 2 CONC ant, plusieurs fiches homonymes existent pour John Synnett et Marie Ama
 2 CONC nda Boucher : ne créer ni fusion ni nouveau lien avant comparaison des a
 2 CONC ctes.
-1 STAT NEW
+1 STAT COMPLETED
 1 PRTY 1
 0 @T220@ _TASK
 1 DESC T202 - Labelle, Antoine / Ravary, Blanche - Obtenir et transcrire l'acte original du mariage du 6 Oct 1910 à Saint-Charles-de-Montréal
@@ -24175,6 +24541,19 @@
 2 CONC es par accessibilité des registres et qualité attendue de la preuve.
 1 STAT NEW
 1 PRTY 3
+0 @T237@ _TASK
+1 DESC T219 - Synnett, John / Boucher, Marie Amanda - Obtenir les images originales du mariage de 1887 et des baptêmes afin de
+1 TYPE 0
+1 NOTE Suite primaire de T201. Obtenir l'image de l'acte de mariage de John/Jo
+2 CONC hnny Synnett et Amanda Boucher du 21 Jul 1887 à Sainte-Madeleine-de-la-
+2 CONC Rivière-Madeleine, puis les baptêmes de John autour du 12 Nov 1866 et d
+2 CONC 'Amanda autour de 1866. Relever parents, résidences, professions, témoi
+2 CONC ns, parrains/marraines et résoudre les dates de naissance contradictoir
+2 CONC es. Après confirmation, identifier la fiche Amanda canonique parmi les d
+2 CONC oublons et la relier manuellement à Georges Boucher et Odile Fournier, s
+2 CONC ans créer de nouveau doublon.
+1 STAT NEW
+1 PRTY 1
 0 @S1@ SOUR
 1 ABBR Canada, Newspapers.com Obituary Index, 1800s-current
 1 TITL Ancestry.com, <i>Canada, Newspapers.com Obituary Index, 1800s-current</
@@ -26801,6 +27180,119 @@
 2 FIELD
 3 NAME Bibliography
 3 VALUE GEDCOM file, ChatGPT.
+0 @S110@ SOUR
+1 ABBR NosOrigines - Amanda Boucher
+1 TITL NosOrigines.qc.ca / contributeur membre 74410, Généalogie Amanda Bouche
+2 CONC r (Consulté le 10 Aug 2026. https://www.nosorigines.qc.ca/GenealogieQue
+2 CONC bec.aspx?genealogie=Boucher_Amanda&pid=536987)
+1 _SUBQ NosOrigines.qc.ca / contributeur membre 74410, Généalogie Amanda Bouche
+2 CONC r
+1 _BIBL NosOrigines.qc.ca / contributeur membre 74410. Généalogie Amanda Bouche
+2 CONC r. Consulté le 10 Aug 2026. https://www.nosorigines.qc.ca/GenealogieQue
+2 CONC bec.aspx?genealogie=Boucher_Amanda&pid=536987.
+1 TEXT Fiche identifiant Amanda Boucher, son conjoint Johnny Synnott/Synnett, l
+2 CONC e mariage du 21 Jul 1887 à Sainte-Madeleine-de-la-Rivière-Madeleine et l
+2 CONC es parents Georges Boucher / Odile Fournier.
+1 NOTE Type de source : source compilée/collaborative secondaire. URL : https:
+2 CONC //www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Boucher_Amanda
+2 CONC &pid=536987. Consulté le 10 Aug 2026. Ne remplace pas l'acte original.
+1 _TMPLT
+2 TID 0
+2 FIELD
+3 NAME Footnote
+3 VALUE NosOrigines.qc.ca / contributeur membre 74410, Généalogie Amanda Bouche
+4 CONC r (Consulté le 10 Aug 2026. https://www.nosorigines.qc.ca/GenealogieQue
+4 CONC bec.aspx?genealogie=Boucher_Amanda&pid=536987)
+2 FIELD
+3 NAME ShortFootnote
+3 VALUE NosOrigines.qc.ca / contributeur membre 74410, Généalogie Amanda Bouche
+4 CONC r
+2 FIELD
+3 NAME Bibliography
+3 VALUE NosOrigines.qc.ca / contributeur membre 74410. Généalogie Amanda Bouche
+4 CONC r. Consulté le 10 Aug 2026. https://www.nosorigines.qc.ca/GenealogieQue
+4 CONC bec.aspx?genealogie=Boucher_Amanda&pid=536987.
+0 @S111@ SOUR
+1 ABBR MesAieux - mariage Georges Boucher / Odile Fournier
+1 TITL MesAieux.com, Odile Fournier - résultats généalogiques (Consulté le 10 A
+2 CONC ug 2026. https://www.mesaieux.com/genealogie/odile_fournier)
+1 _SUBQ MesAieux.com, Odile Fournier - résultats généalogiques
+1 _BIBL MesAieux.com. Odile Fournier - résultats généalogiques. Consulté le 10 A
+2 CONC ug 2026. https://www.mesaieux.com/genealogie/odile_fournier.
+1 TEXT Entrée indexée : mariage Georges Boucher et Odile Fournier en 1865 à Sa
+2 CONC inte-Anne-des-Monts, Québec.
+1 NOTE Type de source : index secondaire d’actes d’état civil. URL : https://w
+2 CONC ww.mesaieux.com/genealogie/odile_fournier. Consulté le 10 Aug 2026. L'i
+2 CONC mage de l'acte original n'a pas été obtenue dans cette passe.
+1 _TMPLT
+2 TID 0
+2 FIELD
+3 NAME Footnote
+3 VALUE MesAieux.com, Odile Fournier - résultats généalogiques (Consulté le 10 A
+4 CONC ug 2026. https://www.mesaieux.com/genealogie/odile_fournier)
+2 FIELD
+3 NAME ShortFootnote
+3 VALUE MesAieux.com, Odile Fournier - résultats généalogiques
+2 FIELD
+3 NAME Bibliography
+3 VALUE MesAieux.com. Odile Fournier - résultats généalogiques. Consulté le 10 A
+4 CONC ug 2026. https://www.mesaieux.com/genealogie/odile_fournier.
+0 @S112@ SOUR
+1 ABBR Geneanet Marcel Fournier - Amanda Boucher
+1 TITL Marcel Fournier / Geneanet, Family tree of Marcel Fournier - Amanda (Co
+2 CONC nsulté le 10 Aug 2026. https://gw.geneanet.org/marcelf?lang=en&m=P&v=am
+2 CONC anda)
+1 _SUBQ Marcel Fournier / Geneanet, Family tree of Marcel Fournier - Amanda
+1 _BIBL Marcel Fournier / Geneanet. Family tree of Marcel Fournier - Amanda. Co
+2 CONC nsulté le 10 Aug 2026. https://gw.geneanet.org/marcelf?lang=en&m=P&v=am
+2 CONC anda.
+1 TEXT Présente Amanda Boucher 1866- comme fille de Georges Boucher et Odile F
+2 CONC ournier, mariée à Johnny Synnott en 1887.
+1 NOTE Type de source : arbre public collaboratif secondaire. URL : https://gw
+2 CONC .geneanet.org/marcelf?lang=en&m=P&v=amanda. Consulté le 10 Aug 2026. Co
+2 CONC rroboration seulement; arbre public.
+1 _TMPLT
+2 TID 0
+2 FIELD
+3 NAME Footnote
+3 VALUE Marcel Fournier / Geneanet, Family tree of Marcel Fournier - Amanda (Co
+4 CONC nsulté le 10 Aug 2026. https://gw.geneanet.org/marcelf?lang=en&m=P&v=am
+4 CONC anda)
+2 FIELD
+3 NAME ShortFootnote
+3 VALUE Marcel Fournier / Geneanet, Family tree of Marcel Fournier - Amanda
+2 FIELD
+3 NAME Bibliography
+3 VALUE Marcel Fournier / Geneanet. Family tree of Marcel Fournier - Amanda. Co
+4 CONC nsulté le 10 Aug 2026. https://gw.geneanet.org/marcelf?lang=en&m=P&v=am
+4 CONC anda.
+0 @S113@ SOUR
+1 ABBR L’âme de pierre - Les Boucher
+1 TITL L’âme de pierre, Les Boucher (Consulté le 10 Aug 2026. https://lamedepi
+2 CONC erre.info/les-boucher/)
+1 _SUBQ L’âme de pierre, Les Boucher
+1 _BIBL L’âme de pierre. Les Boucher. Consulté le 10 Aug 2026. https://lamedepi
+2 CONC erre.info/les-boucher/.
+1 TEXT L'extrait indexé du site présente Amanda parmi les premiers enfants de G
+2 CONC eorges Boucher et Odile Fournier et décrit Georges comme pêcheur lié à M
+2 CONC anche-d'Épée.
+1 NOTE Type de source : histoire locale secondaire / extrait indexé. URL : htt
+2 CONC ps://lamedepierre.info/les-boucher/. Consulté le 10 Aug 2026. La page c
+2 CONC omplète n'a pas pu être récupérée de façon fiable pendant cette passe; v
+2 CONC oir evidence/025.
+1 _TMPLT
+2 TID 0
+2 FIELD
+3 NAME Footnote
+3 VALUE L’âme de pierre, Les Boucher (Consulté le 10 Aug 2026. https://lamedepi
+4 CONC erre.info/les-boucher/)
+2 FIELD
+3 NAME ShortFootnote
+3 VALUE L’âme de pierre, Les Boucher
+2 FIELD
+3 NAME Bibliography
+3 VALUE L’âme de pierre. Les Boucher. Consulté le 10 Aug 2026. https://lamedepi
+4 CONC erre.info/les-boucher/.
 0 @R1@ REPO
 1 NAME Ancestry.com
 1 ADDR

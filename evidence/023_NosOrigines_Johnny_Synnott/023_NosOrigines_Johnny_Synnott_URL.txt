@@ -1,0 +1,6 @@
+Title: NosOrigines - Johnny Synnott
+Type: WEB_PRINT_PDF_SECONDARY
+URL: https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Synnott_Johnny&pid=536986
+Accessed: 2026-08-10
+Target PDF: 023_NosOrigines_Johnny_Synnott_WEB_PRINT.pdf
+Role: Recherche T201 - Synnett, John / Boucher, Marie Amanda.

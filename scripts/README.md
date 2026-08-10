@@ -41,5 +41,5 @@ un défi antirobot, une page de connexion ou un contenu incomplet. Ouvrir chaque
 - la lisibilité et la mise en page;
 - les pages dynamiques, particulièrement Geneanet et FreeBMD.
 
-Les trois PDF natifs officiels du projet ne sont jamais réimprimés : ils restent conservés tels que fournis
+Les PDF natifs du projet ne sont jamais réimprimés : ils restent conservés tels que fournis
 par leur organisme source.

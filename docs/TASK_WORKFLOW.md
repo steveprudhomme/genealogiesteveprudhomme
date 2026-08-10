@@ -1,51 +1,55 @@
-# Flux de travail des tâches
+# Workflow des tâches généalogiques
 
-## Source de vérité
+## Principe
 
-Le GEDCOM courant fourni pour cette version, `genealogiesteveprudhomme(4).ged`, contient **136 tâches** déjà présentes, jusqu'à **T200** avec des plages d'identifiants non contiguës.
+Les tâches RootsMagic sont versionnées dans des GEDCOM dédiés et reflétées à l'identique dans `ROADMAP.md`.
 
-La version **0.5.4** ajoute **T201-T218**, soit 18 nouvelles tâches de recherche couvrant plusieurs branches de l'arbre. Le snapshot de projet contient donc **154 tâches** : **90 NEW** et **64 COMPLETED**.
+## Nomenclature
 
-## Convention de nommage
+À compter de la v0.5.4, toute nouvelle tâche utilise :
 
-À compter de la v0.5.4, toute nouvelle tâche est présentée sous la forme :
+`Txxx - Nom, Prénom (ou sujet) - Descriptif`
 
-`Numéro de tâche - Nom, Prénom de l'individu (ou sujet général) - Descriptif de la tâche`
+Le numéro est répété dans `DESC` pour qu'il soit visible directement dans la liste de tâches RootsMagic.
 
-Exemples :
+## État v0.5.5
 
-- `T201 - Synnett, John / Boucher, Marie Amanda - Obtenir et transcrire l'acte original du mariage...`
-- `T215 - Arbre complet - Cartographier les fins de branche...`
+- Base de référence fournie : `genealogiesteveprudhomme(4).ged`.
+- Snapshot : `gedcom/tasks_snapshot_v0.5.5.ged`.
+- Total : **155 tâches**.
+- Statuts : **90 NEW**, **65 COMPLETED**.
+- T201 : `COMPLETED` dans le snapshot après la passe documentée v0.5.5.
+- T219 : `NEW`, priorité 1; récupération des images primaires du mariage/baptêmes et résolution du bon doublon Amanda.
 
-Dans le GEDCOM, le numéro est porté à la fois par l'identifiant `_TASK` (`@T201@`) **et répété au début du champ `DESC`** (`T201 - ...`). Cette redondance est volontaire : RootsMagic affiche le contenu de `DESC` dans sa liste de tâches, ce qui rend le numéro visible à l'écran. Les tâches héritées antérieures à la v0.5.4 conservent leur libellé historique dans ce paquet pour éviter une réimportation risquée de tâches déjà présentes.
+## Import différentiel
 
-## Import RootsMagic
+Toujours préférer un GEDCOM contenant **uniquement les ajouts nécessaires**. Pour v0.5.5 :
 
-Importer uniquement `gedcom/research_tasks_import_v0.5.4.ged` dans la base correspondant au GEDCOM courant.
+`gedcom/t201_research_import_v0.5.5.ged`
 
-Ce fichier contient **uniquement T201-T218**, avec statut `NEW`. Il contient **0 INDI, 0 FAM et 0 SOUR** afin de réduire le risque de doublons dans l'arbre.
+Ce fichier ajoute 2 personnes nouvelles, 1 famille, 4 sources et T219. Il ne réimporte ni les personnes John/Amanda déjà présentes, ni T201 déjà présente dans RootsMagic.
 
-Ne pas réimporter les anciens fichiers de phase Alfred si ces tâches sont déjà présentes dans RootsMagic.
+### Mise à jour d'une tâche existante
+
+Un import GEDCOM n'est pas utilisé comme mécanisme de mise à jour d'une tâche RootsMagic existante lorsque cela risque de créer un doublon. Ainsi, après import v0.5.5, l'utilisateur coche manuellement **T201** comme terminée dans sa base; le snapshot et le ROADMAP portent déjà ce statut.
 
 ## Snapshot
 
-`gedcom/tasks_snapshot_v0.5.4.ged` est destiné à Git, au ROADMAP et à l'audit. Il contient les **154 tâches** du projet et **ne doit pas être importé** dans la base RootsMagic courante, puisqu'il reprend aussi toutes les tâches déjà présentes.
+`tasks_snapshot_v0.5.5.ged` contient toutes les tâches du projet. Il sert au versionnage, au ROADMAP et à l'audit. **Ne pas l'importer** dans la base RootsMagic actuelle.
 
 ## Statuts
 
-- `NEW` : recherche encore à effectuer.
-- `COMPLETED` : passage de recherche effectué et documenté; le résultat peut être négatif ou bloqué.
+- `NEW` : recherche à faire.
+- `COMPLETED` : la passe définie a été exécutée et documentée, même si son résultat est négatif, partiel ou bloqué.
+
+Une recherche primaire non résolue peut donner lieu à une nouvelle tâche de suivi plus précise, plutôt que de garder indéfiniment la tâche initiale ouverte.
 
 ## Priorités
 
-- `1` : recherche à rendement élevé ou susceptible d'ouvrir rapidement une nouvelle génération.
-- `2` : prolongement de branches et résolution de filiations plus anciennes.
-- `3` : audit documentaire ou recherche structurante à l'échelle de l'arbre.
+- `1` : forte valeur généalogique / blocage immédiat.
+- `2` : prolongation importante d'une branche.
+- `3` : audit ou approfondissement de fond.
 
 ## Doublons
 
-Les nouvelles tâches T201-T218 ne demandent aucune fusion de doublons. Les doublons existants demeurent à traiter séparément par l'utilisateur.
-
-## Synchronisation
-
-Toute modification d'une tâche dans le snapshot doit être reflétée dans `ROADMAP.md` : même ID, description, note, statut, priorité et ordre.
+Le nettoyage/fusion des doublons demeure séparé et sous la responsabilité de l'utilisateur. Les deltas de recherche doivent éviter d'aggraver les doublons; lorsqu'une fiche canonique n'est pas encore déterminée, préférer une note et un suivi plutôt qu'un lien structurel prématuré.

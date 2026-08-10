@@ -1,0 +1,6 @@
+Title: BAnQ - Actes déposés de la Gaspésie : 1814-1929
+Type: WEB_PRINT_PDF
+URL: https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=ACTES_DEPOSE_GASPE
+Accessed: 2026-08-10
+Target PDF: 026_BAnQ_Actes_Deposes_Gaspesie_WEB_PRINT.pdf
+Role: Recherche T201 - Synnett, John / Boucher, Marie Amanda.

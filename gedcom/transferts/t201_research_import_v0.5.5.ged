@@ -1,0 +1,118 @@
+0 HEAD
+1 SOUR RootsMagic
+2 NAME Projet généalogique - recherche T201
+1 DEST RootsMagic
+1 DATE 10 AUG 2026
+1 FILE t201_research_import_v0.5.5.ged
+1 NOTE Import différentiel anti-doublon pour T201. Ajoute seulement Georges Boucher, Odile Fournier, leur famille avec mariage
+2 CONC  indexé en 1865, quatre sources nouvelles et T219. N'importe pas John/Johnny Synnett ni Amanda Boucher, déjà présents en
+2 CONC  plusieurs exemplaires dans le GEDCOM courant. Aucun lien enfant vers Amanda n'est créé tant que l'acte original et le
+2 CONC  doublon canonique ne sont pas résolus.
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Georges /Boucher/
+2 GIVN Georges
+2 SURN Boucher
+1 SEX M
+1 NOTE Nouvel individu absent du GEDCOM courant fourni. PROBABLE : avec Odile Fournier, parent d'Amanda Boucher mariée à Johnny
+2 CONC  Synnett en 1887. La filiation d'Amanda est corroborée par plusieurs sources secondaires mais l'acte original du
+2 CONC  mariage/baptême n'a pas été obtenu; aucun lien parent-enfant n'est donc créé dans cet import.
+1 SOUR @S1@
+2 PAGE Fiche Amanda Boucher, parents indiqués : Georges Boucher et Odile Fournier.
+2 NOTE Source compilée secondaire; filiation à confirmer par acte original.
+1 SOUR @S3@
+2 PAGE Arbre Marcel Fournier, Amanda Boucher 1866-, fille de Georges et Odile Fournier.
+2 NOTE Arbre public secondaire; corroboration seulement.
+1 SOUR @S4@
+2 PAGE Article « Les Boucher », extrait indexé : famille Georges Boucher / Odile Fournier et enfants.
+2 NOTE Histoire locale secondaire; extrait indexé seulement lors de cette passe.
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Odile /Fournier/
+2 GIVN Odile
+2 SURN Fournier
+1 SEX F
+1 NOTE Nouvel individu absent du GEDCOM courant fourni. PROBABLE : avec Georges Boucher, parent d'Amanda Boucher mariée à
+2 CONC  Johnny Synnett en 1887. La filiation d'Amanda est corroborée par plusieurs sources secondaires mais l'acte original du
+2 CONC  mariage/baptême n'a pas été obtenu; aucun lien parent-enfant n'est donc créé dans cet import.
+1 SOUR @S1@
+2 PAGE Fiche Amanda Boucher, parents indiqués : Georges Boucher et Odile Fournier.
+2 NOTE Source compilée secondaire; filiation à confirmer par acte original.
+1 SOUR @S3@
+2 PAGE Arbre Marcel Fournier, Amanda Boucher 1866-, fille de Georges et Odile Fournier.
+2 NOTE Arbre public secondaire; corroboration seulement.
+1 SOUR @S4@
+2 PAGE Article « Les Boucher », extrait indexé : famille Georges Boucher / Odile Fournier et enfants.
+2 NOTE Histoire locale secondaire; extrait indexé seulement lors de cette passe.
+1 FAMS @F1@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 NOTE Couple Georges Boucher / Odile Fournier. MesAieux indexe leur mariage en 1865 à Sainte-Anne-des-Monts. PROBABLE : ce
+2 CONC  couple est celui des parents d'Amanda Boucher, épouse de Johnny Synnett. Le lien enfant vers Amanda est volontairement
+2 CONC  omis pour éviter de relier la mauvaise fiche homonyme/doublon avant vérification primaire.
+1 MARR
+2 DATE 1865
+2 PLAC Sainte-Anne-des-Monts, Québec, Canada
+2 SOUR @S2@
+3 PAGE Entrée de mariage Georges Boucher & Odile Fournier, 1865, Sainte-Anne-des-Monts, Québec.
+3 NOTE Index secondaire d’acte d’état civil; jour/mois et image originale non obtenus.
+1 SOUR @S1@
+2 PAGE Fiche Amanda Boucher : père Georges Boucher, mère Odile Fournier.
+2 NOTE Appuie l’hypothèse de filiation Amanda <- couple Georges/Odile.
+1 SOUR @S3@
+2 PAGE Amanda Boucher 1866-, fille de Georges et Odile Fournier, mariée à Johnny Synnott en 1887.
+2 NOTE Corroboration secondaire.
+1 SOUR @S4@
+2 PAGE Les trois premiers enfants de Georges et Odile incluent Amanda, selon l’extrait indexé.
+2 NOTE Corroboration secondaire d’histoire locale.
+0 @S1@ SOUR
+1 ABBR NosOrigines - Amanda Boucher
+1 AUTH NosOrigines.qc.ca / contributeur membre 74410
+1 TITL Généalogie Amanda Boucher
+1 PUBL Consulté le 10 Aug 2026. https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Boucher_Amanda&pid=536987
+1 TEXT Fiche identifiant Amanda Boucher, son conjoint Johnny Synnott/Synnett, le mariage du 21 Jul 1887 à
+2 CONC  Sainte-Madeleine-de-la-Rivière-Madeleine et les parents Georges Boucher / Odile Fournier.
+1 NOTE Type de source : source compilée/collaborative secondaire. URL :
+2 CONC  https://www.nosorigines.qc.ca/GenealogieQuebec.aspx?genealogie=Boucher_Amanda&pid=536987. Consulté le 10 Aug 2026. Ne
+2 CONC  remplace pas l'acte original.
+0 @S2@ SOUR
+1 ABBR MesAieux - mariage Georges Boucher / Odile Fournier
+1 AUTH MesAieux.com
+1 TITL Odile Fournier - résultats généalogiques
+1 PUBL Consulté le 10 Aug 2026. https://www.mesaieux.com/genealogie/odile_fournier
+1 TEXT Entrée indexée : mariage Georges Boucher et Odile Fournier en 1865 à Sainte-Anne-des-Monts, Québec.
+1 NOTE Type de source : index secondaire d’actes d’état civil. URL : https://www.mesaieux.com/genealogie/odile_fournier.
+2 CONC  Consulté le 10 Aug 2026. L'image de l'acte original n'a pas été obtenue dans cette passe.
+0 @S3@ SOUR
+1 ABBR Geneanet Marcel Fournier - Amanda Boucher
+1 AUTH Marcel Fournier / Geneanet
+1 TITL Family tree of Marcel Fournier - Amanda
+1 PUBL Consulté le 10 Aug 2026. https://gw.geneanet.org/marcelf?lang=en&m=P&v=amanda
+1 TEXT Présente Amanda Boucher 1866- comme fille de Georges Boucher et Odile Fournier, mariée à Johnny Synnott en 1887.
+1 NOTE Type de source : arbre public collaboratif secondaire. URL : https://gw.geneanet.org/marcelf?lang=en&m=P&v=amanda.
+2 CONC  Consulté le 10 Aug 2026. Corroboration seulement; arbre public.
+0 @S4@ SOUR
+1 ABBR L’âme de pierre - Les Boucher
+1 AUTH L’âme de pierre
+1 TITL Les Boucher
+1 PUBL Consulté le 10 Aug 2026. https://lamedepierre.info/les-boucher/
+1 TEXT L'extrait indexé du site présente Amanda parmi les premiers enfants de Georges Boucher et Odile Fournier et décrit
+2 CONC  Georges comme pêcheur lié à Manche-d'Épée.
+1 NOTE Type de source : histoire locale secondaire / extrait indexé. URL : https://lamedepierre.info/les-boucher/. Consulté le
+2 CONC  10 Aug 2026. La page complète n'a pas pu être récupérée de façon fiable pendant cette passe; voir evidence/025.
+0 @T219@ _TASK
+1 DESC T219 - Synnett, John / Boucher, Marie Amanda - Obtenir les images originales du mariage de 1887 et des baptêmes afin de
+2 CONC  confirmer définitivement les filiations
+1 TYPE 0
+1 NOTE Suite primaire de T201. Obtenir l'image de l'acte de mariage de John/Johnny Synnett et Amanda Boucher du 21 Jul 1887 à
+2 CONC  Sainte-Madeleine-de-la-Rivière-Madeleine, puis les baptêmes de John autour du 12 Nov 1866 et d'Amanda autour de 1866.
+2 CONC  Relever parents, résidences, professions, témoins, parrains/marraines et résoudre les dates de naissance
+2 CONC  contradictoires. Après confirmation, identifier la fiche Amanda canonique parmi les doublons et la relier manuellement
+2 CONC  à Georges Boucher et Odile Fournier, sans créer de nouveau doublon.
+1 STAT NEW
+1 PRTY 1
+0 TRLR
