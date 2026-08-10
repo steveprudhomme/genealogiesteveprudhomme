@@ -1,0 +1,7 @@
+State: PENDING_LOCAL_GENERATION
+Method: BROWSER_PRINT_TO_PDF
+Title: Library and Archives Canada - Manifest indexes, 1906 to 1920
+URL: https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/manifest-indexes.html
+Expected PDF: 008_LAC_Manifest_Indexes_1906_1920_WEB_PRINT.pdf
+Reason: A true browser print must be generated in an environment where Chromium can access the live website.
+Command: .\scripts\print_web_evidence.ps1

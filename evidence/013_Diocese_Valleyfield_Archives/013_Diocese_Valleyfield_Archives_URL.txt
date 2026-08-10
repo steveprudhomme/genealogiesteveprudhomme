@@ -1,4 +1,4 @@
-Type: BROWSER_CONTENT_ARCHIVE
+Type: WEB_PRINT_PDF
 Titre: Diocèse de Valleyfield - Archives
 URL: https://www.diocesevalleyfield.org/fr/diocese/chancellerie/archives
 Consulté: 2026-08-09

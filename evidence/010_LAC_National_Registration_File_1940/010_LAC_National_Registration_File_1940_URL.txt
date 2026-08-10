@@ -1,4 +1,4 @@
-Type: BROWSER_CONTENT_ARCHIVE
+Type: WEB_PRINT_PDF
 Titre: Library and Archives Canada - Preserving the National Registration File
 URL: https://www.canada.ca/en/library-archives/collection/research-help/military-history/second-world-war/national-registration-file.html
 Consulté: 2026-08-09

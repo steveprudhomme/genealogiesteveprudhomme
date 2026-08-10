@@ -1,4 +1,4 @@
-Type: BROWSER_CONTENT_ARCHIVE
+Type: WEB_PRINT_PDF
 Titre: Originis - Sainte-Clotilde-de-Châteauguay
 URL: https://www.originis.ca/paroisse_sainte_clotilde_de_chateauguay.html
 Consulté: 2026-08-09

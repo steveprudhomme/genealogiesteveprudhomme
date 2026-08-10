@@ -1,4 +1,4 @@
-Type: BROWSER_CONTENT_ARCHIVE
+Type: WEB_PRINT_PDF
 Titre: Library and Archives Canada - Home children and Board of guardians
 URL: https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/home-children.html
 Consulté: 2026-08-09

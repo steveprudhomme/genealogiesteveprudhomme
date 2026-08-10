@@ -1,0 +1,7 @@
+State: PENDING_LOCAL_GENERATION
+Method: BROWSER_PRINT_TO_PDF
+Title: The National Archives - 1939 Register
+URL: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/1939-register/
+Expected PDF: 002_TNA_1939_Register_WEB_PRINT.pdf
+Reason: A true browser print must be generated in an environment where Chromium can access the live website.
+Command: .\scripts\print_web_evidence.ps1

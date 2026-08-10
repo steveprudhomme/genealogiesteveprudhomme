@@ -1,0 +1,7 @@
+State: PENDING_LOCAL_GENERATION
+Method: BROWSER_PRINT_TO_PDF
+Title: BAnQ - Archives notariales / base biographique des notaires
+URL: https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=BIOGR_NOTAIRES_QC_2022
+Expected PDF: 012_BAnQ_Archives_notariales_WEB_PRINT.pdf
+Reason: A true browser print must be generated in an environment where Chromium can access the live website.
+Command: .\scripts\print_web_evidence.ps1

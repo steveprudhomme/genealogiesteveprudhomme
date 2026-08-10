@@ -1,0 +1,2206 @@
+0 HEAD
+1 SOUR RootsMagic
+2 NAME Projet généalogique - tâches Alfred Clarke
+1 DEST RootsMagic
+1 DATE 9 AUG 2026
+1 FILE tasks_snapshot_v0.5.0.ged
+1 NOTE Snapshot versionné des 118 tâches du GEDCOM actuel + T165-T182 complétées.
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @T1@ _TASK
+1 DESC Trouver la tombe
+1 TYPE 0
+1 STAT NEW
+1 PRTY 1
+0 @T2@ _TASK
+1 DESC Consulter l'annuaire Lovell's de Montréal (1935-1936)
+1 TYPE 0
+1 NOTE Localiser Emile Prud'homme dans les sections alphabétique et par rue. L
+2 CONC 'objectif est de trouver son adresse, le nom et l'adresse de son commer
+2 CONC ce. Cela permettra de déterminer son lien de parenté exact (en vérifian
+2 CONC t son lieu de résidence par rapport à celui de Léopold) et de mieux com
+2 CONC prendre son rôle économique dans la famille. Cet annuaire est disponibl
+2 CONC e en consultation à Bibliothèque et Archives nationales du Québec (BAnQ
+2 CONC ) et via des services en ligne (<I>Lovell's Montreal Directory 1935-193
+2 CONC 6</I>, 1935; Jewish Genealogical Society of Montreal, 2009).
+1 STAT NEW
+1 PRTY 1
+0 @T3@ _TASK
+1 DESC Obtenir l'acte de mariage complet de Léopold Prud'homme et Bertha Labelle (1933)
+1 TYPE 0
+1 NOTE Demander une copie intégrale de l'acte de leur mariage, célébré à la pa
+2 CONC roisse Saint-Joseph. Ce document nommera leurs parents respectifs (conf
+2 CONC irmant ainsi la génération des grands-parents de Roger) et les témoins, q
+2 CONC ui sont souvent d'autres membres de la famille proche, offrant de nouve
+2 CONC lles pistes.
+1 STAT NEW
+1 PRTY 1
+0 @T4@ _TASK
+1 DESC Consulter Le Canada ecclésiastique (1935)
+1 TYPE 0
+1 NOTE Vérifier l'affectation paroissiale de l'abbé Tadros Forget pour confirm
+2 CONC er définitivement l'église du baptême. Cette publication est une ressou
+2 CONC rce de référence disponible dans les grandes bibliothèques de recherche c
+2 CONC omme BAnQ (<I>Le Canada ecclésiastique</I>, s. d.).
+1 STAT NEW
+1 PRTY 1
+0 @T5@ _TASK
+1 DESC Rechercher l'Enregistrement national du Canada de 1940
+1 TYPE 0
+1 NOTE Ce recensement, réalisé au début de la Seconde Guerre mondiale, fournir
+2 CONC ait un portrait détaillé de l'unité familiale Prud'homme, incluant leur a
+2 CONC dresse, la profession spécifique de Léopold, son revenu, et la composit
+2 CONC ion du ménage.
+1 STAT NEW
+1 PRTY 1
+0 @T6@ _TASK
+1 DESC Obtenir l'acte de décès d'Antoinette Prud'homme (1975)
+1 TYPE 0
+1 NOTE Les données de l'utilisateur indiquent sa date de décès. L'acte de décè
+2 CONC s complet mentionnera son statut matrimonial et, le cas échéant, le nom d
+2 CONC e son époux, ce qui pourrait ouvrir une nouvelle branche de la famille à l
+2 CONC a recherche.
+1 STAT NEW
+1 PRTY 1
+0 @T7@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Nicolas Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Nicolas Prud'homme [@I285@] (n. 31 JUILLET 1722; d. 25 MAI1
+2 CONC 810)
+2 CONT FUSIONNER : Nicolas Prudhomme [@I6@] (n. ?; d. None)
+2 CONT MOTIF : Même Nicolas Prud’homme; une fiche minimale a été créée commeco
+2 CONC njoint de lui-même (famille F2).
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T8@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Joseph Arthur Tremblay
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Joseph Arthur Tremblay [@I319@] (n. 29 APR 1881; d. 12 FEB1
+2 CONC 952)
+2 CONT FUSIONNER : Arthur Tremblay [@I28@] (n. ?; d. None)
+2 CONT MOTIF : Joseph Arthur/Arthur Tremblay; la fiche minimale apparaît comme
+2 CONC conjoint de lui-même (F3).
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T9@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Living
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Living [@I461@] (n. 1901; d. 1978)
+2 CONT FUSIONNER : M Louise Tremblay [@I84@] (n. ?; d. None)
+2 CONT MOTIF : Marie-Louise/M Louise Tremblay; famille F10 crée un mariage deM
+2 CONC arie-Louise avec son propre doublon.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T10@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Leopold (Joseph Lucien) Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Leopold (Joseph Lucien) Prud'homme [@I406@] (n. ABT 1879; d
+2 CONC .21 DÉCEMBRE 1979)
+2 CONT FUSIONNER : Leopold Prudhomme [@I281@] (n. ?; d. None)
+2 CONT MOTIF : Leopold Prud’homme; fiche minimale utilisée comme conjoint delu
+2 CONC i-même (F66).
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T11@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Emile (Joseph Zepherin) Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Emile (Joseph Zepherin) Prud'homme [@I410@] (n. 28 NOV 1884
+2 CONC ;d. None)
+2 CONT FUSIONNER : Emile Prudhomme [@I282@] (n. ?; d. None)
+2 CONT MOTIF : Emile Prud’homme; fiche minimale utilisée comme conjoint delui-
+2 CONC même (F67).
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T12@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Joseph Salomon Tremblay
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Joseph Salomon Tremblay [@I39@] (n. 30 OCT 1852; d. 11 NOV1
+2 CONC 927)
+2 CONT FUSIONNER : Joseph Tremblay [@I133@] (n. 30 OCT 1852; d. None)
+2 CONT MOTIF : Même naissance 30 OCT 1852 et mêmes parents; JosephSalomon/Jose
+2 CONC ph Tremblay.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T13@ _TASK
+1 DESC [AUDIT P2] Vérifier doublon probable — Paul Tremblay
+1 TYPE 0
+1 NOTE Vérifier les actes/sources avant toute fusion.
+2 CONT CONSERVER : Paul Tremblay [@I37@] (n. 30 SEP 1854; d. 13 APR 1941)
+2 CONT FUSIONNER : Paul Tremblay [@I132@] (n. ?; d. None)
+2 CONT MOTIF : Même nom et mêmes parents; une fiche ne contient presque aucunr
+2 CONC enseignement.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T14@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie Delima Richard
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie Delima Richard [@I328@] (n. 1883 FEBRUARY 19TH; d. 7N
+2 CONC OV 1940)
+2 CONT FUSIONNER : Delima Richard [@I320@] (n. 19 FÉVRIER 1883; d. 7 NOVEMBRE1
+2 CONC 940)
+2 CONT MOTIF : Delima/Marie Delima Richard; même naissance 19 FEB 1883, mêmedé
+2 CONC cès et même conjoint.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T15@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Theophile Peter FILION FELLION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Theophile Peter FILION FELLION [@I46@] (n. 7 OCT 1821; d.AB
+2 CONC T 1880)
+2 CONT FUSIONNER : Theophile Peter Fellion\dit Filion [@I131@] (n. 7 OCT 1821;
+2 CONC d. AFT 1880)
+2 CONT MOTIF : Théophile Peter Filion/Fellion; même naissance et mêmes parents
+2 CONC .
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T16@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Paul Jean Baptiste Fellion
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Paul Jean Baptiste Fellion [@I47@] (n. 16 MAY 1835; d. 2 AU
+2 CONC G1861)
+2 CONT FUSIONNER : Paul Jean Baptiste Fellion [@I125@] (n. 16 MAY 1835; d. 2AU
+2 CONC G 1861)
+2 CONT MOTIF : Paul Jean Baptiste Fellion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T17@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie Filion
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie Filion [@I48@] (n. 17 APR 1825; d. 7 AUG 1825)
+2 CONT FUSIONNER : Marie Filion [@I69@] (n. 17 APR 1825; d. 7 AUG 1825)
+2 CONT MOTIF : Marie Filion née 17 APR 1825; mêmes naissance, décès et parents
+2 CONC .
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T18@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Emilie Amelia Marie Fellion
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Emilie Amelia Marie Fellion [@I49@] (n. 9 APR 1839; d. 23NO
+2 CONC V 1893)
+2 CONT FUSIONNER : Emilie Amelia Marie Fellion [@I70@] (n. 9 APR 1839; d. 23NO
+2 CONC V 1893)
+2 CONT MOTIF : Emilie Amelia Marie Fellion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T19@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Pierre Maxime FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Pierre Maxime FILION [@I50@] (n. 25 AUG 1819; d. None)
+2 CONT FUSIONNER : Pierre Maxime FILION [@I71@] (n. 25 AUG 1819; d. 14 AUG1819
+2 CONC )
+2 CONT MOTIF : Pierre Maxime Filion; même naissance et mêmes parents. Une fich
+2 CONC econtient un décès impossible antérieur à la naissance.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T20@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Flavie FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Flavie FILION [@I51@] (n. 5 AUG 1820; d. 22 SEP 1821)
+2 CONT FUSIONNER : Flavie FILION [@I72@] (n. 5 AUG 1820; d. 22 SEP 1821)
+2 CONT MOTIF : Flavie Filion née 5 AUG 1820; mêmes naissance, décès et parents
+2 CONC .
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T21@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Flavie FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Flavie FILION [@I116@] (n. 26 FEB 1823; d. 11 AUG 1826)
+2 CONT FUSIONNER : Flavie FILION [@I52@] (n. 26 FEB 1823; d. None)
+2 CONT MOTIF : Flavie Filion née 26 FEB 1823; même naissance et mêmes parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T22@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Joseph Olivier FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Joseph Olivier FILION [@I53@] (n. ABT APR 1819; d. 14 AUG18
+2 CONC 19)
+2 CONT FUSIONNER : Joseph Olivier FILION [@I117@] (n. ABT APR 1819; d. 14 AUG1
+2 CONC 819)
+2 CONT MOTIF : Joseph Olivier Filion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T23@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie FILION [@I54@] (n. 29 APR 1826; d. 16 JUN 1826)
+2 CONT FUSIONNER : Marie FILION [@I127@] (n. 29 APR 1826; d. 16 JUN 1826)
+2 CONT MOTIF : Marie Filion née 29 APR 1826; mêmes naissance, décès et parents
+2 CONC .
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T24@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie FILION [@I55@] (n. ABT 1822; d. 11 AUG 1826)
+2 CONT FUSIONNER : Marie FILION [@I126@] (n. ABT 1822; d. 11 AUG 1826)
+2 CONT MOTIF : Marie Filion née vers 1822; mêmes données et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T25@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie FILION [@I56@] (n. ABT JUL 1830; d. 10 AUG 1830)
+2 CONT FUSIONNER : Marie FILION [@I67@] (n. ABT JUL 1830; d. 10 AUG 1830)
+2 CONT MOTIF : Marie Filion née vers JUL 1830; mêmes données et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T26@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie Lina FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie Lina FILION [@I57@] (n. 7 JAN 1833; d. 26 OCT 1834)
+2 CONT FUSIONNER : Marie Lina FILION [@I118@] (n. 7 JAN 1833; d. 26 OCT 1834)
+2 CONT MOTIF : Marie Lina Filion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T27@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Alexis Alexandre FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Alexis Alexandre FILION [@I58@] (n. 20 MAR 1829; d. 27 JAN1
+2 CONC 836)
+2 CONT FUSIONNER : Alexis Alexandre FILION [@I119@] (n. 20 MAR 1829; d. 27 JAN
+2 CONC 1836)
+2 CONT MOTIF : Alexis Alexandre Filion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T28@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Joseph Alfred FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Joseph Alfred FILION [@I120@] (n. 17 MAR 1834; d. 2 NOV1834
+2 CONC )
+2 CONT FUSIONNER : Joseph Alfred FILION [@I59@] (n. 17 MAR 1834; d. None)
+2 CONT MOTIF : Joseph Alfred Filion; même naissance et mêmes parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T29@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Philomene FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Philomene FILION [@I60@] (n. 13 OCT 1840; d. 19 FEB 1856)
+2 CONT FUSIONNER : Philomene FILION [@I121@] (n. 13 OCT 1840; d. 19 FEB 1856)
+2 CONT MOTIF : Philomene Filion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T30@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Alphonse FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Alphonse FILION [@I62@] (n. 13 SEP 1844; d. 29 SEP 1844)
+2 CONT FUSIONNER : Alphonse FILION [@I122@] (n. 13 SEP 1844; d. 29 SEP 1844)
+2 CONT MOTIF : Alphonse Filion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T31@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Hedwidge FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Hedwidge FILION [@I63@] (n. 28 FEB 1846; d. 22 JAN 1855)
+2 CONT FUSIONNER : Hedwidge FILION [@I123@] (n. 28 FEB 1846; d. 22 JAN 1855)
+2 CONT MOTIF : Hedwidge Filion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T32@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Eulalie Eudalie FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Eulalie Eudalie FILION [@I64@] (n. 3 DEC 1827; d. 30 JUN190
+2 CONC 2)
+2 CONT FUSIONNER : Eulalie Eudalie FILION [@I124@] (n. 3 DEC 1827; d. 30 JUN19
+2 CONC 02)
+2 CONT MOTIF : Eulalie Eudalie Filion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T33@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie Leocadie FILION
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie Leocadie FILION [@I65@] (n. 7 JUL 1831; d. 22 APR1897
+2 CONC )
+2 CONT FUSIONNER : Marie Leocadie FILION [@I68@] (n. 7 JUL 1831; d. 22 APR1897
+2 CONC )
+2 CONT MOTIF : Marie Leocadie Filion; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T34@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie Amanda Boucher
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie Amanda Boucher [@I287@] (n. 24 MAY 1866; d. 5 FÉV1942
+2 CONC )
+2 CONT FUSIONNER : Marie Amanda Boucher [@I92@] (n. 24 MAI 1866; d. None);Bouc
+2 CONC her Marie-Amanda [@I274@] (n. ?; d. None)
+2 CONT MOTIF : Marie Amanda Boucher; même épouse de John Synett/Synnett, avecu
+2 CONC ne fiche vide intermédiaire.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T35@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Joseph Euloge Synnott (Sinnette)
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Joseph Euloge Synnott (Sinnette) [@I96@] (n. 12 FÉVRIER1877
+2 CONC ; d. 1965)
+2 CONT FUSIONNER : Euloge Synnett [@I102@] (n. 12 FEB 1877; d. None)
+2 CONT MOTIF : Joseph Euloge/Euloge Synnett; même naissance 12 FEB 1877 etmême
+2 CONC s parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T36@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Jean Baptiste Xavier SYNNETT
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Jean Baptiste Xavier SYNNETT [@I97@] (n. 10 DEC 1888; d.Non
+2 CONC e)
+2 CONT FUSIONNER : Jean Baptiste Xavier Synnett [@I101@] (n. 10 DÉCEMBRE 1888;
+2 CONC d. None)
+2 CONT MOTIF : Jean Baptiste Xavier Synnett; même naissance et mêmes parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T37@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — John Synett
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : John Synett [@I273@] (n. 12 NOV 1866; d. None)
+2 CONT FUSIONNER : John Synnett [@I286@] (n. 12 NOV 1866; d. None)
+2 CONT MOTIF : John Synett/Synnett; même naissance 12 NOV 1866 et même épouse.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T38@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Bertha Labelle
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Bertha Labelle [@I134@] (n. 21 DÉCEMBRE 1911; d. 3 SEPTEMBR
+2 CONC E1995)
+2 CONT FUSIONNER : Bertha Labelle [@I384@] (n. 21 DÉCEMBRE 1911; d. 3 SEPTEMBR
+2 CONC E1995)
+2 CONT MOTIF : Bertha Labelle; mêmes naissance, décès et parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T39@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Antoine Labelle
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Antoine Labelle [@I379@] (n. ABT 1884; d. 1974)
+2 CONT FUSIONNER : Antoine Labelle [@I135@] (n. ABT 1885; d. 1974)
+2 CONT MOTIF : Antoine Labelle; même décès, même conjoint et une naissance ABT
+2 CONC 1885 commune; conserver les sources de la fiche riche.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T40@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Blanche Ravary
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Blanche Ravary [@I382@] (n. 9 FEB 1889; d. 1974)
+2 CONT FUSIONNER : Blanche Ravary [@I136@] (n. 9 FEB 1889; d. 1974); BlancheRa
+2 CONC vary [@I388@] (n. ?; d. None)
+2 CONT MOTIF : Blanche Ravary; mêmes conjoint et données; une fiche est presqu
+2 CONC evide.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T41@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie Jeanne Blanche Labelle
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie Jeanne Blanche Labelle [@I137@] (n. 1916; d. 2008)
+2 CONT FUSIONNER : Anne Marie Jeanne Blanche Labelle [@I383@] (n. 1916; d.2008
+2 CONC )
+2 CONT MOTIF : Marie Jeanne Blanche/Anne Marie Jeanne Blanche Labelle; mêmesan
+2 CONC nées et mêmes parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T42@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie-Amable Roussin
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie-Amable Roussin [@I143@] (n. 22 DÉCEMBRE 1810; d. None
+2 CONC )
+2 CONT FUSIONNER : Marie Amable Roussin [@I149@] (n. 22 DÉCEMBRE 1810; d. None
+2 CONC )
+2 CONT MOTIF : Marie-Amable Roussin; même naissance et mêmes parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T43@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Adeline Agathe Roussin
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Adeline Agathe Roussin [@I146@] (n. 20 MAR 1832; d. None)
+2 CONT FUSIONNER : Agathe Roussin [@I152@] (n. 20 MAR 1832; d. None)
+2 CONT MOTIF : Adeline Agathe/Agathe Roussin; même naissance et mêmes parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T44@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Henriette Roussin
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Henriette Roussin [@I148@] (n. 19 AUG 1824; d. 18 DEC 1838)
+2 CONT FUSIONNER : Henriette Roussin [@I150@] (n. 19 AOÛT 1824; d. None)
+2 CONT MOTIF : Henriette Roussin; même naissance et mêmes parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T45@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Claude Nobel Prud’homme \ Prud hon
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Claude Nobel Prud’homme \ Prud hon [@I161@] (n. 1546; d. BE
+2 CONC F1646)
+2 CONT FUSIONNER : Claude Nobel Prud’homme \ Prud hon [@I162@] (n. 1546; d. BE
+2 CONC F1646)
+2 CONT MOTIF : Claude Nobel Prud’homme; fiches pratiquement identiques.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T46@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Pierre Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Pierre Prud'homme [@I369@] (n. 24 MAR 1658; d. 28 MAR 1703)
+2 CONT FUSIONNER : Pierre Prud'homme [@I158@] (n. 24 MAR 1658; d. 28 MAR 1703)
+2 CONT MOTIF : Pierre Prud’homme né 24 MAR 1658; mêmes naissance, décès etpare
+2 CONC nts.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T47@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Étienne Pierre Gadois
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Étienne Pierre Gadois [@I177@] (n. 17 NOV 1631; d. 8 MAY171
+2 CONC 4)
+2 CONT FUSIONNER : Pierre Gadois [@I180@] (n. 17 NOV 1631; d. 8 MAY 1714)
+2 CONT MOTIF : Étienne Pierre/Pierre Gadois; même naissance 17 NOV 1631, mêmed
+2 CONC écès 8 MAY 1714 et mêmes parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T48@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marie-Roberte Gadois
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marie-Roberte Gadois [@I450@] (n. 15 SEP 1628; d. 14 SEP171
+2 CONC 6)
+2 CONT FUSIONNER : Marie-Roberte Gadois [@I186@] (n. 15 SEP 1628; d. 14 SEP171
+2 CONC 6)
+2 CONT MOTIF : Marie-Roberte Gadois; mêmes naissance, décès et parents; I450es
+2 CONC t beaucoup plus documentée.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T49@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Elisabeth Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Elisabeth Prud'homme [@I453@] (n. 21 SEP 1663; d. 1 JAN1744
+2 CONC )
+2 CONT FUSIONNER : Elisabeth Marie Prudhomme [@I363@] (n. 21 SEP 1663; d. 1 JA
+2 CONC N1744)
+2 CONT MOTIF : Elisabeth Marie/Elisabeth Prud’homme; mêmes naissance, décès et
+2 CONC parents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T50@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Francois Xavier Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Francois Xavier Prud'homme [@I433@] (n. 2 DEC 1651; d. 22AP
+2 CONC R 1741)
+2 CONT FUSIONNER : François-Xavier Prud'homme [@I364@] (n. 2 DEC 1651; d. 22AP
+2 CONC R 1741)
+2 CONT MOTIF : François-Xavier Prud’homme né 2 DEC 1651; mêmes naissance, décè
+2 CONC set parents; I433 est beaucoup plus documentée.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T51@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Marguerite Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Marguerite Prud'homme [@I452@] (n. 15 MAR 1656; d. 3 SEP172
+2 CONC 5)
+2 CONT FUSIONNER : Marguerite Prud'homme [@I365@] (n. 15 MAR 1656; d. 3 SEP172
+2 CONC 5)
+2 CONT MOTIF : Marguerite Prud’homme née 15 MAR 1656; mêmes naissance, décès e
+2 CONC tparents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T52@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Jeanne Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Jeanne Prud'homme [@I368@] (n. 24 JUN 1667; d. 12 APR 1752)
+2 CONT FUSIONNER : Jeanne Prud'homme [@I366@] (n. 24 JUN 1667; d. 12 APR 1752)
+2 CONT MOTIF : Jeanne Prud’homme née 24 JUN 1667; mêmes naissance, décès etpar
+2 CONC ents.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T53@ _TASK
+1 DESC [AUDIT P1] Fusionner doublon sûr — Paul Prud'homme
+1 TYPE 0
+1 NOTE Fusion recommandée avec très forte confiance.
+2 CONT CONSERVER : Paul Prud'homme [@I451@] (n. 27 FEB 1654; d. 1667)
+2 CONT FUSIONNER : Paul Prud'homme [@I454@] (n. 27 FEB 1654; d. 1667)
+2 CONT MOTIF : Paul Prud’homme né 27 FEB 1654; mêmes parents et décès 1667comm
+2 CONC un, mais I454 contient aussi un décès 1681 à revoir.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T54@ _TASK
+1 DESC [AUDIT P2] Vérifier doublon probable — Francois Xavier Prud'homme
+1 TYPE 0
+1 NOTE Vérifier les actes/sources avant toute fusion.
+2 CONT CONSERVER : Francois Xavier Prud'homme [@I110@] (n. 6 SEP 1711; d. 2 SE
+2 CONC P1773)
+2 CONT FUSIONNER : François-Xavier Prudhomme [@I115@] (n. ?; d. None)
+2 CONT MOTIF : François-Xavier Prud’homme (1711); même nom et mêmes parents,se
+2 CONC conde fiche vide.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T55@ _TASK
+1 DESC [AUDIT P2] Vérifier doublon probable — François Gadois
+1 TYPE 0
+1 NOTE Vérifier les actes/sources avant toute fusion.
+2 CONT CONSERVER : François Gadois [@I176@] (n. FEB 1636; d. 1666)
+2 CONT FUSIONNER : Francois Gadois [@I184@] (n. 2 DEC 1636; d. 1666)
+2 CONT MOTIF : François Gadois; mêmes parents et décès 1666, mais dates denais
+2 CONC sance incompatibles à vérifier avant fusion.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T56@ _TASK
+1 DESC [AUDIT P2] Vérifier doublon probable — Josette Robert
+1 TYPE 0
+1 NOTE Vérifier les actes/sources avant toute fusion.
+2 CONT CONSERVER : Josette Robert [@I230@] (n. 1760; d. 16 NOV 1827)
+2 CONT FUSIONNER : Marie Josephe Robert [@I232@] (n. ?; d. None)
+2 CONT MOTIF : Josette/Marie Josephe Robert; même conjoint Edouard Seneth,seco
+2 CONC nde fiche quasi vide.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T57@ _TASK
+1 DESC [AUDIT P2] Vérifier doublon probable — Bernard McCann
+1 TYPE 0
+1 NOTE Vérifier les actes/sources avant toute fusion.
+2 CONT CONSERVER : Bernard McCann [@I207@] (n. ?; d. 23 APR 1987)
+2 CONT FUSIONNER : McCann [@I206@] (n. ?; d. None)
+2 CONT MOTIF : McCann/Bernard McCann; même conjointe Viola Gee, première fiche
+2 CONC sans prénom ni dates.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T58@ _TASK
+1 DESC [AUDIT P2] Vérifier doublon probable — Herminie (Marie Hermine) Côté
+1 TYPE 0
+1 NOTE Vérifier les actes/sources avant toute fusion.
+2 CONT CONSERVER : Herminie (Marie Hermine) Côté [@I372@] (n. ABT 1854; d. 20J
+2 CONC UIN 1933)
+2 CONT FUSIONNER : Herminie (Marie Hermine) Cote [@I283@] (n. 21 MAI 1858; d.1
+2 CONC 7 AVRIL 1895); Herminie (Marie Hermine) Cote [@I415@] (n. ABT 1861; d.2
+2 CONC 0 JUIN 1933)
+2 CONT MOTIF : Herminie/Marie Hermine Côté: même conjoint et naissance 21 MAY1
+2 CONC 858 présente, mais décès 1895 et 1933 se contredisent. I415 semble déjà
+2 CONC être une fiche composite.
+2 CONT Avant de fusionner, comparer dates, relations, notes, médias etcitation
+2 CONC s. Après fusion, vérifier que les familles et faits n'ont pasété dupliq
+2 CONC ués.
+1 STAT NEW
+1 PRTY 1
+0 @T59@ _TASK
+1 DESC [AUDIT P1] Corriger la fiche composite Herminie / Marie Hermine Côté
+1 TYPE 0
+1 NOTE Ne pas fusionner aveuglément les fiches @I283@, @I372@ et @I415@. Mêmec
+2 CONC onjoint et naissance 21 MAY 1858, mais décès 1895 et 1933incompatibles. C
+2 CONC omparer les actes, identifier la bonne personne pourchaque décès, scind
+2 CONC er/corriger les faits puis seulement fusionner lesvraies fiches en doub
+2 CONC le.
+1 STAT NEW
+1 PRTY 1
+0 @T60@ _TASK
+1 DESC [AUDIT P1] Nettoyer les faits en double d'Alfred Clarke
+1 TYPE 0
+1 NOTE Dans Alfred Clarke @I460@ : consolider les 2 naissances ABT 1893 en une
+2 CONC seule (en réunissant notes et source), consolider les 3 décès 1972 en u
+2 CONC nseul, et dans la famille @F131@ conserver un seul mariage 1923 documen
+2 CONC téen supprimant les autres mariages 1923 et l'événement MARR vide.Conse
+2 CONC rver VERS 1903 comme ancienne estimation seulement si souhaité dansune n
+2 CONC ote, car ce n'est pas un doublon exact de ABT 1893.
+1 STAT NEW
+1 PRTY 1
+0 @T61@ _TASK
+1 DESC [AUDIT P1] Consolider la naissance en double de Rollande Clarke
+1 TYPE 0
+1 NOTE Dans Rollande Clarke @I462@, deux naissances 1925 à Lacolle proviennent
+2 CONC des imports. Conserver une seule naissance, idéalement 23 AUG 1925 avec
+2 CONC le lieu complet, en fusionnant les notes et citations utiles avantsuppr
+2 CONC ession de l'autre fait.
+1 STAT NEW
+1 PRTY 1
+0 @T62@ _TASK
+1 DESC [AUDIT P1] Nettoyer les faits vitaux exactement dupliqués
+1 TYPE 0
+1 NOTE Vérifier puis consolider : Thomas Mcgee @I197@ — 2 naissances 1736;Jacq
+2 CONC uemine Rouxel @I221@ — 2 naissances 8 OCT 1602 (conserver cellesourcée)
+2 CONC ; Marie-Anne Prudhomme @I440@ — 2 naissances 26 DEC 1699(conserver cell
+2 CONC e sourcée @S7; la variante 27 DEC 1699 reste à vérifier);Cécile Prudhom
+2 CONC me @I441@ — 2 décès 18 JUL 1777 (le 19 JUL 1777 reste unevariante disti
+2 CONC ncte à vérifier).
+1 STAT NEW
+1 PRTY 1
+0 @T63@ _TASK
+1 DESC [AUDIT P1] Consolider les 27 faits militaires excédentaires de Joseph Odina Seynnet
+1 TYPE 0
+1 NOTE Joseph Odina Seynnet, matricule 416684. Les imports successifs v1 puisv
+2 CONC 2 ont créé 27 occurrences excédentaires. Conserver UNE occurrencefinale d
+2 CONC e chaque fait avec la date la plus précise, les notesmanuscrites v2 et l
+2 CONC es références de pages.
+2 CONT - Enrôlement - Corps expéditionnaire canadien : retirer/fusionner 2occu
+2 CONC rrence(s) excédentaire(s).
+2 CONT - Examen médical à l'enrôlement : retirer/fusionner 2 occurrence(s)excé
+2 CONC dentaire(s).
+2 CONT - Attestation approuvée par l'unité : retirer/fusionner 2 occurrence(s)
+2 CONC excédentaire(s).
+2 CONT - Arrivée en Angleterre : retirer/fusionner 2 occurrence(s)excédentaire
+2 CONC (s).
+2 CONT - Service opérationnel en France : retirer/fusionner 2 occurrence(s)exc
+2 CONC édentaire(s).
+2 CONT - Insigne de blessé - casualty stripe : retirer/fusionner 2occurrence(s
+2 CONC ) excédentaire(s).
+2 CONT - Évolution clinique - perte de sensibilité et fermeture de l'œil :reti
+2 CONC rer/fusionner 1 occurrence(s) excédentaire(s).
+2 CONT - Opération antérieure rapportée - détails non documentés :retirer/fusi
+2 CONC onner 1 occurrence(s) excédentaire(s).
+2 CONT - Observation de commission médicale - gêne oculaire : retirer/fusionne
+2 CONC r1 occurrence(s) excédentaire(s).
+2 CONT - Commission médicale - Epsom : retirer/fusionner 2 occurrence(s)excéde
+2 CONC ntaire(s).
+2 CONT - Départ d'Angleterre pour le Canada : retirer/fusionner 2 occurrence(s
+2 CONC )excédentaire(s).
+2 CONT - Arrivée au Canada - H.M.T. Llanstephan Castle : retirer/fusionner 2oc
+2 CONC currence(s) excédentaire(s).
+2 CONT - Amélioration partielle de la fermeture des yeux : retirer/fusionner 1
+2 CONC occurrence(s) excédentaire(s).
+2 CONT - Description détaillée de la cicatrice faciale : retirer/fusionner 1oc
+2 CONC currence(s) excédentaire(s).
+2 CONT - Commission médicale - Montréal : retirer/fusionner 2 occurrence(s)exc
+2 CONC édentaire(s).
+2 CONT - Libération du Corps expéditionnaire canadien : retirer/fusionner 2occ
+2 CONC urrence(s) excédentaire(s).
+2 CONT IMPORTANT : ne pas supprimer un fait uniquement parce que RootsMagic ar
+2 CONC éduit sa date à l'année dans l'export; comparer les notes et la datecom
+2 CONC plète avant suppression.
+1 STAT NEW
+1 PRTY 1
+0 @T64@ _TASK
+1 DESC [AUDIT P2] Vérifier que les événements distincts de Cecil Gee restent séparés
+1 TYPE 0
+1 NOTE Cecil Thomas Gee, D-129695. Ne pas fusionner automatiquement les 2événe
+2 CONC ments « Nomination - Acting/Lance Corporal » de 1942 : ilscorrespondent à d
+2 CONC es dates distinctes. Ne pas fusionner les 3 événements« Absence sans co
+2 CONC ngé - détention » de 1943 : ils correspondent à desincidents distincts. V
+2 CONC érifier seulement que chaque événement conserve sadate complète, sa not
+2 CONC e et sa citation.
+1 STAT NEW
+1 PRTY 1
+0 @T65@ _TASK
+1 DESC [AUDIT P1] Nettoyer les familles artificielles et mariages dupliqués
+1 TYPE 0
+1 NOTE Traiter les familles suivantes après les fusions de personnescorrespond
+2 CONC antes :
+2 CONT - @F2@ — Nicolas Prud'homme ↔ Nicolas Prudhomme : fusionner I285/I6 pui
+2 CONC ssupprimer/absorber la famille artificielle.
+2 CONT - @F3@ — Joseph Arthur Tremblay ↔ Arthur Tremblay : fusionner I319/I28p
+2 CONC uis supprimer/absorber la famille artificielle.
+2 CONT - @F10@ — M Louise Tremblay ↔ Marie-Louise Tremblay : fusionner I84/I46
+2 CONC 1puis supprimer/absorber la famille artificielle.
+2 CONT - @F66@ — Leopold Prud'homme ↔ Leopold Prudhomme : fusionner I406/I281p
+2 CONC uis vérifier la famille.
+2 CONT - @F67@ — Emile Prud'homme ↔ Emile Prudhomme : fusionner I410/I282 puis
+2 CONC vérifier la famille.
+2 CONT - @F97@ — Mariage 1670 : deux événements MARR identiques : conserver un
+2 CONC seul.
+2 CONT - @F131@ — Alfred Clarke × Marie-Louise Tremblay : trois mariages 1923 +
+2 CONC un MARR vide : conserver un seul mariage documenté.
+1 STAT NEW
+1 PRTY 1
+0 @T66@ _TASK
+1 DESC [AUDIT P1] Résoudre les fiches composites et faits contradictoires
+1 TYPE 0
+1 NOTE Ne pas supprimer par simple dédoublonnage. Vérifier les sources etredis
+2 CONC tribuer les faits si nécessaire :
+2 CONT - Sophie (Marie) Prud'homme @I7@ : deux naissances 1 MAR 1810 et 2 OCT1
+2 CONC 812; @I22@ est Marie Sophie née 1 MAR 1810 et décédée 6 JUN 1810. I7sem
+2 CONC ble contenir un fait d'une autre enfant.
+2 CONT - Catherine (Marie) Prud'homme @I112@ : naissances 23 JUL 1714 et 27 AU
+2 CONC G1729 + deux décès; dates recoupant @I114@ et @I111@. Fiche composite à
+2 CONC scinder/corriger.
+2 CONT - Herminie / Marie Hermine Côté @I415@ : deux décès incompatibles 1895e
+2 CONC t 1933; recoupe @I283@/@I372@.
+2 CONT - Pierre Maxime Filion @I71@ : décès 14 AUG 1819 antérieur à naissance2
+2 CONC 5 AUG 1819; probablement mauvais enfant.
+2 CONT - Marie-Louise Tremblay @I461@ : lieux de naissance concurrents CanadaF
+2 CONC rench / Salem, Massachusetts; vérifier les sources.
+2 CONT - Alfred Clarke @I460@ : ABT 1893 et VERS 1903 : estimationscontradicto
+2 CONC ires, pas un doublon exact.
+1 STAT NEW
+1 PRTY 1
+0 @T67@ _TASK
+1 DESC [AUDIT P2] Vérifier les faux doublons potentiels avant toute fusion
+1 TYPE 0
+1 NOTE Ne pas fusionner automatiquement les cas suivants :
+2 CONT - Marie Olive Filion @I129@ partage la naissance 3 DEC 1827 et les même
+2 CONC sparents qu'Eulalie Eudalie Filion @I64@/@I124@; vérifier s'il s'agitd'
+2 CONC un nom alternatif ou d'une sœur jumelle.
+2 CONT - Etienne Gadois @I183@ partage la naissance 17 NOV 1631 et les mêmespa
+2 CONC rents que @I177@/@I180@, mais son décès est 1632; vérifier les actes.
+2 CONT - Bertha Labelle @I407@ partage nom/conjoint avec la Bertha née en 1911
+2 CONC mais a ABT 1881 et une filiation différente; fiche possiblementcontamin
+2 CONC ée.
+2 CONT - Angelina Prudhomme @I393@ et Bertha Prudhomme @I397@ partagent parerr
+2 CONC eur un fait de naissance 28 MAR 1881 mais ont aussi des datesdistinctes
+2 CONC ; probablement un fait mal attribué, pas un doublon depersonnes.
+1 STAT NEW
+1 PRTY 1
+0 @T68@ _TASK
+1 DESC [AUDIT P1] Rattacher les sources orphelines aux faits
+1 TYPE 0
+1 NOTE Le GEDCOM actuel contient 14 sources sans citation SOUR vers elles.Prio
+2 CONC rité aux sources récentes de Cecil Thomas Gee, aux deux articles depres
+2 CONC se de 1958 et au dossier militaire de Joseph Odina Seynnet. Vérifierla l
+2 CONC iste des sources et rattacher chaque source aux faits appropriésavant d
+2 CONC e supprimer une source. Repères :
+2 CONT - @S79@ à @S89@ : ensemble des sources récentes importées pour CecilTho
+2 CONC mas Gee et la presse 1958 (à vérifier individuellement dans la listedes s
+2 CONC ources).
+2 CONT - @S94@ : source militaire récente de Joseph Odina Seynnet.
+1 STAT NEW
+1 PRTY 1
+0 @T69@ _TASK
+1 DESC [AUDIT FINAL] Vérifier l'arbre après dédoublonnage
+1 TYPE 0
+1 NOTE Après toutes les fusions : lancer de nouveau Duplicate Search Merge;vér
+2 CONC ifier le nombre d'individus/familles; contrôler les liensparents-enfant
+2 CONC s et conjoints; rechercher les mariages d'une personneavec elle-même; v
+2 CONC érifier les faits impossibles (décès avant naissance);contrôler Alfred C
+2 CONC larke, Cecil Thomas Gee et Joseph Odina Seynnet;confirmer que les notes
+2 CONC , citations et médias ont survécu. Exporterensuite un nouveau GEDCOM ma
+2 CONC ître pour un second audit.
+1 STAT NEW
+1 PRTY 1
+0 @T99@ _TASK
+1 DESC [CECIL] Identifier Alfred Lalonde, témoin de la sépulture de 1969
+1 TYPE 0
+1 NOTE Le registre de Saint-Eugène nomme Alfred Lalonde comme témoin à lasépul
+2 CONC ture de Cecil Thomas Gee le 13 AUG 1969. Aucun Alfred Lalondeidentifiab
+2 CONC le n'a été trouvé dans Steve Prud'Homme 8.ged. Rechercher sonidentité e
+2 CONC t son lien éventuel avec Cecil avant de créer une nouvellepersonne.
+1 STAT NEW
+1 PRTY 1
+0 @T100@ _TASK
+1 DESC [CECIL] Identifier les enfants du premier ménage encore absents de l'arbre
+1 TYPE 0
+1 NOTE Le formulaire familial du 25 JUL 1942 nomme Raymond (12), James (4),Eli
+2 CONC ane (11), Lorraine (9) et Dianora (7); le relevé du 15 AUG 1942ajoute J
+2 CONC oseph Delphis Gerald. Diane Gee, née 9 MAY 1935, est trèsprobablement l
+2 CONC a « Dianora » âgée de 7 ans, mais les autres enfants nepeuvent pas être r
+2 CONC eliés sans risque à d'éventuelles fiches Livinganonymisées. Rechercher a
+2 CONC ctes de naissance/baptême et décès avantcréation.
+1 STAT NEW
+1 PRTY 1
+0 @T101@ _TASK
+1 DESC [CECIL] Vérifier le service Permanent Force / Princess Patricia avant 1942
+1 TYPE 0
+1 NOTE Les documents se contredisent: attestation/résumé = R.C.E. PermanentFor
+2 CONC ce 1920-1922; rapport psychiatrique = Princess Patricia's à partir de19
+2 CONC 19 pour deux ans; autre entrevue = environ trois ans de PermanentForce, P
+2 CONC rincess Pat, Winnipeg. Rechercher un dossier de servicePermanent Force i
+2 CONC ndépendant avant de normaliser l'unité et les dates.
+1 STAT NEW
+1 PRTY 1
+0 @T102@ _TASK
+1 DESC [CECIL P1] Créer la source maîtresse A-2025-05955 sans dupliquer PRA-2022-07220
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Créer une nouvelle source d'archives pour la divulgation BACA-2025-0595
+2 CONC 5 du 30 MAR 2026, comprenant la lettre d'accompagnement etle dossier de 1
+2 CONC 11 pages. Ne pas remplacer ni dupliquer la sourcePRA-2022-07220 : les d
+2 CONC eux demandes sont des communicationsarchivistiques distinctes. Dans les c
+2 CONC itations de faits déjà présents,ajouter A-2025-05955 seulement lorsqu'e
+2 CONC lle apporte une page précise ouune preuve supplémentaire.
+2 CONT Fichiers : A-2025-05955 Lettre.pdf; A-2025-05955 Documents.pdf.
+2 CONT Référence : lettre p.1-2; dossier p.1-111.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T103@ _TASK
+1 DESC [CECIL P1] Cartographier les 111 pages avant toute nouvelle importation de faits
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Établir un index page par page des 111 pages : attestation, service,dis
+2 CONC cipline, médical, dentaire, solde, distinctions, correspondance,libérat
+2 CONC ion, etc. Pour chaque page, indiquer si l'information est déjàprésente d
+2 CONC ans la fiche Cecil et si elle doit être COMPLÉTÉE,REMPLACÉE, AJOUTÉE ou s
+2 CONC implement CITÉE. Cette étape doit précéder toutGEDCOM de faits afin d'é
+2 CONC viter les doublons créés par les importsantérieurs.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T104@ _TASK
+1 DESC [CECIL P1] Restaurer les dates militaires exactes au lieu des années seules
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT La fiche actuelle contient de nombreux événements réduits à 1942, 1943o
+2 CONC u 1944. Reprendre les dates complètes du dossier A-2025-05955 etmodifie
+2 CONC r les faits existants au lieu d'en créer de nouveaux :enrôlement, prise
+2 CONC s sur l'effectif, transferts, cours, nominations,congés, AWL, détention
+2 CONC s, réaffectations, cour martiale et libération.Utiliser le format GEDCO
+2 CONC M DD MMM YYYY.
+2 CONT Pages prioritaires : 5, 8-11, 23-26, 37-38, 67-70, 77-83.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T105@ _TASK
+1 DESC [CECIL P1] Réconcilier l'attestation de 1942 avec les faits déjà présents
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Comparer l'attestation complète avec les faits actuels. Vérifier etdocu
+2 CONC menter : date d'enrôlement 25 JUL 1942, Montréal-Sud, naissance 22MAR 1
+2 CONC 903, lieu déclaré Ottawa, adresse 2486 Masson St., citoyennetécanadienn
+2 CONC e, religion catholique romaine, métier de peintre, étatmatrimonial et é
+2 CONC pouse Laurette/Lorette Gee née Laniel. Ne pas créer unsecond fait si la d
+2 CONC onnée existe déjà; compléter la date, la note et lacitation.
+2 CONT Pages : 4-6, 16-18, 29, 33, 86.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T106@ _TASK
+1 DESC [CECIL P2] Transcrire l'historique scolaire et professionnel complet
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Extraire les formulaires d'histoire professionnelle et d'entrevue :scol
+2 CONC arité, niveau atteint, école, expérience sur la ferme, peintre,briquete
+2 CONC ur, maçon de béton, entrepreneur, nombre d'annéesd'expérience, employés
+2 CONC , compétences manuelles et artistiques. Compareravec l'OCCU actuel « Pa
+2 CONC inter; bricklayer; concrete mason; smallcontractor » et compléter en no
+2 CONC tes/faits structurés sans répéter lamême occupation.
+2 CONT Pages : 12-16.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T107@ _TASK
+1 DESC [CECIL P1] Réconcilier la composition familiale de 1942
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Transcrire exactement les renseignements sur l'épouse et les enfantsau m
+2 CONC oment de l'enrôlement : noms, âges, nombre de garçons/filles etadresse. C
+2 CONC omparer avec les enfants déjà présents dans l'arbre avant decréer toute n
+2 CONC ouvelle personne. Le fils né le 15 AUG 1942 est déjàreprésenté comme év
+2 CONC énement militaire : ne pas le dupliquer; seulementpréciser la relation s
+2 CONC i la fiche de l'enfant existe.
+2 CONT Pages : 17-18 et autres formulaires familiaux.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T108@ _TASK
+1 DESC [CECIL P1] Reconstituer la chronologie de service unité par unité
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Reconstituer dans l'ordre toutes les affectations : No. 4 DistrictDepot
+2 CONC , Training Centre 41/Huntingdon, Infantry Reinforcement, Home WarEstabl
+2 CONC ishment, C.I.T.C. A-12 Farnham, No. 5 Special EmploymentCompany/Westmou
+2 CONC nt Barracks, retour au dépôt et libération. Associerchaque date, lieu, r
+2 CONC ang et ordre de routine. Modifier les événementsdéjà présents plutôt qu
+2 CONC e créer des doublons.
+2 CONT Pages : 5, 8-11, 23-26, 37-38.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T109@ _TASK
+1 DESC [CECIL P1] Distinguer chaque absence sans congé et chaque peine
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Créer un tableau de contrôle des AWL/AWOL avec date de début, date dere
+2 CONC tour, peine, jours de détention/confinement et jours de soldeperdus. La f
+2 CONC iche actuelle contient plusieurs événements distincts de1943 qui NE DOI
+2 CONC VENT PAS être fusionnés simplement parce que RootsMagicn'affiche que l'
+2 CONC année. Remplacer les années seules par les datescomplètes, puis vérifie
+2 CONC r qu'il reste une seule occurrence de chaqueincident.
+2 CONT Pages : 8-11, 23-26, 37-38.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T110@ _TASK
+1 DESC [CECIL P1] Documenter précisément la cour martiale et l'acquittement
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Compléter l'événement existant « Cour martiale de district -acquittemen
+2 CONC t » avec les dates exactes de l'infraction alléguée, del'arrestation et d
+2 CONC u procès, le lieu de Montréal, la charge et leverdict NOT GUILTY/ACQUIT
+2 CONC TED. Ne jamais présenter l'accusation commeun fait établi.
+2 CONT Page principale : 77; recouper avec 10-11 et 25-26.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T111@ _TASK
+1 DESC [CECIL P1] Transcrire le dossier médical complet avec contexte historique
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Extraire les antécédents, symptômes, examens, diagnostic depsychonévros
+2 CONC e/anxiété, observations des médecins, catégories médicaleset recommanda
+2 CONC tions. Présenter les termes comme évaluations médicaleshistoriques de 1
+2 CONC 943-1944, sans diagnostic moderne rétrospectif. Relieraux faits existan
+2 CONC ts « Réévaluation médicale / catégorie C-1 » et «Évaluation militaire / r
+2 CONC ecommandation de libération » au lieu de lesdoubler.
+2 CONT Pages : 29-36, 48-51, 86-93.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T112@ _TASK
+1 DESC [CECIL P2] Extraire les antécédents médicaux et opérations antérieures
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Transcrire séparément les maladies infantiles et antécédents citésdans l
+2 CONC e Medical History : rougeole, oreillons, scarlatine, diphtérie,troubles n
+2 CONC erveux/digestifs, amygdalectomie et autres élémentsréellement lisibles. N
+2 CONC 'ajouter que les renseignements explicitementinscrits; marquer toute le
+2 CONC cture manuscrite incertaine comme probable.
+2 CONT Pages : 29-36, 86-93.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T113@ _TASK
+1 DESC [CECIL P2] Intégrer l'examen radiologique thoracique de libération
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Documenter l'examen radiologique du thorax associé à la libération etsa c
+2 CONC onclusion telle qu'inscrite. Ajouter un seul événement médical ouune no
+2 CONC te de libération, selon la structure déjà présente. Ne pastransformer l
+2 CONC 'absence d'anomalie radiologique en diagnostic général.
+2 CONT Pages : 27-28 et duplicata 88-89.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T114@ _TASK
+1 DESC [CECIL P3] Résumer le dossier dentaire sans créer des dizaines de faits
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Transcrire les données dentaires utiles : état initial,extractions/trai
+2 CONC tements, prothèses/dentures, dates de clinique etmention « no treatment r
+2 CONC equired » lorsqu'elle apparaît. Préférer unenote médicale structurée av
+2 CONC ec chronologie et pages plutôt qu'unévénement par dent, sauf si une don
+2 CONC née présente une valeurgénéalogique particulière.
+2 CONT Pages : 40-47.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T115@ _TASK
+1 DESC [CECIL P1] Vérifier et intégrer les distinctions réellement attribuées
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT La fiche actuelle contient « Médailles - admissibilité à vérifier ».Le n
+2 CONC ouveau dossier comporte une fiche d'Awards et des pièces de WarService B
+2 CONC adge. Vérifier puis remplacer l'ancien statut d'admissibilitépar les di
+2 CONC stinctions effectivement documentées : CVSM, War Medal1939-45 et War Se
+2 CONC rvice Badge General Service Class no 08265, seulementsi les pièces conf
+2 CONC irment clairement l'attribution. Conserver le guidedes distinctions com
+2 CONC me source de terminologie, pas comme preuved'attribution.
+2 CONT Pages : 19, 56, 78-79; guide portdesdistinctions.pdf.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T116@ _TASK
+1 DESC [CECIL P2] Normaliser les noms de médailles et insignes
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Utiliser Reference Documents Army French.pdf etportdesdistinctions.pdf p
+2 CONC our normaliser les appellations françaises,distinguer médaille, décorat
+2 CONC ion, insigne et ruban, et éviter deconfondre admissibilité, attribution e
+2 CONC t réception physique. Ne citerces guides que comme références de contex
+2 CONC te/terminologie; la preuvepersonnelle doit venir du dossier A-2025-0595
+2 CONC 5.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T117@ _TASK
+1 DESC [CECIL P2] Déchiffrer systématiquement les abréviations militaires
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Passer les relevés de service, feuilles de paye et notes de disciplinea
+2 CONC u guide Reference Documents Army French.pdf : AWL/AWOL, TOS, SOS, DD,HW
+2 CONC E, CITC, SEC/SEP, Cpl, Pte, etc. Pour chaque développementd'abréviation
+2 CONC , conserver le libellé original dans la note et la formedéveloppée en f
+2 CONC rançais. Ne pas inventer de sens lorsque plusieursdéveloppements sont p
+2 CONC ossibles.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T118@ _TASK
+1 DESC [CECIL P2] Intégrer la solde, allocations et War Service Gratuity
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Extraire les éléments généalogiquement utiles des certificats de soldee
+2 CONC t de la War Service Gratuity : assigned pay, dependants' allowance,mont
+2 CONC ant de gratification, retenues/débits, adresse utilisée et dates.Éviter d
+2 CONC e créer un événement pour chaque écriture comptable; utiliserun ou quel
+2 CONC ques faits financiers structurés avec note détaillée etcitations de pag
+2 CONC es.
+2 CONT Pages : 39, 59-75.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T119@ _TASK
+1 DESC [CECIL P2] Exploiter les adresses datées sans créer de résidences en double
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Recenser toutes les adresses datées du dossier : 2486 Masson St.pendant l
+2 CONC e service, Box 377/Huntingdon dans la correspondanced'après-guerre, adr
+2 CONC esse ultérieure de Montréal indiquée sur la fiched'Awards/records et to
+2 CONC ute autre adresse lisible. Avant d'ajouter uneRESI, comparer aux réside
+2 CONC nces déjà présentes; utiliser les dates dudocument et ne pas inférer qu
+2 CONC 'il y résidait en dehors de cettepériode.
+2 CONT Pages : 4, 17, 19, 27, 29, 57-58, 75-79, 97-108.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T120@ _TASK
+1 DESC [CECIL P1] Transcrire et intégrer la correspondance personnelle de 1943
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Transcrire les lettres de Cecil demandant sa libération et les lettresd
+2 CONC e soutien de médecins/tiers. Extraire les renseignements sur l'étatde s
+2 CONC anté de son épouse, les enfants, la garde du foyer, le travailcivil ant
+2 CONC érieur et ses motifs de demande de libération. Classer cesinformations c
+2 CONC omme déclarations/correspondance, pas comme faitsindépendamment prouvés
+2 CONC .
+2 CONT Pages : 94-108, particulièrement 97-108.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T121@ _TASK
+1 DESC [CECIL P2] Déchiffrer les notes manuscrites du dossier A-2025-05955
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Effectuer un second passage paléographique uniquement sur lesannotation
+2 CONC s manuscrites et lettres : pages 34-36, 37-38, 43-46, 48,76, 94, 97-102
+2 CONC , 104, 106, 108-109. Classer chaque lecture CERTAINE /PROBABLE / INCERT
+2 CONC AINE. N'intégrer comme faits que les lecturescertaines; conserver les a
+2 CONC utres comme notes de recherche.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T122@ _TASK
+1 DESC [CECIL P1] Compléter la libération du 18 MAR 1944
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT La fiche actuelle contient seulement l'année 1944. Compléterl'événement d
+2 CONC e libération avec 18 MAR 1944, Montréal-Sud, rangPrivate, motif officie
+2 CONC l « services being no longer required »/RoutineOrder 1029, durée de ser
+2 CONC vice et détails du certificat. Vérifier ladescription physique de libér
+2 CONC ation et l'adresse. Ne pas créer undeuxième événement de libération.
+2 CONT Pages : 2, 21-22, 79-84.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T123@ _TASK
+1 DESC [CECIL P1] Résoudre le décès et la sépulture avec le certificat paroissial
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT La fiche actuelle contient un décès sans date à « Hopital général »,un s
+2 CONC econd DEAT vide et un BURI vide. Utiliser l'extrait du registre deSaint
+2 CONC -Eugène pour fixer le décès au 10 AUG 1969 et la sépulture au 13AUG 196
+2 CONC 9. Ne pas attribuer un lieu de décès que le certificat ne donnepas. Con
+2 CONC server/retirer les anciens faits uniquement après avoirfusionné leurs é
+2 CONC ventuelles notes ou citations.
+2 CONT Source : Cert.sépulture Cecil Thomas Gee.doc, entrée S-10 p.120 duregis
+2 CONC tre 1969.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T124@ _TASK
+1 DESC [CECIL P1] Documenter les témoins de sépulture sans créer de personnes en double
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Le certificat de sépulture nomme Bernard McCann, Alfred Lalonde etGordo
+2 CONC n Gee comme témoins. Chercher d'abord ces personnes dans StevePrud'Homm
+2 CONC e 7.ged par nom, dates, relations et UID. Lier commetémoins/associés se
+2 CONC ulement si l'identification est solide. Si unepersonne n'est pas déjà d
+2 CONC ans l'arbre, ne pas la créer automatiquement: produire d'abord une tâch
+2 CONC e de recherche d'identité.
+2 CONT Source : Cert.sépulture Cecil Thomas Gee.doc.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T125@ _TASK
+1 DESC [CECIL P1] Traiter la mention de Lorette Laniel sur la sépulture comme preuve distincte
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Le registre de sépulture de 1969 donne Cecil comme époux de LoretteLani
+2 CONC el. Conserver cette mention comme information du registre. Lacomparer a
+2 CONC u premier mariage, au second mariage de 1951 et au dossierde bigamie de 1
+2 CONC 958. Ne pas en déduire automatiquement que le premiermariage avait juri
+2 CONC diquement repris ou que le second était annulé;créer une note de contra
+2 CONC diction/source.
+2 CONT Source : Cert.sépulture Cecil Thomas Gee.doc.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T126@ _TASK
+1 DESC [CECIL P2] Réconcilier le nombre d'enfants entre armée, presse et correspondance
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Comparer systématiquement : formulaire familial de 1942, naissance dufi
+2 CONC ls le 15 AUG 1942, lettres de 1943 et articles de 1958 indiquant 13enfa
+2 CONC nts avec répartition contradictoire 6/7 ou 7/6. Construire unematrice e
+2 CONC nfants × mère × source × date. Ne créer ou déplacer aucunenfant sans co
+2 CONC nvergence d'au moins une source nominative et une sourcede relation.
+2 CONT Pages militaires : 12-18, 97-108; sources presse 1958 déjà dansl'arbre.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T127@ _TASK
+1 DESC [CECIL P2] Revoir le service antérieur Permanent Force / R.C.E.
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Le dossier et la correspondance contiennent des déclarations sur unserv
+2 CONC ice antérieur vers 1920-1922/1923, R.C.E., et des mentions dePrincess P
+2 CONC atricia/Winnipeg. Comparer toutes les versions. Conservercomme service d
+2 CONC éclaré tant qu'aucun dossier indépendant n'estidentifié; ne pas convert
+2 CONC ir les souvenirs de Cecil en affectationscertaines sans preuve.
+2 CONT Pages : attestation/histoire professionnelle et lettres 97-102.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T128@ _TASK
+1 DESC [CECIL P2] Extraire les noms d'associés, médecins et officiers comme réseau de preuve
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Relever les noms clairement lisibles de médecins, officiers, curéFernan
+2 CONC d Larocque, Dr Edmond Sansregret et autres correspondants. Lesconserver d
+2 CONC ans les notes/citations comme témoins ou auteurs. Ne créerune nouvelle p
+2 CONC ersonne généalogique que si elle a un lien familialdémontré ou une rais
+2 CONC on de recherche distincte.
+2 CONT Pages : 29-36, 48-51, 94-108.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T129@ _TASK
+1 DESC [CECIL P1] Attacher les médias aux bonnes sources plutôt qu'à tous les faits
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Lors de l'intégration future, joindre A-2025-05955 Documents.pdf etA-20
+2 CONC 25-05955 Lettre.pdf à leur source maîtresse, le certificat desépulture à s
+2 CONC a source paroissiale, et les guides aux sources deréférence. Éviter d'a
+2 CONC ttacher le même PDF à des dizaines de faits.Chaque fait doit plutôt avo
+2 CONC ir une citation de source avec PAGEprécise.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T130@ _TASK
+1 DESC [CECIL FINAL] Audit anti-doublons après intégration des nouveaux documents
+1 TYPE 0
+1 NOTE Cecil Thomas Gee — REFN D-129695 — UID31F72AFDE3484CE0BCBC9F5BF3D0A37CF
+2 CONC AC5
+2 CONT Après intégration : vérifier qu'il ne reste qu'un fait par événementrée
+2 CONC l; que les AWL distincts sont conservés; que les dates complètesont rem
+2 CONC placé les années seules sans créer de nouvelles occurrences;que le décè
+2 CONC s 10 AUG 1969 et la sépulture 13 AUG 1969 sont uniques; queles distinct
+2 CONC ions sont séparées de la simple admissibilité; que toutesles citations p
+2 CONC ointent vers la bonne source/page. Exporter ensuite unnouveau GEDCOM et r
+2 CONC efaire un audit automatique des doublons.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T148@ _TASK
+1 DESC [ALFRED P1] Obtenir la ligne complète du recensement canadien de 1931
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Retrouver le ménage Alfred Clark/Clarke et Mary-Louise ClarkàSaint-Bern
+2 CONC ard-de-Lacolle dans le recensement canadien de 1931etconsulter l'image o
+2 CONC riginale de la ligne, pas seulementl'indexsecondaire. Relever mot à mot : â
+2 CONC ge, date/année de naissance,lieu denaissance, origine, religion, citoye
+2 CONC nneté, année d'immigration,langue,occupation, employeur/industrie, reve
+2 CONC nu si présent,adresse/localité,statut matrimonial et tous les membres d
+2 CONC u ménage.Comparer chaque champà l'arbre avant de créer ou modifier un f
+2 CONC ait.Cette tâche est lapriorité absolue, car l'année d'immigration et le
+2 CONC lieu de naissancedoivent guider les recherches suivantes.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — PROBABLE / ORIGINAL NON OBTENU.
+2 CONT L'index secondaire MesAieux identifie explicitement un ménage « AlfredC
+2 CONC lark & Mary-Louise Clark » au recensement de 1931 à Saint-Bernard deLac
+2 CONC olle (Paroisse), Québec. Cette concordance du couple et du lieurend l'i
+2 CONC dentification très probable. Bibliothèque et Archives Canadaconfirme qu
+2 CONC e les images numérisées du recensement de 1931 sontconsultables dans Ce
+2 CONC nsus Search. L'environnement de recherche n'atoutefois pas permis d'ouv
+2 CONC rir la ligne originale BAC; aucun âge, lieude naissance, année d'immigr
+2 CONC ation, profession ou autre colonne n'estdonc inféré. Aucun événement RE
+2 CONC SI définitif n'est créé; un événementde recherche « Recensement 1931 — i
+2 CONC ndex secondaire » est ajouté commePROBABLE.
+2 CONT Sources : MesAieux Alfred Clark; BAC Recensement de 1931.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T149@ _TASK
+1 DESC [ALFRED P1] Obtenir et transcrire l'acte original du mariage du 15 MAR 1923
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Obtenir l'image complète de l'acte de mariage d'Alfred ClarkeetLouise/M
+2 CONC arie-Louise Tremblay, célébré le 15 MAR 1923àSainte-Clotilde-de-Château
+2 CONC guay. Transcrire intégralement les noms,âges,lieux de naissance/résiden
+2 CONC ce, professions, état matrimonial,parents,témoins, signatures et toute d
+2 CONC ispense ou annotation. Vérifiersi l'âgede 30 ans provient bien de l'act
+2 CONC e original. Ne modifier lanaissance ABT1893 qu'après comparaison avec l
+2 CONC e document complet.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — TRÈS PROBABLE / TRANSCRIPTION DE REGISTRE,IMAGE O
+2 CONC RIGINALE NON OBTENUE.
+2 CONT NosOrigines, fiche Alfred Clarke ID 1783231, donne Alfred âgé de 30ans e
+2 CONC t Louise Tremblay âgée de 22 ans, mariage le 15 MAR 1923 àChâteauguay, S
+2 CONC te-Clothilde, Québec, avec la mention « Source: Aurégistre, M-2 ». Les p
+2 CONC arents d'Alfred y sont indiqués inconnus. Cettetranscription confirme f
+2 CONC ortement la date exacte du mariage et soutientune naissance vers 1892-1
+2 CONC 893, mais l'image originale de l'acte n'a pasété obtenue dans cette ses
+2 CONC sion. Le GEDCOM n'ajoute donc pas de nouveaumariage qui doublerait F131 e
+2 CONC t ne remplace pas ABT 1893 par une dateexacte.
+2 CONT Source : NosOrigines Alfred Clarke ID 1783231.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T150@ _TASK
+1 DESC [ALFRED P1] Rechercher Alfred Clark/Clarke au recensement canadien de 1921
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Rechercher Alfred avant son mariage dans le recensement de 1921enutilis
+2 CONC ant les variantes Clark, Clarke et éventuellement deserreursphonétiques
+2 CONC . Prioriser Québec, Montréal, Châteauguay,Huntingdon,Lacolle et les sec
+2 CONC teurs liés à Sainte-Clotilde. Chercher unhomme névers 1892-1894, possib
+2 CONC lement britannique, célibataire etimmigré.Relever l'année d'immigration
+2 CONC , la citoyenneté, l'occupation,la religionet les personnes du ménage. N
+2 CONC e rattacher un candidat qu'enprésence deplusieurs concordances indépend
+2 CONC antes.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — NÉGATIF / INCONCLUANT.
+2 CONT Le recensement canadien de 1921 et les variantes Clark/Clarke ont étére
+2 CONC cherchés dans les résultats web accessibles, en privilégiantQuébec/Mont
+2 CONC réal/Châteauguay/Huntingdon/Lacolle et un homme né vers1892-1894. Aucun c
+2 CONC andidat ne réunit assez de critères pour êtrerattaché à notre Alfred sa
+2 CONC ns risque d'homonymie. Aucun fait n'estajouté.
+2 CONT Source : BAC Recensement de 1921.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T151@ _TASK
+1 DESC [ALFRED P1] Rechercher son arrivée au Canada dans les listes de passagers
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Après avoir obtenu l'année d'immigration du recensement de 1931 oud'une
+2 CONC autre source solide, rechercher Alfred Clark/Clarke dans leslistes depa
+2 CONC ssagers vers le Canada. Tester les départs de Liverpool etautresports b
+2 CONC ritanniques ainsi que les arrivées à Québec, Montréal,Halifax,Saint Joh
+2 CONC n et ports connexes. Comparer âge, profession,destination,organisme acc
+2 CONC ompagnateur, contact au Royaume-Uni etcontact au Canada.Conserver tous l
+2 CONC es candidats sérieux dans une tablede preuve; nechoisir aucun dossier s
+2 CONC ur le seul nom.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — INCONCLUANT.
+2 CONT Les listes de passagers canadiennes 1865-1935 de BAC ont été vérifiéesc
+2 CONC omme collection cible et des recherches Clark/Clarke ont étéeffectuées. A
+2 CONC ucun passager ne peut être identifié avec certitude commel'époux de Mar
+2 CONC ie-Louise Tremblay. L'année d'immigration demeure lechaînon manquant; l
+2 CONC a ligne originale du recensement de 1931 reste doncessentielle. Aucun n
+2 CONC avire, port ou année d'arrivée n'est ajouté.
+2 CONT Source : BAC Passenger lists 1865 to 1935.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T152@ _TASK
+1 DESC [ALFRED P1] Rechercher Alfred dans les dossiers British Home Children de BAC
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Tester systématiquement la tradition familiale voulant qu'Alfred aitété
+2 CONC un « orphelin de Liverpool ». Rechercher dans les bases et dossiersdeBi
+2 CONC bliothèque et Archives Canada relatifs aux British Home Children,ycompr
+2 CONC is les variantes Clark/Clarke et les âges compatibles avecunenaissance v
+2 CONC ers 1893. Examiner les groupes envoyés par desorganismes deLiverpool. P
+2 CONC our tout candidat, relever date d'arrivée,navire,organisme, destination c
+2 CONC anadienne, employeur/foyer d'accueil,âge etlieu d'origine.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — AUCUNE IDENTIFICATION CERTAINE.
+2 CONT La collection Home Children de BAC et le registre des enfantsbritanniqu
+2 CONC es envoyés au Canada par les Boards of Guardians(RG76-C-4-a, microfilm T
+2 CONC -537) ont été examinés comme sources. BACindique que ce registre couvre p
+2 CONC rincipalement des arrivées de la findes années 1880 à 1916 et peut donn
+2 CONC er nom, année d'arrivée, âge, Unionet organisme parrain. Aucun Alfred C
+2 CONC lark/Clarke n'a pu être relié defaçon sûre à notre Alfred avec les donn
+2 CONC ées actuellement connues. Latradition familiale « orphelin de Liverpool » d
+2 CONC emeure donc une piste,pas un fait.
+2 CONT Sources : BAC Home Children; BAC RG76-C-4-a / T-537.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T153@ _TASK
+1 DESC [ALFRED P1] Rechercher dans les organismes et foyers d'enfants de Liverpool
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Explorer les fonds liés à Nugent Care / Catholic LiverpoolAgencies,Fath
+2 CONC er Berry's Home, West Derby Union, Liverpool ShelteringHome/LouisaBirt e
+2 CONC t autres institutions pouvant avoir envoyé desenfants au Canada.Cherche
+2 CONC r Alfred Clark/Clarke né vers 1892-1894 etdocumenter admissions,sorties
+2 CONC , placements, parents ou responsables,adresses antérieures etdestinatio
+2 CONC n au Canada. La tradition « orphelin» ne doit pas êtreinterprétée comme p
+2 CONC reuve que les deux parentsétaient décédés.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — PISTE DOCUMENTAIRE IDENTIFIÉE, PERSONNE NONIDEN
+2 CONC TIFIÉE.
+2 CONT BAC confirme l'existence de documents provenant notamment de FatherBerr
+2 CONC y's Home, Nugent Care and other Catholic Liverpool Agencies etWest Derb
+2 CONC y Union. Le Nugent Archive (Archives Hub) et la collectionFindmypast « L
+2 CONC ancashire, Liverpool Children Sent To Canada, 1883-1925» ont également é
+2 CONC té identifiés comme sources pertinentes. Aucundossier accessible n'étab
+2 CONC lit encore qu'Alfred Clarke y figure. Le mot« orphelin » n'est pas conv
+2 CONC erti en statut parental.
+2 CONT Sources : BAC Home Children; Archives Hub Nugent Archive; FindmypastLiv
+2 CONC erpool Children Sent to Canada.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T154@ _TASK
+1 DESC [ALFRED P2] Rechercher les recensements britanniques de 1901 et 1911
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT À partir des indices obtenus par les listes de passagers oudossiersinst
+2 CONC itutionnels, rechercher Alfred Clark/Clarke dans lesrecensementsd'Angle
+2 CONC terre de 1901 et 1911. PrioriserLiverpool/Lancashire,Hastings/East Suss
+2 CONC ex et toute localité révéléepar les documentscanadiens. Relever ménage, s
+2 CONC tatut d'enfantplacé/institutionnalisé, lieude naissance exact, âge, par
+2 CONC ents ouresponsables et profession. Évitertoute fusion de candidat basée
+2 CONC uniquement sur le prénom et l'année denaissance.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — NÉGATIF / HOMONYMIE TROP FORTE.
+2 CONT Les recensements britanniques de 1901 et 1911 ont été ciblés avec lesva
+2 CONC riantes Alfred Clark/Clarke, Hastings/East Sussex etLiverpool/Lancashir
+2 CONC e. Aucun ménage n'a pu être relié à l'Alfred mariéau Québec en 1923 par u
+2 CONC ne chaîne continue de preuves. Aucun parentbritannique n'est ajouté.
+2 CONT Sources : The National Archives (UK), guide des recensements;recherches i
+2 CONC ndexées web.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T155@ _TASK
+1 DESC [ALFRED P2] Tester la piste Hastings du 26 FEB 1893 avec des sources primaires
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Vérifier l'hypothèse publique selon laquelle Alfred Clarke serait néle2
+2 CONC 6 FEB 1893 à Hastings, East Sussex. Rechercher l'enregistrementcivilde n
+2 CONC aissance, un baptême éventuel et les recensementscorrespondant àcet Alf
+2 CONC red. Identifier ses parents et suivre cecandidat jusqu'àl'adolescence. C
+2 CONC omparer ensuite ces renseignements auxdocumentscanadiens : date/lieu de n
+2 CONC aissance, année d'immigration,profession,religion et éventuels contacts f
+2 CONC amiliaux. Ne pas attribuerles parentsde Hastings à Alfred canadien sans c
+2 CONC haîne de preuvecontinue.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — HYPOTHÈSE NON CONFIRMÉE.
+2 CONT L'arbre public Geneanet de Henry Tardif donne Alfred Clarke né le 26FEB 1
+2 CONC 893 et décédé en NOV 1972 à Hastings, Angleterre, marié le 15 MAR1923 à M
+2 CONC arie-Louise Tremblay. Les outils officiels du General RegisterOffice et F
+2 CONC reeBMD ont été identifiés et recherchés, mais aucune entréeprimaire pub
+2 CONC liquement accessible n'a été trouvée permettant derattacher sans ambigu
+2 CONC ïté une naissance Hastings de 1893 à l'époux deMarie-Louise. La date 26 F
+2 CONC EB 1893 reste une HYPOTHÈSE et n'est pasajoutée comme BIRT.
+2 CONT Sources : Geneanet tardifhe; GOV.UK GRO; FreeBMD.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T156@ _TASK
+1 DESC [ALFRED P2] Vérifier un éventuel service militaire pendant la Première Guerre mondiale
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Un homme né vers 1893 aurait été en âge de servir entre 1914 et1918.Rec
+2 CONC hercher Alfred Clark/Clarke dans les dossiers duCorpsexpéditionnaire ca
+2 CONC nadien et, si la piste britannique demeureplausible,dans les dossiers m
+2 CONC ilitaires britanniques disponibles.Comparer date etlieu de naissance, a
+2 CONC dresse, profession, proche parentet éventuelleimmigration. L'absence de d
+2 CONC ossier doit aussi être notéecomme résultatnégatif, sans en tirer de con
+2 CONC clusion excessive.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — AUCUN SERVICE MILITAIRE PROUVÉ; UN HOMONYMEEXCL
+2 CONC U.
+2 CONT La collection BAC des dossiers de la Première Guerre mondiale a étérech
+2 CONC erchée. Un Alfred Clarke bien documenté, matricule 772761, né le22 MAR 1
+2 CONC 888 à Woolwich et mort au combat le 8 AUG 1918, apparaîtnotamment au Mu
+2 CONC sée canadien de la guerre; il est définitivementincompatible avec notre A
+2 CONC lfred, qui se marie en 1923. Aucun autredossier militaire n'a pu être r
+2 CONC attaché avec certitude à notre Alfred.Aucun événement militaire n'est a
+2 CONC jouté.
+2 CONT Sources : BAC Personnel records of the First World War; Musée canadiend
+2 CONC e la guerre, Alfred Clarke 772761.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T157@ _TASK
+1 DESC [ALFRED P2] Rechercher les dossiers de naturalisation ou de citoyenneté
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Si les recensements indiquent qu'Alfred était né àl'étranger,rechercher l
+2 CONC es dossiers de naturalisation/citoyennetécanadienspertinents. Relever d
+2 CONC ate de demande, date d'admission,adresse,profession, pays d'origine, da
+2 CONC te/port d'arrivée et témoins.Cesdocuments pourraient relier directement u
+2 CONC ne arrivée maritime àl'Alfredmarié en 1923.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — AUCUN DOSSIER DE NATURALISATION IDENTIFIÉ.
+2 CONT La collection BAC sur la citoyenneté et la naturalisation a étévérifiée
+2 CONC . BAC précise qu'avant 1947 les personnes britanniques denaissance n'av
+2 CONC aient pas besoin d'être naturalisées et que lanaturalisation n'était pa
+2 CONC s obligatoire; une absence de dossier neserait donc pas anormale si la p
+2 CONC iste anglaise est exacte. Aucun AlfredClarke correspondant au mari de M
+2 CONC arie-Louise n'a été identifié. Aucunfait de naturalisation n'est ajouté
+2 CONC .
+2 CONT Source : BAC Citizenship and naturalization records.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T158@ _TASK
+1 DESC [ALFRED P2] Exploiter les baptêmes et actes de naissance de ses enfants
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Rechercher les actes de naissance/baptême des enfants connus ducoupleAl
+2 CONC fred Clarke × Marie-Louise Tremblay, notamment Marcel (vers1924),Rollan
+2 CONC de (1925), Edgar et Paul. Transcrire profession etrésidenced'Alfred, li
+2 CONC eu d'origine lorsqu'indiqué, parrains/marraineset témoins.Les parrains o
+2 CONC u témoins portant le nom Clarke/Clarkpourraient révélerun frère, une sœ
+2 CONC ur ou un autre parent. Ne pas créerde nouvellespersonnes avant identifi
+2 CONC cation suffisante.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — NOUVEL INDICE FAMILIAL PROBABLE, AUCUNENOUVELLE P
+2 CONC ERSONNE CRÉÉE.
+2 CONT MesAieux indexe en 1924, à La Prairie (Québec), un baptême «Joseph-Alfr
+2 CONC ed-Marcel-Hermenegilde Clarck ». L'arbre secondaireGeneanet attribue au c
+2 CONC ouple Alfred Clarke × Marie-Louise Tremblayquatre enfants : Marcel (192
+2 CONC 4-1995), Rollande Mary Bernadette(1925-1998), Edgar et Paul. La converg
+2 CONC ence rend probable que lebaptême de 1924 concerne Marcel, mais l'acte o
+2 CONC riginal/les parentsn'ont pas été vus. Aucun enfant n'est créé pour évit
+2 CONC er un doublon avecune fiche Living éventuelle.
+2 CONT Sources : MesAieux Alfred Clark; Geneanet tardifhe.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T159@ _TASK
+1 DESC [ALFRED P2] Reconstituer les résidences et professions d'Alfred de 1923 à 1972
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Chercher Alfred dans les annuaires municipaux, listesélectorales,recens
+2 CONC ements et autres sources de résidence entre sonmariage et sondécès. Pri
+2 CONC oriser Sainte-Clotilde,Saint-Bernard-de-Lacolle, Lacolle,Montréal et le
+2 CONC s localités liées auxenfants. Construire une chronologieadresse + profe
+2 CONC ssion + compositiondu ménage. Cette chronologie serviraà distinguer Alf
+2 CONC red d'homonymes età repérer la date d'un éventuelretour au Royaume-Uni s
+2 CONC i la pisteHastings-death est réelle.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — CHRONOLOGIE PARTIELLE SEULEMENT.
+2 CONT Les jalons actuellement corroborés sont : mariage àSainte-Clotilde-de-C
+2 CONC hâteauguay le 15 MAR 1923; baptême probable d'unfils à La Prairie en 19
+2 CONC 24; ménage Alfred/Mary-Louise indexé àSaint-Bernard-de-Lacolle en 1931. L
+2 CONC es recherches web etannuaires/jalons accessibles n'ont pas produit une s
+2 CONC uite fiabled'adresses ou de professions jusqu'en 1972. Aucun métier ni r
+2 CONC ésidencesupplémentaire n'est inventé.
+2 CONT Sources : NosOrigines; MesAieux; BAC Recensement de 1931.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T160@ _TASK
+1 DESC [ALFRED P2] Rechercher journaux, avis familiaux et mentions locales
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Rechercher Alfred Clarke/Clark et Marie-Louise Tremblay danslesjournaux l
+2 CONC ocaux et régionaux : mariages, naissances, accidents,emplois,activités c
+2 CONC ommunautaires, décès de proches, anniversaires demariage etavis funérai
+2 CONC res. Utiliser les variantes Clarke, Clark et lesprénomsAlfred/Joseph Al
+2 CONC fred si nécessaire. Toute mention doit êtrereliée à labonne famille par a
+2 CONC dresse, conjoint ou enfants.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — NÉGATIF / AUCUNE MENTION DE PRESSE NONAMBIGUË.
+2 CONT Des recherches web ciblées Alfred Clarke/Clark + Marie-LouiseTremblay, L
+2 CONC acolle, Châteauguay, Hastings, décès 1972 et noms d'enfantsn'ont donné a
+2 CONC ucun article ou avis familial pouvant être attribué sansambiguïté à ce c
+2 CONC ouple. Les portails BAnQ/archives de journaux restentutiles pour une re
+2 CONC cherche manuelle plus poussée, mais aucun fait depresse n'est ajouté da
+2 CONC ns ce passage.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T161@ _TASK
+1 DESC [ALFRED P1] Établir la date et le lieu exacts du décès d'Alfred en 1972
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT La fiche actuelle contient trois décès 1972 et une hypothèse publiquede
+2 CONC décès en NOV 1972 à Hastings. Rechercher une source primaire ouquasipri
+2 CONC maire : registre de décès, index civil, avis de décès,sépulture,monumen
+2 CONC t, dossier funéraire ou probate. Déterminer si Alfredest décédéau Canad
+2 CONC a ou en Angleterre. Ne remplacer les décès actuelsqu'aprèsidentificatio
+2 CONC n certaine du bon Alfred.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — DÉCÈS 1972 NON RÉSOLU.
+2 CONT L'arbre Geneanet donne NOV 1972 à Hastings, Angleterre, mais aucuneentr
+2 CONC ée primaire de décès, avis funéraire ou registre de sépulturepubliqueme
+2 CONC nt accessible n'a été trouvé pour relier ce décès à l'épouxde Marie-Lou
+2 CONC ise Tremblay. Le GEDCOM conserve donc seulement l'année1972 déjà présen
+2 CONC te; NOV 1972/Hastings demeure HYPOTHÈSE.
+2 CONT Sources : Geneanet tardifhe; GOV.UK GRO; FreeBMD.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T162@ _TASK
+1 DESC [ALFRED P2] Tester spécifiquement l'hypothèse d'un retour à Hastings
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Si un décès d'Alfred Clarke en NOV 1972 à Hastings existe,reconstruirel
+2 CONC a trajectoire de cet homme entre 1923 et 1972. Vérifierconjoint,enfants
+2 CONC , adresse, profession, probate et éventuel retour duCanada versle Royau
+2 CONC me-Uni. Chercher une preuve reliant directement cetAlfred àMarie-Louise T
+2 CONC remblay ou à leurs enfants. Si aucun lien n'esttrouvé,classer la piste H
+2 CONC astings comme probablement distincte plutôtque de laconserver indéfinim
+2 CONC ent comme hypothèse principale.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — HYPOTHÈSE DE RETOUR À HASTINGS NON ÉTABLIE.
+2 CONT Aucun document découvert ne relie Alfred, son épouse Marie-Louise ouses e
+2 CONC nfants à un retour d'Alfred en Angleterre après son établissementau Qué
+2 CONC bec. L'unique chaîne actuellement visible vers Hastings provientde l'ar
+2 CONC bre secondaire Geneanet. Faute d'adresse, voyage, probate oudécès prima
+2 CONC ire, aucun événement d'émigration/retour n'est ajouté.
+2 CONT Source : Geneanet tardifhe; recherches GRO/FreeBMD et web.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T163@ _TASK
+1 DESC [ALFRED P3] Rechercher les dossiers de probate, successions et cimetières
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT Après avoir établi le lieu de décès, recherchertestament,probate/succes
+2 CONC sion, registre funéraire et cimetière. Releverhéritiers,adresse, occupa
+2 CONC tion, exécuteur, conjoint et enfants. Lesnoms deshéritiers sont particu
+2 CONC lièrement utiles pour confirmerl'identité etrésoudre les divergences de d
+2 CONC écès.
+2 CONT
+2 CONT RÉSULTAT DE RECHERCHE — NÉGATIF / AUCUN PROBATE OU CIMETIÈREIDENTIFIÉ.
+2 CONT Les recherches publiques pour un probate, une succession, un cimetièreo
+2 CONC u un avis de décès correspondant à Alfred Clarke, mort supposément en19
+2 CONC 72 à Hastings, n'ont pas livré de résultat identifiable avecMarie-Louis
+2 CONC e ou les enfants. Aucun héritier, exécuteur, cimetière oulieu de sépult
+2 CONC ure n'est ajouté. Le service officiel britannique derecherche des succe
+2 CONC ssions/probate demeure une source à consulter si undécès anglais est co
+2 CONC nfirmé.
+1 STAT COMPLETED
+1 PRTY 3
+0 @T164@ _TASK
+1 DESC [ALFRED FINAL] Construire une matrice de preuve avant d'identifier ses parents
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ —UID0D092DF1901E468BAC310826D2B99
+2 CONC FD5BDDE
+2 CONT À la fin des recherches, créer une matrice comparant chaquecandidatAlfr
+2 CONC ed Clark/Clarke selon : date et lieu de naissance, âge aumariage,année d
+2 CONC 'immigration, religion, occupation, adresse, conjoint,enfants,proches, n
+2 CONC avire, institution éventuelle et décès. Classerchaque élémentcomme SOLI
+2 CONC DE, PROBABLE, HYPOTHÈSE, CONTRADICTION ouTRADITION FAMILIALE.N'ajouter d
+2 CONC es parents biologiques à Alfred dans leGEDCOM principalqu'après converg
+2 CONC ence de plusieurs sourcesindépendantes et résolutiondes contradictions p
+2 CONC rincipales.
+2 CONT
+2 CONT RÉSULTAT FINAL — MATRICE DE PREUVE ÉTABLIE; PARENTS NON IDENTIFIÉS.
+2 CONT SOLIDE/TRÈS PROBABLE : mariage Alfred Clarke (30 ans) × LouiseTremblay (
+2 CONC 22 ans), 15 MAR 1923, Ste-Clothilde, transcription « Aurégistre, M-2 »; c
+2 CONC onjoint Marie-Louise confirmé par plusieurs sources.
+2 CONT PROBABLE : naissance vers 1892-1893 déduite de l'âge au mariage;ménage A
+2 CONC lfred Clark × Mary-Louise Clark à Saint-Bernard-de-Lacolle aurecensemen
+2 CONC t 1931; Marcel comme fils né vers 1924, soutenu par l'indexdu baptême e
+2 CONC t l'arbre secondaire.
+2 CONT HYPOTHÈSE : naissance 26 FEB 1893 à Hastings; décès NOV 1972 àHastings.
+2 CONT TRADITION FAMILIALE : arrivée au Canada par bateau et « orphelin deLive
+2 CONC rpool ».
+2 CONT NÉGATIF/INCONCLUANT : 1921, passagers, Home Children précis,institution
+2 CONC s Liverpool, recensements UK 1901/1911, service militaire,naturalisatio
+2 CONC n, journaux, probate/cimetière.
+2 CONT CONCLUSION : aucune identification des parents biologiques nesatisfait a
+2 CONC ctuellement le seuil de preuve. Aucun parent n'est ajoutéau GEDCOM.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T165@ _TASK
+1 DESC [ALFRED P1] Rechercher Alfred Clarke dans le recensement britannique de 1921
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Rechercher les variantes Alfred Clark et Alfred Clarke dans
+2 CONC lerecensement de 1921 d'Angleterre et du pays de Galles. Prioriser
+2 CONC lescandidats nés vers 1892-1894 à Hastings/East
+2 CONC Sussex,Liverpool/Lancashire ou dans tout lieu révélé par les
+2 CONC recherchescanadiennes. Relever adresse, âge, lieu de naissance,
+2 CONC profession, étatmatrimonial et personnes du ménage. Comparer chaque
+2 CONC candidat à lachronologie canadienne et documenter les candidats
+2 CONC éliminés. Source dedépart : The National Archives, Census records
+2 CONC (1841-1921).
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Le guide officiel des
+2 CONC National Archives confirme que le recensement de 1921 d'Angleterre et du
+2 CONC pays de Galles est accessible en ligne par les partenaires officiels.
+2 CONC Des recherches Web avec Alfred Clark/Clarke, naissance vers 1892-1894,
+2 CONC Hastings/East Sussex et Liverpool/Lancashire n'ont produit aucun
+2 CONC candidat pouvant être relié à l'époux de Marie-Louise Tremblay sans
+2 CONC risque d'homonymie. Aucun fait de résidence britannique n'est ajouté.
+2 CONC Référence :
+2 CONC https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/
+1 STAT COMPLETED
+1 PRTY 1
+0 @T166@ _TASK
+1 DESC [ALFRED P1] Rechercher Alfred Clarke dans le 1939 Register britannique
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Tester l'hypothèse d'un retour en Angleterre en recherchant
+2 CONC AlfredClark/Clarke dans le 1939 Register. Cibler en priorité Hastings et
+2 CONC EastSussex, sans exclure Liverpool/Lancashire. Relever date de
+2 CONC naissancedéclarée, adresse, profession et membres du ménage. Une absence
+2 CONC duregistre ne doit pas être interprétée comme preuve qu'Alfred était
+2 CONC auCanada. Source de départ : The National Archives, 1939 Register.
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Le 1939 Register est bien
+2 CONC la source officielle appropriée pour tester une présence en Angleterre
+2 CONC en 1939. Aucun Alfred Clark/Clarke trouvé dans les résultats Web
+2 CONC accessibles ne peut être relié au couple canadien. Le guide officiel de
+2 CONC demande ciblée indique qu'une recherche réussie peut fournir nom,
+2 CONC adresse, date de naissance, état matrimonial et profession. Aucun fait
+2 CONC n'est ajouté. Références :
+2 CONC https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/1939-register/
+2 CONC ; preuve originale conservée dans
+2 CONC evidence/003_TNA_1939_Register_FOI_Guide_Original/.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T167@ _TASK
+1 DESC [ALFRED P1] Rechercher les départs du Royaume-Uni dans les listes BT27
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Rechercher Alfred Clark/Clarke dans les listes de passagers sortants
+2 CONC duRoyaume-Uni, série BT27, pour la période compatible avec une
+2 CONC immigrationau Canada. Tester les départs de Liverpool et d'autres
+2 CONC portsbritanniques vers Québec, Montréal, Halifax, Saint John, New York
+2 CONC etautres ports nord-américains. Relever navire, date, âge,
+2 CONC profession,dernière adresse au Royaume-Uni et destination. Croiser tout
+2 CONC candidatavec les listes canadiennes d'arrivée. Source : The National
+2 CONC Archives,Outwards Passenger Lists, BT27 (1890-1960).
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Les National Archives
+2 CONC confirment que la série BT27 contient les listes de passagers sortants
+2 CONC 1890-1960 et qu'elles sont consultables via les partenaires de
+2 CONC recherche. Les recherches publiques Alfred Clark/Clarke +
+2 CONC Canada/Québec/Montréal/Liverpool n'ont pas permis d'isoler un passager
+2 CONC compatible. Aucun navire, port ou date d'émigration n'est attribué.
+2 CONC Référence :
+2 CONC https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/passengers/
+1 STAT COMPLETED
+1 PRTY 1
+0 @T168@ _TASK
+1 DESC [ALFRED P1] Rechercher les entrées Canada–États-Unis de 1908 à 1935
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Vérifier si Alfred a pu entrer au Canada par voie terrestre après
+2 CONC unearrivée aux États-Unis. Rechercher Clark/Clarke dans les Border
+2 CONC Entriesde Bibliothèque et Archives Canada, 1908-1935, en tenant compte
+2 CONC desvariantes de nom et des ports frontaliers du Québec, de l'Ontario et
+2 CONC del'est des États-Unis. Pour 1925-1935, exploiter particulièrement
+2 CONC lesindex des noms commençant par C lorsqu'ils sont disponibles.
+2 CONC Releverdate, port, âge, nationalité, profession, destination et contact.
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Bibliothèque et Archives
+2 CONC Canada confirme l'existence des Border entry records 1908-1935 et
+2 CONC précise que les entrées terrestres 1925-1935 pour les noms commençant
+2 CONC par C sont indexées dans Collection Search. Aucun résultat publiquement
+2 CONC accessible ne permet d'identifier notre Alfred avec certitude. Aucune
+2 CONC entrée frontalière n'est ajoutée. Références :
+2 CONC https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration.html
+2 CONC ;
+2 CONC https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/passenger-lists-1865-1935.html
+1 STAT COMPLETED
+1 PRTY 1
+0 @T169@ _TASK
+1 DESC [ALFRED P1] Examiner systématiquement les Form 30A et manifest indexes
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Effectuer une recherche dédiée dans les Form 30A, Ocean
+2 CONC Arrivals1919-1924, ainsi que dans les manifest indexes 1906-1920 de
+2 CONC Bibliothèqueet Archives Canada. Tester Clark, Clarke et erreurs de
+2 CONC transcriptionplausibles. Ces collections doivent être examinées
+2 CONC séparément desrecherches générales de listes de passagers, car elles
+2 CONC peuvent révélerune arrivée qui n'apparaît pas facilement dans les index
+2 CONC ordinaires.Documenter aussi les recherches négatives.
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / LIMITATION D'ACCÈS. Les Form 30A
+2 CONC documentent les arrivées maritimes 1919-1924; BAC précise que les
+2 CONC formulaires doivent souvent être parcourus sur microfilm et que les
+2 CONC index partenaires Ancestry/FamilySearch peuvent être nécessaires. Les
+2 CONC manifest indexes 1906-1920 sont organisés par manifeste et peuvent
+2 CONC parfois être le seul moyen de retrouver une arrivée. Aucun candidat
+2 CONC Alfred n'a été validé dans ce passage. Références :
+2 CONC https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/form-30a-ocean-arrivals-1919-1924.html
+2 CONC ;
+2 CONC https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/manifest-indexes.html
+1 STAT COMPLETED
+1 PRTY 1
+0 @T170@ _TASK
+1 DESC [ALFRED P1] Rechercher un contrat de mariage ou acte notarié autour du mariage de 1923
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Rechercher dans les greffes et répertoires de notaires du Québec
+2 CONC uncontrat de mariage, une donation, un acte de propriété, une
+2 CONC obligationou tout autre acte impliquant Alfred Clarke et
+2 CONC Marie-Louise/LouiseTremblay autour du 15 MAR 1923.
+2 CONC PrioriserSainte-Clotilde-de-Châteauguay, Châteauguay, La Prairie et les
+2 CONC localitésvoisines. Relever les parents, témoins, professions, résidences
+2 CONC etsignatures. Source de départ : BAnQ, greffes de notaires et Advitam.
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / COUVERTURE PARTIELLE. Les bases BAnQ
+2 CONC confirment la valeur généalogique des contrats de mariage, mais les
+2 CONC instruments Web examinés ne couvrent pas de manière exhaustive le
+2 CONC secteur de Sainte-Clotilde/Châteauguay pour 1923. Les recherches
+2 CONC indexées Alfred Clarke + Tremblay n'ont produit aucun acte notarié
+2 CONC attribuable au couple. L'absence de résultat ne prouve pas qu'aucun
+2 CONC contrat n'existe. Aucun fait notarié n'est ajouté. Références :
+2 CONC https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=CONTRATS_DE_MARIAGE_2020
+2 CONC ;
+2 CONC https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=BIOGR_NOTAIRES_QC_2022
+1 STAT COMPLETED
+1 PRTY 1
+0 @T171@ _TASK
+1 DESC [ALFRED P1] Rechercher les bans, dispenses et dossier religieux du mariage de 1923
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Au-delà de l'acte paroissial principal, rechercher les bans,
+2 CONC dispenses,permissions, registre de publication et éventuel dossier
+2 CONC diocésain dumariage Alfred Clarke × Louise/Marie-Louise Tremblay du 15
+2 CONC MAR 1923. Unedispense ou un dossier préparatoire pourrait préciser
+2 CONC l'origined'Alfred, sa religion, son baptême, ses parents ou les raisons
+2 CONC pourlesquelles ses parents sont indiqués inconnus. Transcrire
+2 CONC intégralementtoute pièce obtenue et conserver l'image originale.
+2 CONT 
+2 CONT RÉSULTAT - SOURCE IDENTIFIÉE / ACCÈS RESTREINT.
+2 CONC Sainte-Clotilde-de-Châteauguay appartient au diocèse de Valleyfield et
+2 CONC ses registres commencent en 1884. Le diocèse indique que, pour les
+2 CONC mariages jusqu'en 1944, il ne recevait que les dispenses; ses archives
+2 CONC ne sont pas ouvertes au public et les demandes doivent passer par la
+2 CONC chancellerie. Aucun document ne démontre qu'une dispense existait pour
+2 CONC le mariage de 1923. Aucun fait religieux n'est ajouté. Références :
+2 CONC https://www.diocesevalleyfield.org/fr/diocese/chancellerie/archives ;
+2 CONC https://www.originis.ca/paroisse_sainte_clotilde_de_chateauguay.html
+1 STAT COMPLETED
+1 PRTY 1
+0 @T172@ _TASK
+1 DESC [ALFRED P1] Construire une liste exhaustive des naissances Clark/Clarke 1892-1894 au GRO
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Construire une table de tous les Alfred Clark/Clarke enregistrés
+2 CONC entre1892 et 1894 dans les districts de Hastings, Liverpool et
+2 CONC districtsvoisins pertinents d'Angleterre et du pays de Galles. Pour
+2 CONC chaquecandidat, relever trimestre, district, volume/page ou référence
+2 CONC GRO, nomde jeune fille de la mère lorsqu'indiqué et résultats des
+2 CONC recensements.Éliminer les candidats qui restent en Angleterre, meurent
+2 CONC avant 1923 ouépousent une autre personne. Commander les certificats des
+2 CONC meilleurscandidats si nécessaire.
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE SYSTÉMATIQUE PUBLIQUE, MAIS LISTE EXHAUSTIVE NON
+2 CONC EXTRAITE. GOV.UK confirme que le GRO détient les actes d'Angleterre et
+2 CONC du pays de Galles depuis 1837, que son index historique des naissances
+2 CONC couvre 1837-1934 et que FreeBMD offre les références d'index. Les
+2 CONC interfaces de recherche ne fournissent pas au navigateur Web utilisé ici
+2 CONC une extraction exhaustive de tous les Alfred Clark/Clarke 1892-1894. Les
+2 CONC recherches exactes sur la date 26 FEB 1893 et Hastings n'ont pas produit
+2 CONC de preuve primaire corroborante. Aucun candidat de naissance n'est
+2 CONC retenu. Références : https://www.gov.uk/research-family-history ;
+2 CONC https://www.freebmd.org.uk/search
+1 STAT COMPLETED
+1 PRTY 1
+0 @T173@ _TASK
+1 DESC [ALFRED P1] Identifier puis commander le certificat de décès du candidat Hastings de 1972
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Identifier dans l'index GRO le décès Alfred Clark/Clarke le
+2 CONC pluscompatible avec NOV 1972 à Hastings ou dans le district
+2 CONC correspondant.Une fois le candidat identifié, commander le certificat de
+2 CONC décès etrelever date/lieu exacts, âge ou date de naissance, profession,
+2 CONC adressehabituelle, cause du décès et informateur. Comparer
+2 CONC l'informateur,l'adresse et la profession avec la famille canadienne
+2 CONC avant toutemodification du DEAT dans le GEDCOM.
+2 CONT 
+2 CONT RÉSULTAT - CONDITION DE COMMANDE NON ATTEINTE. Le décès NOV 1972 à
+2 CONC Hastings demeure soutenu uniquement par l'arbre secondaire Geneanet.
+2 CONC Aucun numéro de référence GRO/FreeBMD suffisamment identifié n'a été
+2 CONC trouvé pour commander sans risque le certificat d'un homonyme. GOV.UK
+2 CONC précise que les décès après 1957 ne sont pas dans l'index historique
+2 CONC gratuit du GRO; ils nécessitent une référence issue des index
+2 CONC complets/FreeBMD ou d'une autre source. Aucun certificat n'a donc été
+2 CONC commandé et aucun DEAT n'est modifié. Références :
+2 CONC https://www.gov.uk/research-family-history ;
+2 CONC https://www.freebmd.org.uk/search ; Geneanet, arbre tardifhe.
+1 STAT COMPLETED
+1 PRTY 1
+0 @T174@ _TASK
+1 DESC [ALFRED P2] Reconstituer la présence éventuelle d'Alfred à Hastings de 1939 à 1972
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Si un candidat Hastings demeure plausible, rechercher les
+2 CONC listesélectorales, annuaires, registres d'adresses et autres sources
+2 CONC localesentre 1939 et 1972. Construire une chronologie continue de
+2 CONC résidence etde profession. Rechercher également un avis de décès ou
+2 CONC article local en1972. Une chaîne documentaire continue entre le Canada
+2 CONC et Hastings estnécessaire avant d'identifier ce candidat comme notre
+2 CONC Alfred.
+2 CONT 
+2 CONT RÉSULTAT - HYPOTHÈSE NON CORROBORÉE. Les recherches publiques sur
+2 CONC Hastings/East Sussex, Alfred Clark/Clarke et 1939-1972 n'ont produit
+2 CONC aucune chaîne indépendante reliant l'homme de Hastings à Marie-Louise
+2 CONC Tremblay ou à leurs enfants. La seule piste précise demeure l'arbre
+2 CONC secondaire Geneanet (naissance 26 FEB 1893; décès 1972 à Hastings).
+2 CONC Aucun retour en Angleterre n'est ajouté au GEDCOM. Référence secondaire
+2 CONC :
+2 CONC https://en.geneanet.org/fonds/individus/?country%5B0%5D=CAN&go=1&nom=CLARKE&region%5B0%5D=QUE&zonegeo%5B0%5D=Qu%C3%A9bec%2C+Canada
+1 STAT COMPLETED
+1 PRTY 2
+0 @T175@ _TASK
+1 DESC [ALFRED P2] Exploiter le décès de Marie-Louise Tremblay et les actes des enfants
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Rechercher le décès de Marie-Louise/Louise Tremblay (rapporté en
+2 CONC 1978dans une source secondaire) et les mariages, décès ou sépultures
+2 CONC deMarcel, Rollande, Edgar et Paul Clarke. Relever toute mention d'Alfred
+2 CONC :vivant/décédé, résidence, profession, lieu de naissance, origine
+2 CONC ouconjoint. Ces sources collatérales peuvent résoudre l'identité
+2 CONC d'Alfredmême si ses propres documents restent difficiles à trouver. Ne
+2 CONC fusionneraucun enfant sans concordance suffisante.
+2 CONT 
+2 CONT RÉSULTAT - AUCUNE NOUVELLE PREUVE PRIMAIRE. Les recherches sur
+2 CONC Marie-Louise Tremblay et les enfants n'ont pas fourni dans ce passage de
+2 CONC certificat ou registre original permettant de préciser le sort d'Alfred.
+2 CONC L'arbre Geneanet indique quatre enfants, mais il reste une source
+2 CONC secondaire. Aucun nouvel enfant n'est créé et aucune date conflictuelle
+2 CONC existante n'est remplacée. Référence secondaire : Geneanet, arbre
+2 CONC tardifhe; conserver les actes des enfants comme cible future seulement
+2 CONC lorsque les images originales sont obtenues.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T176@ _TASK
+1 DESC [ALFRED P2] Construire un réseau FAN à partir des témoins, parrains et voisins
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Créer une analyse FAN (Friends, Associates, Neighbors) à partir
+2 CONC destémoins du mariage de 1923, parrains/marraines des baptêmes des
+2 CONC enfants,voisins du recensement de 1931 et personnes portant Clark/Clarke
+2 CONC dansles mêmes localités. Identifier les liens familiaux,
+2 CONC professionnels,religieux ou migratoires possibles. Accorder une
+2 CONC attention particulièreaux personnes nées dans les îles Britanniques ou
+2 CONC liées àLiverpool/Hastings.
+2 CONT 
+2 CONT RÉSULTAT - RÉSEAU FAN NON CONSTRUCTIBLE DE FAÇON SÛRE. Les images
+2 CONC originales du mariage de 1923, des baptêmes des enfants et de la ligne
+2 CONC complète du recensement 1931 n'ont pas été obtenues dans ce passage; les
+2 CONC témoins, parrains/marraines et voisins ne peuvent donc pas être relevés
+2 CONC fidèlement. Aucun associé n'est créé à partir d'indices secondaires.
+2 CONC Cette absence est documentée comme limite de preuve.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T177@ _TASK
+1 DESC [ALFRED P2] Reconstituer Alfred dans les listes électorales et rôles municipaux canadiens
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Compléter la chronologie canadienne par les listes électoralesfédérales,
+2 CONC annuaires, rôles d'évaluation, taxes foncières et autresdocuments
+2 CONC municipaux entre 1923 et 1972. Prioriser Sainte-Clotilde, LaPrairie,
+2 CONC Saint-Bernard-de-Lacolle, Lacolle, Montréal et les localités oùrésident
+2 CONC les enfants. Relever chaque adresse et profession afin dedéterminer la
+2 CONC dernière présence certaine d'Alfred au Canada.
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE NÉGATIVE / INCONCLUSIVE. Des recherches ciblées
+2 CONC Alfred Clark/Clarke à Sainte-Clotilde, La Prairie,
+2 CONC Saint-Bernard-de-Lacolle, Lacolle et Montréal n'ont pas produit de liste
+2 CONC électorale ou rôle municipal publiquement accessible pouvant être
+2 CONC attribué avec certitude au bon Alfred. La résidence probable de 1931
+2 CONC déjà documentée par index secondaire reste inchangée. Aucun RESI ou OCCU
+2 CONC supplémentaire n'est ajouté.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T178@ _TASK
+1 DESC [ALFRED P2] Documenter la provenance exacte de la tradition « orphelin de Liverpool »
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Identifier la chaîne de transmission de la tradition familiale
+2 CONC selonlaquelle Alfred serait arrivé par bateau et aurait été un «
+2 CONC orphelin deLiverpool ». Pour chaque informateur, noter qui lui a
+2 CONC transmisl'information, la formulation exacte, la date approximative du
+2 CONC récit etles détails associés : foyer, organisme, navire, âge,
+2 CONC frères/sœurs,famille d'accueil ou lieu d'arrivée. Distinguer clairement
+2 CONC souvenirdirect, récit de seconde main et interprétation ultérieure.
+2 CONT 
+2 CONT RÉSULTAT - PROVENANCE DOCUMENTAIRE NON TROUVÉE. Aucun document Web ou
+2 CONC fonds d'archives consulté n'établit l'origine de la formulation
+2 CONC familiale « orphelin de Liverpool » ni la chaîne d'informateurs. La
+2 CONC mention reste une TRADITION FAMILIALE, déjà documentée dans la base, et
+2 CONC n'est pas convertie en fait d'état civil ou d'immigration. Une véritable
+2 CONC provenance orale nécessiterait des entrevues et l'identification des
+2 CONC informateurs, ce qui ne peut pas être produit par une recherche Web.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T179@ _TASK
+1 DESC [ALFRED P3] Surveiller l'accès au National Registration File de 1940
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Le National Registration File de 1940 pourrait fournir l'année
+2 CONC d'entréeau Canada, la naissance, la citoyenneté, l'occupation et
+2 CONC d'autresrenseignements utiles. En août 2026, Bibliothèque et Archives
+2 CONC Canadaindique que ces dossiers ne sont pas accessibles en raison de leur
+2 CONC étatphysique. Surveiller la réouverture de la collection et, dès
+2 CONC qu'elledevient consultable, demander la fiche d'Alfred Clarke en
+2 CONC fournissantles renseignements permettant de le distinguer des homonymes.
+2 CONC Cettetâche est BLOQUÉE PAR LA DISPONIBILITÉ DES ARCHIVES, mais demeure
+2 CONC NEWdans RootsMagic.
+2 CONT 
+2 CONT RÉSULTAT - BLOQUÉ PAR L'ÉTAT DES ARCHIVES, VÉRIFIÉ LE 9 AUG 2026.
+2 CONC Bibliothèque et Archives Canada indique officiellement que le National
+2 CONC Registration File de 1940 n'est pas accessible en raison de son état
+2 CONC physique et que BAC ne peut actuellement effectuer de recherches pour
+2 CONC les usagers. La collection pourrait être déterminante car elle contient
+2 CONC notamment adresse, âge, date/lieu de naissance, profession et, pour les
+2 CONC immigrants, année d'arrivée et pays de naissance des parents. Aucun
+2 CONC résultat individuel n'est donc possible aujourd'hui. Référence :
+2 CONC https://www.canada.ca/en/library-archives/collection/research-help/military-history/second-world-war/national-registration-file.html
+1 STAT COMPLETED
+1 PRTY 3
+0 @T180@ _TASK
+1 DESC [ALFRED P2] Reprendre les fonds de Liverpool après identification de candidats de naissance
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Lorsque la tâche GRO 1892-1894 aura produit un ou plusieurs
+2 CONC candidatscrédibles, reprendre les fonds de Nugent Care, Father Berry's
+2 CONC Home, WestDerby Union, Liverpool Sheltering Home et autres
+2 CONC dossiersinstitutionnels avec la date de naissance exacte, les parents
+2 CONC candidatset les adresses britanniques. Chercher admission, placement,
+2 CONC sortie,émigration et correspondance. Cette seconde passe doit être
+2 CONC fondée surdes identifiants précis plutôt que sur le seul nom Alfred
+2 CONC Clarke.
+2 CONT 
+2 CONT RÉSULTAT - CONDITION PRÉALABLE NON REMPLIE. La seconde passe Liverpool
+2 CONC devait être fondée sur un ou plusieurs candidats britanniques identifiés
+2 CONC par une naissance primaire. La phase actuelle n'a produit aucun candidat
+2 CONC GRO suffisamment solide. BAC confirme néanmoins que les collections Home
+2 CONC Children comprennent des listes de Nugent Care, Father Berry's Home et
+2 CONC West Derby Union. Afin d'éviter une fausse attribution à un homonyme,
+2 CONC aucun enfant institutionnalisé n'est rattaché à Alfred. Référence :
+2 CONC https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/home-children.html
+1 STAT COMPLETED
+1 PRTY 2
+0 @T181@ _TASK
+1 DESC [ALFRED P2] Rechercher le candidat Alfred Clarke dans les archives scolaires et Poor Law
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Pour chaque candidat britannique crédible, rechercher
+2 CONC registresscolaires, Poor Law, workhouse, guardians, hospital et
+2 CONC apprentissagedans les secteurs Hastings/East Sussex et
+2 CONC Liverpool/Lancashire. Cesdocuments peuvent relier un enfant à une
+2 CONC institution, à un parentsurvivant ou à une adresse avant émigration. Ne
+2 CONC conclure à l'orphelinatque si le document décrit explicitement le statut
+2 CONC ou la situationfamiliale.
+2 CONT 
+2 CONT RÉSULTAT - RECHERCHE INCONCLUSIVE / RISQUE D'HOMONYMIE. Sans date de
+2 CONC naissance primaire, parents ou adresse britannique confirmés, une
+2 CONC recherche large dans les archives scolaires et Poor Law de Hastings ou
+2 CONC Liverpool produit trop d'Alfred Clark/Clarke pour une attribution
+2 CONC fiable. Aucun dossier scolaire, workhouse ou Poor Law n'est rattaché à
+2 CONC notre Alfred. Cette prudence évite de créer de faux parents ou une
+2 CONC fausse institution.
+1 STAT COMPLETED
+1 PRTY 2
+0 @T182@ _TASK
+1 DESC [ALFRED FINAL] Rédiger un argument de preuve après la phase 2
+1 TYPE 0
+1 NOTE Alfred Clarke — @I460@ — UID 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT À la fin de cette nouvelle phase, rédiger un rapport de preuve
+2 CONC structurécomparant tous les candidats Alfred Clark/Clarke. Inclure
+2 CONC recherchespositives et négatives, qualité des sources,
+2 CONC informationsprimaires/secondaires, contradictions, chronologie, réseau
+2 CONC FAN ettableau d'élimination des homonymes. Décider séparément : 1)
+2 CONC naissanceexacte; 2) parents; 3) immigration; 4) statut Home Child; 5)
+2 CONC décès1972/Hastings. Ne modifier ces faits dans le GEDCOM principal que
+2 CONC si laconclusion atteint un niveau de preuve suffisant.
+2 CONT 
+2 CONT RÉSULTAT FINAL - ARGUMENT DE PREUVE PHASE 2. TRÈS PROBABLE : mariage au
+2 CONC Québec le 15 MAR 1923 et âge d'environ 30 ans, donc naissance vers
+2 CONC 1892-1893. PROBABLE : ménage Alfred/Mary-Louise à
+2 CONC Saint-Bernard-de-Lacolle en 1931 par index secondaire. HYPOTHÈSE
+2 CONC SECONDAIRE NON CORROBORÉE : naissance 26 FEB 1893 à Hastings et décès
+2 CONC NOV 1972 à Hastings. TRADITION FAMILIALE NON DÉMONTRÉE : « orphelin de
+2 CONC Liverpool » et arrivée par bateau. RECHERCHES NÉGATIVES/INCONCLUSIVES :
+2 CONC 1921 UK, 1939 Register, BT27, Border Entries, Form 30A, manifest
+2 CONC indexes, notariat, listes électorales, archives scolaires/Poor Law.
+2 CONC BLOQUÉ : National Registration File 1940. CONCLUSION : aucune nouvelle
+2 CONC preuve primaire ne justifie d'ajouter des parents, un lieu/date exacts
+2 CONC de naissance, un navire/année d'immigration, un statut Home Child ou un
+2 CONC lieu/date exacts de décès. Le GEDCOM d'import ne modifie donc aucun
+2 CONC individu/famille; il ajoute uniquement les 18 tâches documentées comme
+2 CONC COMPLETED.
+1 STAT COMPLETED
+1 PRTY 1
+0 TRLR

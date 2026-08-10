@@ -1,4 +1,4 @@
-Type: BROWSER_CONTENT_ARCHIVE
+Type: WEB_PRINT_PDF
 Titre: GOV.UK - Research your family history using the General Register Office
 URL: https://www.gov.uk/research-family-history
 Consulté: 2026-08-09

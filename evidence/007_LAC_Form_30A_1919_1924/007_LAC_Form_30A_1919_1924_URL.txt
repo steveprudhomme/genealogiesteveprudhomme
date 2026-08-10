@@ -1,4 +1,4 @@
-Type: BROWSER_CONTENT_ARCHIVE
+Type: WEB_PRINT_PDF
 Titre: Library and Archives Canada - Form 30A, Ocean arrivals 1919 to 1924
 URL: https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration/form-30a-ocean-arrivals-1919-1924.html
 Consulté: 2026-08-09

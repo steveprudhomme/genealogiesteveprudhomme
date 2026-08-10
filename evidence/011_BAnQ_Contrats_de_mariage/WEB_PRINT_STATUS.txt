@@ -1,0 +1,7 @@
+State: PENDING_LOCAL_GENERATION
+Method: BROWSER_PRINT_TO_PDF
+Title: BAnQ - Contrats de mariage
+URL: https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=CONTRATS_DE_MARIAGE_2020
+Expected PDF: 011_BAnQ_Contrats_de_mariage_WEB_PRINT.pdf
+Reason: A true browser print must be generated in an environment where Chromium can access the live website.
+Command: .\scripts\print_web_evidence.ps1

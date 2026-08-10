@@ -1,4 +1,4 @@
-Type: BROWSER_CONTENT_ARCHIVE
+Type: WEB_PRINT_PDF
 Titre: Library and Archives Canada - Immigration records
 URL: https://www.canada.ca/en/library-archives/collection/research-help/genealogy-family-history/immigration.html
 Consulté: 2026-08-09

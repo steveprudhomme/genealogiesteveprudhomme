@@ -1,0 +1,7 @@
+State: PENDING_LOCAL_GENERATION
+Method: BROWSER_PRINT_TO_PDF
+Title: Geneanet - Alfred Clarke, family tree of tardifhe
+URL: https://en.geneanet.org/fonds/individus/?country%5B0%5D=CAN&go=1&nom=CLARKE&region%5B0%5D=QUE&zonegeo%5B0%5D=Qu%C3%A9bec%2C+Canada
+Expected PDF: 018_Geneanet_Alfred_Clarke_tardifhe_WEB_PRINT.pdf
+Reason: A true browser print must be generated in an environment where Chromium can access the live website.
+Command: .\scripts\print_web_evidence.ps1

@@ -4,6 +4,26 @@ Tous les changements notables du projet sont documentés ici.
 
 ## [Unreleased]
 
+## [0.5.3] — 2026-08-10
+
+### Modifié
+- Nouveau format cible `WEB_PRINT_PDF` pour les 16 sources HTML du dossier `evidence/`.
+- Abandon de `BROWSER_CONTENT_ARCHIVE` comme format de preuve Web principal.
+- Conservation des trois `ORIGINAL_NATIVE_PDF` officiels sans réimpression ni transformation.
+
+### Ajouté
+- Script `scripts/print_web_evidence.ps1` pour imprimer directement les pages Web en PDF avec Microsoft Edge ou Google Chrome.
+- Fichier `WEB_PRINT_STATUS.txt` par source HTML avec état de génération, méthode et, après génération, empreinte SHA-256.
+- Documentation `scripts/README.md` décrivant la génération et la vérification manuelle des impressions Web.
+
+### Documentation
+- Mise à jour de `README.md`, `evidence/README.md`, `evidence/MANIFEST.md`, `docs/SOURCE_POLICY.md` et `sources/SOURCES_PHASE2.md`.
+- Clarification : la v0.5.3 modifie uniquement la conservation des preuves Web; elle ne change aucune conclusion généalogique ni le contenu des GEDCOM de la phase 2.
+
+### Migration
+- Les anciens `*_BROWSER_CONTENT_ARCHIVE.pdf` de la v0.5.2 sont conservés uniquement comme repli jusqu'à ce que l'impression navigateur réussisse. Le script les supprime automatiquement après création du `*_WEB_PRINT.pdf`.
+- La génération réelle doit être effectuée dans un environnement où Edge ou Chrome peut accéder aux sites en direct; chaque PDF doit ensuite être vérifié visuellement.
+
 ## [0.5.2] — 2026-08-10
 
 ### Corrigé
