@@ -1,0 +1,254 @@
+0 HEAD
+1 SOUR RootsMagic
+2 NAME Alfred Clarke Research Tasks
+1 DEST RootsMagic
+1 DATE 9 AUG 2026
+1 FILE Alfred_Clarke_recherche_taches_v0.1.0_2026-08-09.ged
+1 NOTE Companion files: ROADMAP.md and CHANGELOG.md
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @T1@ _TASK
+1 DESC [ALFRED P1] Obtenir la ligne complète du recensement canadien de 1931
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Retrouver le ménage Alfred Clark/Clarke et Mary-Louise Clark à
+2 CONC Saint-Bernard-de-Lacolle dans le recensement canadien de 1931 et
+2 CONC consulter l'image originale de la ligne, pas seulement l'index
+2 CONC secondaire. Relever mot à mot : âge, date/année de naissance, lieu de
+2 CONC naissance, origine, religion, citoyenneté, année d'immigration, langue,
+2 CONC occupation, employeur/industrie, revenu si présent, adresse/localité,
+2 CONC statut matrimonial et tous les membres du ménage. Comparer chaque champ
+2 CONC à l'arbre avant de créer ou modifier un fait. Cette tâche est la
+2 CONC priorité absolue, car l'année d'immigration et le lieu de naissance
+2 CONC doivent guider les recherches suivantes.
+1 STAT NEW
+1 PRTY 1
+0 @T2@ _TASK
+1 DESC [ALFRED P1] Obtenir et transcrire l'acte original du mariage du 15 MAR 1923
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Obtenir l'image complète de l'acte de mariage d'Alfred Clarke et
+2 CONC Louise/Marie-Louise Tremblay, célébré le 15 MAR 1923 à
+2 CONC Sainte-Clotilde-de-Châteauguay. Transcrire intégralement les noms, âges,
+2 CONC lieux de naissance/résidence, professions, état matrimonial, parents,
+2 CONC témoins, signatures et toute dispense ou annotation. Vérifier si l'âge
+2 CONC de 30 ans provient bien de l'acte original. Ne modifier la naissance ABT
+2 CONC 1893 qu'après comparaison avec le document complet.
+1 STAT NEW
+1 PRTY 1
+0 @T3@ _TASK
+1 DESC [ALFRED P1] Rechercher Alfred Clark/Clarke au recensement canadien de 1921
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Rechercher Alfred avant son mariage dans le recensement de 1921 en
+2 CONC utilisant les variantes Clark, Clarke et éventuellement des erreurs
+2 CONC phonétiques. Prioriser Québec, Montréal, Châteauguay, Huntingdon,
+2 CONC Lacolle et les secteurs liés à Sainte-Clotilde. Chercher un homme né
+2 CONC vers 1892-1894, possiblement britannique, célibataire et immigré.
+2 CONC Relever l'année d'immigration, la citoyenneté, l'occupation, la religion
+2 CONC et les personnes du ménage. Ne rattacher un candidat qu'en présence de
+2 CONC plusieurs concordances indépendantes.
+1 STAT NEW
+1 PRTY 1
+0 @T4@ _TASK
+1 DESC [ALFRED P1] Rechercher son arrivée au Canada dans les listes de passagers
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Après avoir obtenu l'année d'immigration du recensement de 1931 ou d'une
+2 CONC autre source solide, rechercher Alfred Clark/Clarke dans les listes de
+2 CONC passagers vers le Canada. Tester les départs de Liverpool et autres
+2 CONC ports britanniques ainsi que les arrivées à Québec, Montréal, Halifax,
+2 CONC Saint John et ports connexes. Comparer âge, profession, destination,
+2 CONC organisme accompagnateur, contact au Royaume-Uni et contact au Canada.
+2 CONC Conserver tous les candidats sérieux dans une table de preuve; ne
+2 CONC choisir aucun dossier sur le seul nom.
+1 STAT NEW
+1 PRTY 1
+0 @T5@ _TASK
+1 DESC [ALFRED P1] Rechercher Alfred dans les dossiers British Home Children de BAC
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Tester systématiquement la tradition familiale voulant qu'Alfred ait été
+2 CONC un « orphelin de Liverpool ». Rechercher dans les bases et dossiers de
+2 CONC Bibliothèque et Archives Canada relatifs aux British Home Children, y
+2 CONC compris les variantes Clark/Clarke et les âges compatibles avec une
+2 CONC naissance vers 1893. Examiner les groupes envoyés par des organismes de
+2 CONC Liverpool. Pour tout candidat, relever date d'arrivée, navire,
+2 CONC organisme, destination canadienne, employeur/foyer d'accueil, âge et
+2 CONC lieu d'origine.
+1 STAT NEW
+1 PRTY 1
+0 @T6@ _TASK
+1 DESC [ALFRED P1] Rechercher dans les organismes et foyers d'enfants de Liverpool
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Explorer les fonds liés à Nugent Care / Catholic Liverpool Agencies,
+2 CONC Father Berry's Home, West Derby Union, Liverpool Sheltering Home/Louisa
+2 CONC Birt et autres institutions pouvant avoir envoyé des enfants au Canada.
+2 CONC Chercher Alfred Clark/Clarke né vers 1892-1894 et documenter admissions,
+2 CONC sorties, placements, parents ou responsables, adresses antérieures et
+2 CONC destination au Canada. La tradition « orphelin » ne doit pas être
+2 CONC interprétée comme preuve que les deux parents étaient décédés.
+1 STAT NEW
+1 PRTY 1
+0 @T7@ _TASK
+1 DESC [ALFRED P2] Rechercher les recensements britanniques de 1901 et 1911
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT À partir des indices obtenus par les listes de passagers ou dossiers
+2 CONC institutionnels, rechercher Alfred Clark/Clarke dans les recensements
+2 CONC d'Angleterre de 1901 et 1911. Prioriser Liverpool/Lancashire,
+2 CONC Hastings/East Sussex et toute localité révélée par les documents
+2 CONC canadiens. Relever ménage, statut d'enfant placé/institutionnalisé, lieu
+2 CONC de naissance exact, âge, parents ou responsables et profession. Éviter
+2 CONC toute fusion de candidat basée uniquement sur le prénom et l'année de
+2 CONC naissance.
+1 STAT NEW
+1 PRTY 1
+0 @T8@ _TASK
+1 DESC [ALFRED P2] Tester la piste Hastings du 26 FEB 1893 avec des sources primaires
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Vérifier l'hypothèse publique selon laquelle Alfred Clarke serait né le
+2 CONC 26 FEB 1893 à Hastings, East Sussex. Rechercher l'enregistrement civil
+2 CONC de naissance, un baptême éventuel et les recensements correspondant à
+2 CONC cet Alfred. Identifier ses parents et suivre ce candidat jusqu'à
+2 CONC l'adolescence. Comparer ensuite ces renseignements aux documents
+2 CONC canadiens : date/lieu de naissance, année d'immigration, profession,
+2 CONC religion et éventuels contacts familiaux. Ne pas attribuer les parents
+2 CONC de Hastings à Alfred canadien sans chaîne de preuve continue.
+1 STAT NEW
+1 PRTY 1
+0 @T9@ _TASK
+1 DESC [ALFRED P2] Vérifier un éventuel service militaire pendant la Première Guerre mondiale
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Un homme né vers 1893 aurait été en âge de servir entre 1914 et 1918.
+2 CONC Rechercher Alfred Clark/Clarke dans les dossiers du Corps
+2 CONC expéditionnaire canadien et, si la piste britannique demeure plausible,
+2 CONC dans les dossiers militaires britanniques disponibles. Comparer date et
+2 CONC lieu de naissance, adresse, profession, proche parent et éventuelle
+2 CONC immigration. L'absence de dossier doit aussi être notée comme résultat
+2 CONC négatif, sans en tirer de conclusion excessive.
+1 STAT NEW
+1 PRTY 1
+0 @T10@ _TASK
+1 DESC [ALFRED P2] Rechercher les dossiers de naturalisation ou de citoyenneté
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Si les recensements indiquent qu'Alfred était né à l'étranger,
+2 CONC rechercher les dossiers de naturalisation/citoyenneté canadiens
+2 CONC pertinents. Relever date de demande, date d'admission, adresse,
+2 CONC profession, pays d'origine, date/port d'arrivée et témoins. Ces
+2 CONC documents pourraient relier directement une arrivée maritime à l'Alfred
+2 CONC marié en 1923.
+1 STAT NEW
+1 PRTY 1
+0 @T11@ _TASK
+1 DESC [ALFRED P2] Exploiter les baptêmes et actes de naissance de ses enfants
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Rechercher les actes de naissance/baptême des enfants connus du couple
+2 CONC Alfred Clarke × Marie-Louise Tremblay, notamment Marcel (vers 1924),
+2 CONC Rollande (1925), Edgar et Paul. Transcrire profession et résidence
+2 CONC d'Alfred, lieu d'origine lorsqu'indiqué, parrains/marraines et témoins.
+2 CONC Les parrains ou témoins portant le nom Clarke/Clark pourraient révéler
+2 CONC un frère, une sœur ou un autre parent. Ne pas créer de nouvelles
+2 CONC personnes avant identification suffisante.
+1 STAT NEW
+1 PRTY 1
+0 @T12@ _TASK
+1 DESC [ALFRED P2] Reconstituer les résidences et professions d'Alfred de 1923 à 1972
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Chercher Alfred dans les annuaires municipaux, listes électorales,
+2 CONC recensements et autres sources de résidence entre son mariage et son
+2 CONC décès. Prioriser Sainte-Clotilde, Saint-Bernard-de-Lacolle, Lacolle,
+2 CONC Montréal et les localités liées aux enfants. Construire une chronologie
+2 CONC adresse + profession + composition du ménage. Cette chronologie servira
+2 CONC à distinguer Alfred d'homonymes et à repérer la date d'un éventuel
+2 CONC retour au Royaume-Uni si la piste Hastings-death est réelle.
+1 STAT NEW
+1 PRTY 1
+0 @T13@ _TASK
+1 DESC [ALFRED P2] Rechercher journaux, avis familiaux et mentions locales
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Rechercher Alfred Clarke/Clark et Marie-Louise Tremblay dans les
+2 CONC journaux locaux et régionaux : mariages, naissances, accidents, emplois,
+2 CONC activités communautaires, décès de proches, anniversaires de mariage et
+2 CONC avis funéraires. Utiliser les variantes Clarke, Clark et les prénoms
+2 CONC Alfred/Joseph Alfred si nécessaire. Toute mention doit être reliée à la
+2 CONC bonne famille par adresse, conjoint ou enfants.
+1 STAT NEW
+1 PRTY 1
+0 @T14@ _TASK
+1 DESC [ALFRED P1] Établir la date et le lieu exacts du décès d'Alfred en 1972
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT La fiche actuelle contient trois décès 1972 et une hypothèse publique de
+2 CONC décès en NOV 1972 à Hastings. Rechercher une source primaire ou quasi
+2 CONC primaire : registre de décès, index civil, avis de décès, sépulture,
+2 CONC monument, dossier funéraire ou probate. Déterminer si Alfred est décédé
+2 CONC au Canada ou en Angleterre. Ne remplacer les décès actuels qu'après
+2 CONC identification certaine du bon Alfred.
+1 STAT NEW
+1 PRTY 1
+0 @T15@ _TASK
+1 DESC [ALFRED P2] Tester spécifiquement l'hypothèse d'un retour à Hastings
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Si un décès d'Alfred Clarke en NOV 1972 à Hastings existe, reconstruire
+2 CONC la trajectoire de cet homme entre 1923 et 1972. Vérifier conjoint,
+2 CONC enfants, adresse, profession, probate et éventuel retour du Canada vers
+2 CONC le Royaume-Uni. Chercher une preuve reliant directement cet Alfred à
+2 CONC Marie-Louise Tremblay ou à leurs enfants. Si aucun lien n'est trouvé,
+2 CONC classer la piste Hastings comme probablement distincte plutôt que de la
+2 CONC conserver indéfiniment comme hypothèse principale.
+1 STAT NEW
+1 PRTY 1
+0 @T16@ _TASK
+1 DESC [ALFRED P3] Rechercher les dossiers de probate, successions et cimetières
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT Après avoir établi le lieu de décès, rechercher testament,
+2 CONC probate/succession, registre funéraire et cimetière. Relever héritiers,
+2 CONC adresse, occupation, exécuteur, conjoint et enfants. Les noms des
+2 CONC héritiers sont particulièrement utiles pour confirmer l'identité et
+2 CONC résoudre les divergences de décès.
+1 STAT NEW
+1 PRTY 1
+0 @T17@ _TASK
+1 DESC [ALFRED FINAL] Construire une matrice de preuve avant d'identifier ses parents
+1 TYPE 0
+1 NOTE Alfred Clarke — fiche actuelle @I460@ — UID
+2 CONC 0D092DF1901E468BAC310826D2B99FD5BDDE
+2 CONT À la fin des recherches, créer une matrice comparant chaque candidat
+2 CONC Alfred Clark/Clarke selon : date et lieu de naissance, âge au mariage,
+2 CONC année d'immigration, religion, occupation, adresse, conjoint, enfants,
+2 CONC proches, navire, institution éventuelle et décès. Classer chaque élément
+2 CONC comme SOLIDE, PROBABLE, HYPOTHÈSE, CONTRADICTION ou TRADITION FAMILIALE.
+2 CONC N'ajouter des parents biologiques à Alfred dans le GEDCOM principal
+2 CONC qu'après convergence de plusieurs sources indépendantes et résolution
+2 CONC des contradictions principales.
+1 STAT NEW
+1 PRTY 1
+0 TRLR
