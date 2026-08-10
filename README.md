@@ -2,38 +2,31 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Format](https://img.shields.io/badge/format-GEDCOM%205.5.1-informational)
-![Version](https://img.shields.io/badge/version-0.5.3-informational)
+![Version](https://img.shields.io/badge/version-0.5.4-informational)
 
 Ce dépôt organise la recherche généalogique versionnée autour du GEDCOM principal, avec une phase
 dédiée à **Alfred Clarke**. Il s'inspire de la structure d'un projet open source comme GNU Astrolist,
 mais le livrable principal est de la **donnée généalogique GEDCOM**, pas du logiciel.
 
-## État de la version 0.5.3
+## État de la version 0.5.4
 
-La version **0.5.3 ne modifie pas les conclusions généalogiques ni les tâches GEDCOM**. Elle reprend
-l'état de recherche établi en 0.5.0 et corrige la méthode de conservation des pages Web dans `evidence/`.
+La version **0.5.4** élargit explicitement la feuille de route à **l'ensemble de l'arbre généalogique**, et non à la seule branche Alfred Clarke. Elle n'ajoute ni individu, ni famille, ni fait généalogique : elle ajoute uniquement des tâches de recherche.
 
-État généalogique conservé :
+État des tâches :
 
-- Base analysée lors de la phase 2 : `genealogiesteveprudhomme(1).ged`.
-- Tâches déjà présentes dans cette base : **118**, jusqu'à **T164**.
-- Phase Alfred rebasée pour éviter les collisions : **T165-T182**.
-- Snapshot de projet : **136 tâches** = **72 NEW** + **64 COMPLETED**.
-- Les 18 tâches Alfred phase 2 sont **COMPLETED**.
-- Aucun nouvel individu ni famille n'est ajouté par le delta, faute de nouvelle preuve primaire assez sûre.
+- GEDCOM courant fourni : **136 tâches** déjà présentes, jusqu'à **T200** avec des plages non contiguës.
+- Nouvelles recherches générales : **T201-T218**, soit **18 tâches NEW**.
+- Snapshot de projet : **154 tâches** = **90 NEW** + **64 COMPLETED**.
+- Les tâches de nettoyage/fusion de doublons déjà existantes sont conservées, mais les nouvelles tâches T201-T218 n'en ajoutent aucune.
+- La nouvelle nomenclature s'applique aux tâches créées à partir de cette version : `Numéro - Nom, Prénom (ou sujet général) - Descriptif`. Le numéro est volontairement répété dans `DESC` afin qu'il apparaisse directement dans la liste de tâches de RootsMagic.
 
 ## GEDCOM à importer
 
-`gedcom/alfred_clarke_phase2_import_completed_v0.5.0.ged` contient **uniquement T165-T182** avec leurs
-résultats et statut `COMPLETED`. Il contient **0 INDI, 0 FAM, 0 SOUR**. C'est volontaire : le GEDCOM
-actuel possède déjà Alfred Clarke et de nombreuses sources pertinentes; ne pas les réimporter évite les
-doublons.
+`gedcom/research_tasks_import_v0.5.4.ged` contient **uniquement T201-T218** avec statut `NEW`. Il contient **0 INDI, 0 FAM, 0 SOUR**. C'est le fichier prévu pour l'import dans la base RootsMagic actuelle.
 
-`gedcom/tasks_snapshot_v0.5.0.ged` est le snapshot de versionnage de toutes les tâches et ne doit pas être
-réimporté dans la base RootsMagic actuelle.
+`gedcom/tasks_snapshot_v0.5.4.ged` contient les **154 tâches** du projet et sert au versionnage, au ROADMAP et à l'audit. **Ne pas l'importer** dans la base RootsMagic actuelle, car il reprend aussi les tâches déjà présentes.
 
-Les noms `v0.5.0` de ces deux fichiers sont conservés parce que leur contenu généalogique n'a pas changé
-dans les versions 0.5.1 à 0.5.3.
+Les anciens GEDCOM de phase Alfred sont conservés comme historique du projet et ne doivent pas être réimportés si leurs tâches sont déjà présentes.
 
 ## Preuves (`evidence/`)
 
@@ -71,7 +64,7 @@ protection antirobot n'a remplacé le contenu attendu.
 ## Structure
 
 ```text
-genealogie-alfred-clarke-v0.5.3/
+genealogie-alfred-clarke-v0.5.4/
 ├── README.md
 ├── LICENSE
 ├── NOTICE.md
@@ -84,6 +77,8 @@ genealogie-alfred-clarke-v0.5.3/
 ├── .gitignore
 ├── .gitattributes
 ├── gedcom/
+│   ├── research_tasks_import_v0.5.4.ged
+│   ├── tasks_snapshot_v0.5.4.ged
 │   ├── alfred_clarke_phase2_import_completed_v0.5.0.ged
 │   └── tasks_snapshot_v0.5.0.ged
 ├── docs/

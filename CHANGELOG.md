@@ -4,6 +4,25 @@ Tous les changements notables du projet sont documentés ici.
 
 ## [Unreleased]
 
+## [0.5.4] — 2026-08-10
+
+### Tâches de recherche
+- Ajout de **18 nouvelles tâches T201-T218** couvrant plusieurs branches de l'arbre généalogique.
+- Répartition des nouvelles tâches en priorités 1 à 3 selon leur potentiel de débloquer rapidement des filiations ou de structurer les recherches futures.
+- Aucune nouvelle tâche de fusion ou de dédoublonnage n'est ajoutée; ce travail demeure séparé.
+- Adoption, pour les nouvelles tâches, de la nomenclature `Numéro - Nom, Prénom (ou sujet général) - Descriptif`; le numéro est répété dans le champ `DESC` afin qu'il soit visible directement dans la liste de tâches de RootsMagic.
+
+### GEDCOM
+- Ajout de `gedcom/research_tasks_import_v0.5.4.ged`, import différentiel contenant seulement T201-T218 et aucun INDI/FAM/SOUR.
+- Ajout de `gedcom/tasks_snapshot_v0.5.4.ged`, snapshot complet de **154 tâches** : **90 NEW** et **64 COMPLETED**.
+- Rebasage documentaire sur le GEDCOM courant fourni, où les 18 tâches Alfred de la phase 2 apparaissent désormais sous **T183-T200**.
+
+### Documentation
+- Reconstruction de `ROADMAP.md` à partir du snapshot v0.5.4 afin d'assurer une correspondance exacte des identifiants, descriptions, notes, statuts, priorités et ordre.
+- Mise à jour de `README.md`, `docs/TASK_WORKFLOW.md` et `VERSION`.
+- Élargissement explicite du projet de recherche à l'ensemble des branches de l'arbre, Alfred Clarke demeurant une branche parmi les autres.
+
+
 ## [0.5.3] — 2026-08-10
 
 ### Modifié

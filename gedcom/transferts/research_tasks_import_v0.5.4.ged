@@ -1,0 +1,202 @@
+0 HEAD
+1 SOUR RootsMagic
+2 NAME Projet généalogique - nouvelles tâches de recherche
+1 DEST RootsMagic
+1 DATE 10 AUG 2026
+1 FILE research_tasks_import_v0.5.4.ged
+1 NOTE Import différentiel anti-doublon : seulement T201-T218. Aucun INDI/FAM/SOUR.
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @T201@ _TASK
+1 DESC T201 - Synnett, John / Boucher, Marie Amanda - Obtenir et transcrire l'acte original du mariage du 21 Jul 1887 à Rivière-la-Madeleine
+1 TYPE 0
+1 NOTE Rechercher l'acte original du mariage de John Synnett et Marie Amanda
+2 CONC  Boucher, célébré le 21 Jul 1887 à Rivière-la-Madeleine. Identifier
+2 CONC  les parents des deux époux, leurs résidences, professions et témoins,
+2 CONC  puis rechercher leurs baptêmes respectifs autour de 1866. Dans le
+2 CONC  GEDCOM courant, plusieurs fiches homonymes existent pour John Synnett
+2 CONC  et Marie Amanda Boucher : ne créer ni fusion ni nouveau lien avant
+2 CONC  comparaison des actes.
+1 STAT NEW
+1 PRTY 1
+0 @T202@ _TASK
+1 DESC T202 - Labelle, Antoine / Ravary, Blanche - Obtenir et transcrire l'acte original du mariage du 6 Oct 1910 à Saint-Charles-de-Montréal
+1 TYPE 0
+1 NOTE Rechercher l'acte original du mariage d'Antoine Labelle et Blanche
+2 CONC  Ravary, célébré le 6 Oct 1910 à Saint-Charles-de-Montréal. Identifier
+2 CONC  les quatre parents, les résidences, professions et témoins, puis
+2 CONC  remplacer uniquement les dates approximatives qui peuvent être
+2 CONC  confirmées par une source primaire. Le GEDCOM contient plusieurs
+2 CONC  fiches homonymes : ne pas fusionner dans le cadre de cette tâche.
+1 STAT NEW
+1 PRTY 1
+0 @T203@ _TASK
+1 DESC T203 - Richard, Marie Delima - Exploiter le mariage du 10 Apr 1899 à Hemmingford et retrouver le baptême du 19 Feb 1883
+1 TYPE 0
+1 NOTE À partir du mariage du 10 Apr 1899 à Hemmingford, identifier avec
+2 CONC  certitude les parents de Marie Delima Richard. Retrouver ensuite son
+2 CONC  acte de baptême du 19 Feb 1883 afin de confirmer date et lieu de
+2 CONC  naissance, parents, parrain et marraine. Le GEDCOM contient au moins
+2 CONC  deux fiches Delima/Marie Delima Richard : documenter les preuves sans
+2 CONC  effectuer la fusion dans cette tâche.
+1 STAT NEW
+1 PRTY 1
+0 @T204@ _TASK
+1 DESC T204 - Trudel, Virginia - Obtenir l'acte original du mariage du 1 Aug 1876 à Hemmingford et identifier ses parents
+1 TYPE 0
+1 NOTE Rechercher l'acte original du mariage de Virginia Trudel avec Vital
+2 CONC  Tremblay le 1 Aug 1876 à Hemmingford. Confirmer son âge, sa résidence
+2 CONC  et son identité, relever les noms de ses parents et témoins, puis
+2 CONC  rechercher son baptême afin de remplacer la naissance approximative
+2 CONC  de 1862 par une donnée primaire si possible.
+1 STAT NEW
+1 PRTY 1
+0 @T205@ _TASK
+1 DESC T205 - Laniel, Laurette - Obtenir l'acte du mariage du 27 Oct 1928 à Montréal avec Cecil Thomas Gee et identifier ses parents
+1 TYPE 0
+1 NOTE Rechercher l'acte original du mariage de Laurette Laniel et Cecil
+2 CONC  Thomas Gee/Guy célébré le 27 Oct 1928 à Montréal. Identifier les
+2 CONC  parents de Laurette, sa résidence, son âge et les témoins; confirmer
+2 CONC  sa naissance approximative de Feb 1904 et documenter la variante
+2 CONC  patronymique Gee/Guy observée dans les sources du ménage.
+1 STAT NEW
+1 PRTY 1
+0 @T206@ _TASK
+1 DESC T206 - Gagnon, Lucien / Gagné, Marie Olive - Obtenir le mariage du 3 Oct 1848 à La Baie et identifier leurs parents
+1 TYPE 0
+1 NOTE Retrouver et transcrire l'acte original du mariage de Lucien Gagnon
+2 CONC  et Marie Olive Gagné/Gagne célébré le 3 Oct 1848 à La Baie.
+2 CONC  Identifier les parents des deux époux, puis rechercher les baptêmes
+2 CONC  correspondant aux naissances actuellement indiquées autour de 1827 et
+2 CONC  1831. Citer les actes primaires avant de prolonger les lignées.
+1 STAT NEW
+1 PRTY 2
+0 @T207@ _TASK
+1 DESC T207 - Tremblay, François Clovis / Hamelin, Marie Marguerite - Retrouver leur mariage vers 1820 à Saint-Philippe et identifier leurs parents
+1 TYPE 0
+1 NOTE Rechercher l'acte original du mariage de François Clovis Tremblay et
+2 CONC  Marie Marguerite Hamelin, probablement vers 1820 à Saint-Philippe ou
+2 CONC  dans les paroisses voisines. Utiliser l'acte pour identifier les
+2 CONC  parents des deux époux et vérifier leurs baptêmes respectifs avant
+2 CONC  d'ajouter une génération.
+1 STAT NEW
+1 PRTY 2
+0 @T208@ _TASK
+1 DESC T208 - Legault, Camille - Exploiter le mariage du 3 Aug 1877 à Saint-Eustache avec Marie Tharsile Prud'homme et identifier ses parents
+1 TYPE 0
+1 NOTE Retrouver l'acte original du mariage de Camille
+2 CONC  Legault/Legault-Deslauriers et Marie Tharsile Prud'homme célébré le 3
+2 CONC  Aug 1877 à Saint-Eustache. Identifier les parents de Camille,
+2 CONC  confirmer sa naissance actuellement donnée vers 1848 et relever les
+2 CONC  témoins. Le GEDCOM contient plusieurs Camille Legault : éviter toute
+2 CONC  fusion dans cette tâche.
+1 STAT NEW
+1 PRTY 2
+0 @T209@ _TASK
+1 DESC T209 - Roussin, Michel / Renaud, Marie Amable - Retrouver leur mariage et leurs baptêmes afin d'identifier leurs parents
+1 TYPE 0
+1 NOTE Rechercher le mariage de Michel Roussin, né le 3 Nov 1783, et Marie
+2 CONC  Amable Renaud, née vers 1789. Retrouver leurs baptêmes et utiliser
+2 CONC  les actes originaux pour identifier leurs parents, lieux d'origine et
+2 CONC  témoins. Vérifier soigneusement les homonymes Roussin présents dans
+2 CONC  le GEDCOM.
+1 STAT NEW
+1 PRTY 2
+0 @T210@ _TASK
+1 DESC T210 - Gérin, Joséphine - Identifier le père de ses enfants et établir sa filiation
+1 TYPE 0
+1 NOTE Identifier avec des actes primaires le père des enfants actuellement
+2 CONC  associés à Joséphine/Josephine Gérin, notamment Henri Gérin-Lajoie,
+2 CONC  Léon Gérin et Antoinette Gérin. Rechercher son mariage, puis son
+2 CONC  baptême autour de 1839 afin d'établir ses parents. Ne pas déduire une
+2 CONC  paternité uniquement à partir du patronyme composé Gérin-Lajoie.
+1 STAT NEW
+1 PRTY 2
+0 @T211@ _TASK
+1 DESC T211 - Seneth/Synnett, Édouard - Établir son identité complète, son mariage et ses parents dans les registres de Restigouche
+1 TYPE 0
+1 NOTE Rechercher Édouard/Edouard Seneth, Synnett et variantes
+2 CONC  orthographiques dans les registres de Restigouche et de la Gaspésie.
+2 CONC  Identifier son mariage avec Josette ou Marie-Josèphe Robert, puis
+2 CONC  rechercher son baptême et ses parents. Documenter chaque variante
+2 CONC  patronymique et distinguer les homonymes avant d'établir la
+2 CONC  filiation.
+1 STAT NEW
+1 PRTY 2
+0 @T212@ _TASK
+1 DESC T212 - Dunn, Marie Louise - Rechercher son baptême du 25 Mar 1811, ses parents et vérifier ses événements matrimoniaux
+1 TYPE 0
+1 NOTE Retrouver le baptême de Marie Louise Dunn autour du 25 Mar 1811 afin
+2 CONC  d'identifier ses parents. Vérifier ensuite les événements
+2 CONC  matrimoniaux de 1826 et 1852 actuellement associés à sa fiche dans la
+2 CONC  région de Gaspé, en déterminant s'ils concernent bien la même
+2 CONC  personne et en documentant toute contradiction.
+1 STAT NEW
+1 PRTY 2
+0 @T213@ _TASK
+1 DESC T213 - Gee, Sarah - Identifier son origine, son mariage avec John Gee et ses parents
+1 TYPE 0
+1 NOTE Rechercher l'origine de Sarah Gee, née vers 1790, ainsi que son
+2 CONC  mariage avec John Gee. Prioriser les registres britanniques
+2 CONC  correspondant aux lieux révélés par les enfants et autres sources
+2 CONC  familiales. Identifier ses parents seulement lorsqu'une chaîne
+2 CONC  documentaire suffisante relie le bon couple aux événements connus.
+1 STAT NEW
+1 PRTY 2
+0 @T214@ _TASK
+1 DESC T214 - Filion/Fellion, Pierre Marie / Roy, Marie Louise - Exploiter le mariage du 4 Nov 1817 à Saint-Constant pour prolonger les deux lignées
+1 TYPE 0
+1 NOTE Retrouver et transcrire l'acte original du mariage de Pierre Marie
+2 CONC  Filion/Fellion et Marie Louise Roy célébré le 4 Nov 1817 à
+2 CONC  Saint-Constant. Identifier leurs parents et vérifier leurs baptêmes
+2 CONC  avant d'ajouter une génération. Effectuer cette recherche
+2 CONC  indépendamment du nettoyage des doublons Filion/Fellion, qui demeure
+2 CONC  sous la responsabilité de l'utilisateur.
+1 STAT NEW
+1 PRTY 3
+0 @T215@ _TASK
+1 DESC T215 - Arbre complet - Cartographier les fins de branche nées entre 1750 et 1900 dont les parents ne sont pas identifiés
+1 TYPE 0
+1 NOTE Analyser l'ensemble de l'arbre et dresser la liste des individus nés
+2 CONC  entre 1750 et 1900 qui constituent actuellement une fin de branche
+2 CONC  faute de parents identifiés. Classer les cas selon la probabilité de
+2 CONC  retrouver rapidement un mariage ou un baptême primaire et proposer
+2 CONC  l'ordre des recherches, sans créer de nouvelles personnes à ce stade.
+1 STAT NEW
+1 PRTY 3
+0 @T216@ _TASK
+1 DESC T216 - Arbre complet - Vérifier les liens parent-enfant des lignées ancestrales principales avec une preuve nominative
+1 TYPE 0
+1 NOTE Auditer les lignées ancestrales principales afin de repérer les liens
+2 CONC  parent-enfant qui ne disposent pas encore d'une source nominative
+2 CONC  directe ou suffisamment solide. Pour chaque génération douteuse,
+2 CONC  rechercher en priorité baptême, mariage, sépulture, recensement ou
+2 CONC  acte notarié permettant de démontrer la filiation. Cette tâche ne
+2 CONC  porte pas sur les doublons.
+1 STAT NEW
+1 PRTY 3
+0 @T217@ _TASK
+1 DESC T217 - Branches anciennes Prud'homme, Gadois et apparentées - Réévaluer les filiations antérieures à 1650 avec des sources historiques solides
+1 TYPE 0
+1 NOTE Réexaminer les filiations antérieures à 1650 dans les branches
+2 CONC  Prud'homme, Gadois et apparentées. Distinguer les liens démontrés par
+2 CONC  des documents ou travaux historiques reconnus des filiations reprises
+2 CONC  uniquement d'arbres secondaires. Marquer clairement les hypothèses,
+2 CONC  contradictions et générations non démontrées avant toute correction
+2 CONC  de l'arbre.
+1 STAT NEW
+1 PRTY 3
+0 @T218@ _TASK
+1 DESC T218 - Arbre complet - Rechercher systématiquement les actes de mariage manquants des couples qui constituent une fin de branche
+1 TYPE 0
+1 NOTE Identifier les couples situés aux extrémités de l'arbre pour lesquels
+2 CONC  aucun acte de mariage primaire n'est actuellement cité. Rechercher
+2 CONC  ces mariages en priorité, car ils sont susceptibles de nommer les
+2 CONC  parents des deux époux et d'ouvrir la génération précédente. Classer
+2 CONC  les recherches par accessibilité des registres et qualité attendue de
+2 CONC  la preuve.
+1 STAT NEW
+1 PRTY 3
+0 TRLR
